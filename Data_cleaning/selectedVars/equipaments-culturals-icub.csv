@@ -1,0 +1,348 @@
+Codi_Barri,Nom_Barri,Id_Equipament,Nom_Equipament,Tipus_Equipament
+1,el Raval,453,23Robadors ,Sales de música en viu
+62,el Congrés i els Indians,408,Agrupació Congrés,Ateneus
+4,"Sant Pere, Santa Caterina i la Ribera",478,Agrupació Cultural Folklòrica Barcelona,Ateneus
+31,la Vila de Gràcia,394,Almo2bar,Sales de música en viu
+31,la Vila de Gràcia,393,Almodobar,Sales de música en viu
+33,el Baix Guinardó,332,AMDB. Arxiu Municipal Districte d'Horta-Guinardó,Arxius de districte
+1,el Raval,323,AMDB. Arxiu Municipal Districte de Ciutat Vella,Arxius de districte
+28,Vallcarca i els Penitents,324,AMDB. Arxiu Municipal Districte de Gràcia,Arxius de districte
+10,Sant Antoni,325,AMDB. Arxiu Municipal Districte de l'Eixample,Arxius de districte
+19,les Corts,326,AMDB. Arxiu Municipal Districte de les Corts,Arxius de districte
+48,la Guineueta,327,AMDB. Arxiu Municipal Districte de Nou Barris,Arxius de districte
+60,Sant Andreu,328,AMDB. Arxiu Municipal Districte de Sant Andreu,Arxius de districte
+67,la Vila Olímpica del Poblenou,329,AMDB. Arxiu Municipal Districte de Sant Martí,Arxius de districte
+15,Hostafrancs,330,AMDB. Arxiu Municipal Districte de Sants-MontjuÏc,Arxius de districte
+23,Sarrià,331,AMDB. Arxiu Municipal Districte Sarrià-St Gervasi,Arxius de districte
+8,l'Antiga Esquerra de l'Eixample,479,Amics de la Unesco de Barcelona,Ateneus
+4,"Sant Pere, Santa Caterina i la Ribera",137,Antic Teatre,Sales d'arts escèniques
+11,el Poble Sec,182,Apolo,Sales de música en viu
+9,la Nova Esquerra de l'Eixample,245,Aquitània Teatre,Sales d'arts escèniques
+9,la Nova Esquerra de l'Eixample,334,Arenas de Barcelona Multicines 3D,Cinemes
+8,l'Antiga Esquerra de l'Eixample,364,Aribau Multicines,Cinemes
+66,el Parc i la Llacuna del Poblenou,74,Arxiu de la Corona d'Aragó,Arxius i biblioteques patrimonials
+4,"Sant Pere, Santa Caterina i la Ribera",25,Arxiu Fotogràfic de Barcelona,Arxius i biblioteques patrimonials
+2,el Barri Gòtic,24,Arxiu Històric de la Ciutat de Barcelona,Arxius i biblioteques patrimonials
+35,el Guinardó,367,Arxiu Històric Hospital de la Sta. Creu i Sant Pau,Arxius i biblioteques patrimonials
+2,el Barri Gòtic,72,Arxiu Municipal Contemporani de Barcelona,Arxius i biblioteques patrimonials
+2,el Barri Gòtic,409,Ateneu Barcelonès,Ateneus
+65,el Clot,410,Ateneu del Clot,Ateneus
+43,Horta,411,Ateneu Hortenc,Ateneus
+53,la Trinitat Nova,302,Ateneu Popular 9 Barris,Fàbriques de Creació
+18,Sants,414,Centre Catòlic de Sants,Ateneus
+27,el Putxet i el Farró,336,Balmes Multicines,Cinemes
+6,la Sagrada Família,52,Basílica de la Sagrada Família,Espais d'interès patrimonial
+3,la Barceloneta,77,Biblioteca Barceloneta - La Fraternitat,Biblioteques de Barcelona
+59,el Bon Pastor,105,Biblioteca Bon Pastor - Josefina Castellví,Biblioteques de Barcelona
+64,el Camp de l'Arpa del Clot,224,Biblioteca Camp de l'Arpa - Caterina Albert,Biblioteques de Barcelona
+49,Canyelles,100,Biblioteca Canyelles - M Àngels Rivas,Biblioteques de Barcelona
+24,les Tres Torres,92,Biblioteca Clarà,Biblioteques de Barcelona
+22,"Vallvidrera, el Tibidabo i les Planes",93,Biblioteca Collserola - Josep Miracle,Biblioteques de Barcelona
+1,el Raval,115,Biblioteca de Catalunya,Arxius i biblioteques patrimonials
+37,el Carmel,96,Biblioteca El Carmel - Juan Marsé,Biblioteques de Barcelona
+66,el Parc i la Llacuna del Poblenou,239,Biblioteca El Clot - Josep Benet,Biblioteques de Barcelona
+9,la Nova Esquerra de l'Eixample,82,Biblioteca Esquerra de l'Eixample - Agustí Centelles,Biblioteques de Barcelona
+5,el Fort Pienc,81,Biblioteca Fort Pienc - Ana M. Moix,Biblioteques de Barcelona
+13,la Marina de Port,87,Biblioteca Francesc Candel,Biblioteques de Barcelona
+4,"Sant Pere, Santa Caterina i la Ribera",78,Biblioteca Francesca Bonnemaison,Biblioteques de Barcelona
+72,Sant Martí de Provençals,470,Biblioteca Gabriel García Márquez,Biblioteques de Barcelona
+2,el Barri Gòtic,79,Biblioteca Gòtic - Andreu Nin,Biblioteques de Barcelona
+33,el Baix Guinardó,97,Biblioteca Guinardó - Mercè Rodoreda,Biblioteques de Barcelona
+43,Horta,98,Biblioteca Horta - Can Mariner,Biblioteques de Barcelona
+60,Sant Andreu,107,Biblioteca Ignasi Iglésias - Can Fabra,Biblioteques de Barcelona
+28,Vallcarca i els Penitents,94,Biblioteca Jaume Fuster,Biblioteques de Barcelona
+9,la Nova Esquerra de l'Eixample,83,Biblioteca Joan Miró,Biblioteques de Barcelona
+61,la Sagrera,108,Biblioteca La Sagrera - Marina Clotet,Biblioteques de Barcelona
+20,la Maternitat i Sant Ramon,91,Biblioteca Les Corts - Miquel Llongueras,Biblioteques de Barcelona
+50,les Roquetes,101,Biblioteca Les Roquetes - Rafa Juncadella,Biblioteques de Barcelona
+40,Montbau,99,Biblioteca Montbau - Albert Pérez Baró,Biblioteques de Barcelona
+19,les Corts,403,Biblioteca Montserrat Abelló,Biblioteques de Barcelona
+48,la Guineueta,102,Biblioteca Nou Barris - Aurora Díaz Plaja ,Biblioteques de Barcelona
+11,el Poble Sec,88,Biblioteca Poble Sec - Francesc Boix,Biblioteques de Barcelona
+68,el Poblenou,109,Biblioteca Poblenou - Manuel Arranz,Biblioteques de Barcelona
+5,el Fort Pienc,113,Biblioteca Pública Arús,Arxius i biblioteques patrimonials
+70,el Besòs i el Maresme,110,Biblioteca Ramon d'Alòs-Moner,Biblioteques de Barcelona
+6,la Sagrada Família,84,Biblioteca Sagrada Família - J. M. Ainaud de Lasarte,Biblioteques de Barcelona
+10,Sant Antoni,85,Biblioteca Sant Antoni - Joan Oliver,Biblioteques de Barcelona
+25,Sant Gervasi - la Bonanova,365,Biblioteca Sant Gervasi - Joan Maragall,Biblioteques de Barcelona
+1,el Raval,80,Biblioteca Sant Pau - Santa Creu,Biblioteques de Barcelona
+7,la Dreta de l'Eixample,86,Biblioteca Sofia Barat,Biblioteques de Barcelona
+57,la Trinitat Vella,210,Biblioteca Trinitat Vella - José Barbero,Biblioteques de Barcelona
+28,Vallcarca i els Penitents,195,Biblioteca Vallcarca i els Penitents - M. Antonieta Cot,Biblioteques de Barcelona
+18,Sants,89,Biblioteca Vapor Vell,Biblioteques de Barcelona
+31,la Vila de Gràcia,95,Biblioteca Vila de Gràcia - Rosa M. Arquimbau,Biblioteques de Barcelona
+44,Vilapicina i la Torre Llobeta,103,Biblioteca Vilapicina i la Torre Llobeta - Carmen Laforet,Biblioteques de Barcelona
+67,la Vila Olímpica del Poblenou,112,Biblioteca Xavier Benguerel,Biblioteques de Barcelona
+54,Torre Baró,104,Biblioteca Zona Nord - Mària Sánchez,Biblioteques de Barcelona
+19,les Corts,168,Bikini Barcelona,Sales de música en viu
+26,Sant Gervasi - Galvany,337,Boliche Cinemes,Cinemes
+31,la Vila de Gràcia,338,Bosque Multicines,Cinemes
+14,la Font de la Guatlla,60,CaixaForum,Centres d'exposicions
+66,el Parc i la Llacuna del Poblenou,39,Can Framis. Fundació Vila Casas,Museus i col·leccions
+7,la Dreta de l'Eixample,448,Casa Amatller,Espais d'interès patrimonial
+7,la Dreta de l'Eixample,55,Casa Batlló,Espais d'interès patrimonial
+30,la Salut,53,Casa Museu Gaudí,Espais d'interès patrimonial
+31,la Vila de Gràcia,437,Casa Vicens,Espais d'interès patrimonial
+60,Sant Andreu,412,Casal Catòlic de Sant Andreu,Ateneus
+68,el Poblenou,413,Casino l'Aliança del Poblenou,Ateneus
+11,el Poble Sec,54,Castell de Montjuïc,Museus i col·leccions
+66,el Parc i la Llacuna del Poblenou,452,Ceferino,Sales de música en viu
+31,la Vila de Gràcia,430,Centre Artesà Tradicionàrius. CAT,Sales de música en viu
+3,la Barceloneta,187,Centre Cívic Barceloneta,Centres cívics
+58,Baró de Viver,291,Centre Cívic Baró de Viver,Centres cívics
+70,el Besòs i el Maresme,298,Centre Cívic Besòs,Centres cívics
+59,el Bon Pastor,292,Centre Cívic Bon Pastor,Centres cívics
+46,el Turó de la Peira,287,Centre Cívic Can Basté,Centres cívics
+26,Sant Gervasi - Galvany,272,Centre Cívic Can Castelló,Centres cívics
+62,el Congrés i els Indians,429,Centre Cívic Can Clariana Cultural,Centres cívics
+19,les Corts,268,Centre Cívic Can Deu,Centres cívics
+68,el Poblenou,297,Centre Cívic Can Felipa,Centres cívics
+45,Porta,288,Centre Cívic Can Verdaguer,Centres cívics
+13,la Marina de Port,261,Centre Cívic Casa del Rellotge,Centres cívics
+39,Sant Genís dels Agudells,282,Centre Cívic Casa Groga,Centres cívics
+23,Sarrià,273,Centre Cívic Casa Orlandai,Centres cívics
+15,Hostafrancs,262,Centre Cívic Casinet d'Hostafrancs,Centres cívics
+4,"Sant Pere, Santa Caterina i la Ribera",252,Centre Cívic Convent de Sant Agustí,Centres cívics
+10,Sant Antoni,257,Centre Cívic Cotxeres Borrell,Centres cívics
+18,Sants,263,Centre Cívic Cotxeres de Sants,Centres cívics
+66,el Parc i la Llacuna del Poblenou,299,Centre Cívic del Parc - Sandaru,Centres cívics
+1,el Raval,253,Centre Cívic Drassanes,Centres cívics
+37,el Carmel,283,Centre Cívic El Carmel,Centres cívics
+29,el Coll,280,Centre Cívic El Coll - La Bruguera,Centres cívics
+11,el Poble Sec,264,Centre Cívic El Sortidor,Centres cívics
+14,la Font de la Guatlla,265,Centre Cívic Font de la Guatlla,Centres cívics
+5,el Fort Pienc,255,Centre Cívic Fort Pienc,Centres cívics
+9,la Nova Esquerra de l'Eixample,256,Centre Cívic Golferichs,Centres cívics
+35,el Guinardó,284,Centre Cívic Guinardó,Centres cívics
+20,la Maternitat i Sant Ramon,269,Centre Cívic Joan Oliver - Pere Quart,Centres cívics
+20,la Maternitat i Sant Ramon,271,Centre Cívic Josep M. Trias i Peitx - Riera Blanca,Centres cívics
+22,"Vallvidrera, el Tibidabo i les Planes",275,Centre Cívic l'Elèctric,Centres cívics
+13,la Marina de Port,266,Centre Cívic La Cadena,Centres cívics
+7,la Dreta de l'Eixample,258,Centre Cívic La Casa Elizalde,Centres cívics
+61,la Sagrera,293,Centre Cívic La Sagrera,Centres cívics
+32,el Camp d'en Grassot i Gràcia Nova,281,Centre Cívic La Sedeta,Centres cívics
+43,Horta,286,Centre Cívic Matas i Ramis,Centres cívics
+63,Navas,294,Centre Cívic Navas,Centres cívics
+2,el Barri Gòtic,254,Centre Cívic Pati Llimona,Centres cívics
+25,Sant Gervasi - la Bonanova,276,Centre Cívic Pere Pruna,Centres cívics
+6,la Sagrada Família,259,Centre Cívic Sagrada Família,Centres cívics
+60,Sant Andreu,295,Centre Cívic Sant Andreu,Centres cívics
+72,Sant Martí de Provençals,300,Centre Cívic Sant Martí,Centres cívics
+23,Sarrià,277,Centre Cívic Sarrià,Centres cívics
+38,la Teixonera,285,Centre Cívic Teixonera,Centres cívics
+19,les Corts,270,Centre Cívic Tomasa Cuevas - Les Corts,Centres cívics
+44,Vilapicina i la Torre Llobeta,289,Centre Cívic Torre Llobeta,Centres cívics
+57,la Trinitat Vella,296,Centre Cívic Trinitat Vella,Centres cívics
+9,la Nova Esquerra de l'Eixample,260,Centre Cívic Urgell,Centres cívics
+22,"Vallvidrera, el Tibidabo i les Planes",278,Centre Cívic Vallvidrera Vázquez Montalbán,Centres cívics
+2,el Barri Gòtic,425,Reial Cercle Artístic,Ateneus
+25,Sant Gervasi - la Bonanova,279,Centre Cívic Vil·la Florida,Centres cívics
+27,el Putxet i el Farró,447,Centre Cívic Vil·la Urània,Centres cívics
+55,Ciutat Meridiana,290,Centre Cívic Zona Nord,Centres cívics
+7,la Dreta de l'Eixample,449,Centre Comarcal Lleidatà,Ateneus
+11,el Poble Sec,267,Centre Cultural Albareda,Centres cívics
+60,Sant Andreu,438,Centre Cultural els Catalanistes,Ateneus
+51,Verdun,428,Centre Cultural Els Propis,Ateneus
+65,el Clot,301,Centre Cultural la Farinera del Clot,Centres cívics
+23,Sarrià,415,Centre Cultural Sant Vicenç de Sarrià,Ateneus
+68,el Poblenou,461,Centre d'Imatgeria Festiva de Sant Martí - Can Sal,Cases de la Festa
+1,el Raval,57,Centre de Cultura Contemporània de Barcelona. CCCB,Centres d'exposicions
+60,Sant Andreu,460,Centre de Cultura Popular de Sant Andreu,Cases de la Festa
+11,el Poble Sec,250,Centre de Doc. i Museu de les Arts Escèniques,Arxius i biblioteques patrimonials
+68,el Poblenou,416,Centre Moral i Cultural del Poblenou,Ateneus
+31,la Vila de Gràcia,417,Centre Moral i Instructiu de Gràcia,Ateneus
+4,"Sant Pere, Santa Caterina i la Ribera",418,Centre Sant Pere 1892,Ateneus
+31,la Vila de Gràcia,419,Cercle Catòlic de Gràcia,Ateneus
+2,el Barri Gòtic,339,Cinema Maldà,Cinemes
+7,la Dreta de l'Eixample,340,Cinemes Girona,Cinemes
+26,Sant Gervasi - Galvany,343,Cinesa Diagonal,Cinemes
+69,Diagonal Mar i el Front Marítim del Poblenou,344,Cinesa Diagonal Mar,Cinemes
+59,el Bon Pastor,342,Cinesa La Maquinista,Cinemes
+45,Porta,471,Cinesa Som Multiespai,Cinemes
+7,la Dreta de l'Eixample,123,Coliseum,Sales d'arts escèniques
+25,Sant Gervasi - la Bonanova,47,CosmoCaixa,Museus i col·leccions
+11,el Poble Sec,457,Dau al Sec,Sales d'arts escèniques
+60,Sant Andreu,200,DHub. Casa Bloc,Centres d'exposicions
+4,"Sant Pere, Santa Caterina i la Ribera",396,Diobar,Sales de música en viu
+4,"Sant Pere, Santa Caterina i la Ribera",397,Euskal Etxea,Sales de música en viu
+60,Sant Andreu,226,Fabra i Coats - Centre d'Art Contemporani,Centres d'exposicions
+66,el Parc i la Llacuna del Poblenou,4,Disseny Hub Barcelona. DHub,Centres d'exposicions
+8,l'Antiga Esquerra de l'Eixample,125,Eixample Teatre,Sales d'arts escèniques
+4,"Sant Pere, Santa Caterina i la Ribera",238,El Born Centre de Cultura i Memòria,Museus i col·leccions
+2,el Barri Gòtic,140,El Maldà,Sales d'arts escèniques
+11,el Poble Sec,124,El Molino,Sales de música en viu
+2,el Barri Gòtic,443,El Paraigua,Sales de música en viu
+11,el Poble Sec,135,El Victòria,Sales d'arts escèniques
+31,la Vila de Gràcia,462,Espai Albert Musons,Cases de la Festa
+11,el Poble Sec,386,Espai Bombers Parc de la Prevenció,Museus i col·leccions
+11,el Poble Sec,482,Espai Salvadiscos,Sales de música en viu
+31,la Vila de Gràcia,383,Espai Texas,Cinemes
+7,la Dreta de l'Eixample,231,Espais VolART i VolART2. Fundació Vila Casas,Centres d'exposicions
+60,Sant Andreu,303,Fabra i Coats - Fàbrica de Creació,Fàbriques de Creació
+1,el Raval,363,Filmoteca de Catalunya,Cinemes
+43,Horta,420,Foment Hortenc,Ateneus
+64,el Camp de l'Arpa del Clot,421,Foment Martinenc,Ateneus
+1,el Raval,432,Freedonia,Sales de música en viu
+4,"Sant Pere, Santa Caterina i la Ribera",232,Fundació Foto Colectania,Museus i col·leccions
+11,el Poble Sec,38,Fundació Fran Daurel,Museus i col·leccions
+4,"Sant Pere, Santa Caterina i la Ribera",307,Fundació Joan Brossa - Centre de les Arts Lliures,Fàbriques de Creació
+11,el Poble Sec,29,Fundació Joan Miró,Museus i col·leccions
+26,Sant Gervasi - Galvany,494,Fundació Julio Muñoz Ramonet,Espais d'interès patrimonial
+20,la Maternitat i Sant Ramon,40,Fundació Suñol,Museus i col·leccions
+7,la Dreta de l'Eixample,483,Garage 442,Sales de música en viu
+26,Sant Gervasi - Galvany,484,Gatsby,Sales de música en viu
+66,el Parc i la Llacuna del Poblenou,349,Glòries Multicines,Cinemes
+31,la Vila de Gràcia,136,Golem'S,Sales d'arts escèniques
+24,les Tres Torres,350,Gran Sarrià Multicinemes,Cinemes
+1,el Raval,191,Gran Teatre del Liceu,Grans auditoris
+13,la Marina de Port,241,Graner,Fàbriques de Creació
+4,"Sant Pere, Santa Caterina i la Ribera",485,Guzzo,Sales de música en viu
+71,Provençals del Poblenou,305,Hangar,Fàbriques de Creació
+2,el Barri Gòtic,169,Harlem Jazz Club,Sales de música en viu
+2,el Barri Gòtic,229,Hash Marihuana Cáñamo & Hemp Museum,Museus i col·leccions
+17,Sants - Badal,496,Heartbreak Hotel,Sales d'arts escèniques
+31,la Vila de Gràcia,170,Heliogàbal,Sales de música en viu
+68,el Poblenou,474,Ideal - Centre d'Arts Digitals,Centres d'exposicions
+2,el Barri Gòtic,181,Jamboree,Sales de música en viu
+1,el Raval,171,Jazz Sí Club,Sales de música en viu
+31,la Vila de Gràcia,126,Jove Teatre Regina,Sales d'arts escèniques
+67,la Vila Olímpica del Poblenou,456,KBr Fundación MAPFRE,Centres d'exposicions
+2,el Barri Gòtic,48,L'Aquàrium,Museus i col·leccions
+5,el Fort Pienc,193,L'Auditori,Grans auditoris
+31,la Vila de Gràcia,246,L'Autèntica,Sales d'arts escèniques
+31,la Vila de Gràcia,435,La Badabadoc,Sales d'arts escèniques
+19,les Corts,385,La Caldera,Fàbriques de Creació
+1,el Raval,56,La Capella,Centres d'exposicions
+4,"Sant Pere, Santa Caterina i la Ribera",466,La Casa de la Sardana,Cases de la Festa
+2,el Barri Gòtic,463,La Casa dels Entremesos,Cases de la Festa
+70,el Besòs i el Maresme,306,La Central del Circ,Fàbriques de Creació
+18,Sants,486,La Deskomunal,Sales de música en viu
+71,Provençals del Poblenou,304,La Escocesa,Fàbriques de Creació
+27,el Putxet i el Farró,405,La Gleva,Sales d'arts escèniques
+9,la Nova Esquerra de l'Eixample,493,La Model Espai Memorial,Espais d'interès patrimonial
+67,la Vila Olímpica del Poblenou,445,La Nau,Sales de música en viu
+31,la Vila de Gràcia,469,La Off Barcelona,Sales d'arts escèniques
+7,la Dreta de l'Eixample,61,La Pedrera,Espais d'interès patrimonial
+4,"Sant Pere, Santa Caterina i la Ribera",214,La Puntual,Sales d'arts escèniques
+31,la Vila de Gràcia,398,La Sonora de Gràcia,Sales de música en viu
+61,la Sagrera,468,La Torre de la Sagrera,Cases de la Festa
+8,l'Antiga Esquerra de l'Eixample,127,La Villarroel,Sales d'arts escèniques
+31,la Vila de Gràcia,464,La Violeta de Gràcia,Cases de la Festa
+1,el Raval,26,La Virreina Centre de la Imatge,Centres d'exposicions
+11,el Poble Sec,451,Laut,Sales de música en viu
+1,el Raval,399,Les Enfants,Sales de música en viu
+43,Horta,423,Lluïsos d'Horta,Ateneus
+31,la Vila de Gràcia,422,Lluïsos de Gràcia,Ateneus
+26,Sant Gervasi - Galvany,172,Luz de Gas,Sales de música en viu
+2,el Barri Gòtic,243,Marula Cafè,Sales de música en viu
+11,el Poble Sec,23,MCNB Jardí Botànic de Barcelona,Museus i col·leccions
+11,el Poble Sec,477,MCNB Jardí Botànic Històric,Museus i col·leccions
+30,la Salut,12,MUHBA Park Güell. Casa del Guarda,Museus i col·leccions
+11,el Poble Sec,199,Mercat de les Flors,Sales d'arts escèniques
+11,el Poble Sec,450,Meteoro,Sales de música en viu
+7,la Dreta de l'Eixample,219,Milano Jazz Club,Sales de música en viu
+4,"Sant Pere, Santa Caterina i la Ribera",475,Moco Museum Barcelona,Museus i col·leccions
+1,el Raval,173,Moog,Sales de música en viu
+11,el Poble Sec,369,MUEC Parc Montjuïc,Museus i col·leccions
+59,el Bon Pastor,404,MUHBA Bon Pastor,Museus i col·leccions
+53,la Trinitat Nova,188,MUHBA Casa de l'Aigua,Museus i col·leccions
+2,el Barri Gòtic,389,MUHBA Domus Avinyó,Museus i col·leccions
+2,el Barri Gòtic,16,MUHBA Domus de Sant Honorat,Museus i col·leccions
+2,el Barri Gòtic,15,MUHBA El Call,Museus i col·leccions
+60,Sant Andreu,390,MUHBA Fabra i Coats,Museus i col·leccions
+71,Provençals del Poblenou,388,MUHBA Oliva Artés,Museus i col·leccions
+2,el Barri Gòtic,444,MUHBA Porta de Mar,Museus i col·leccions
+11,el Poble Sec,14,MUHBA Refugi 307,Museus i col·leccions
+34,Can Baró,387,MUHBA Turó de la Rovira,Museus i col·leccions
+2,el Barri Gòtic,17,MUHBA Via Sepulcral Romana,Museus i col·leccions
+22,"Vallvidrera, el Tibidabo i les Planes",11,MUHBA Vil·la Joana,Museus i col·leccions
+4,"Sant Pere, Santa Caterina i la Ribera",13,MUHBA. Santa Caterina,Espais d'interès patrimonial
+2,el Barri Gòtic,190,MUHBA. Temple d'August,Espais d'interès patrimonial
+11,el Poble Sec,36,Museu d'Arqueologia de Catalunya,Museus i col·leccions
+1,el Raval,28,Museu d'Art Contemporani de Barcelona. MACBA,Museus i col·leccions
+2,el Barri Gòtic,8,Museu d'Història de Barcelona. MUHBA,Museus i col·leccions
+3,la Barceloneta,37,Museu d'Història de Catalunya,Museus i col·leccions
+2,el Barri Gòtic,45,Museu de Cera,Museus i col·leccions
+11,el Poble Sec,27,Museu Nacional d'Art de Catalunya. MNAC,Museus i col·leccions
+70,el Besòs i el Maresme,19,Museu de Ciències Naturals de Barcelona. MCNB,Museus i col·leccions
+2,el Barri Gòtic,46,Museu de l'Eròtica,Museus i col·leccions
+5,el Fort Pienc,31,Museu de la Música,Museus i col·leccions
+4,"Sant Pere, Santa Caterina i la Ribera",42,Museu de la Xocolata,Museus i col·leccions
+20,la Maternitat i Sant Ramon,44,Museu del Futbol Club Barcelona,Museus i col·leccions
+7,la Dreta de l'Eixample,41,Museu del Modernisme de Barcelona,Museus i col·leccions
+22,"Vallvidrera, el Tibidabo i les Planes",35,Museu dels Autòmats del Tibidabo,Museus i col·leccions
+7,la Dreta de l'Eixample,43,Museu Egipci de Barcelona,Museus i col·leccions
+11,el Poble Sec,370,Museu Etnològic i de Cultures del Món. MUEC,Museus i col·leccions
+4,"Sant Pere, Santa Caterina i la Ribera",227,Museu Europeu d'Art Modern. MEAM,Museus i col·leccions
+2,el Barri Gòtic,2,Museu Frederic Marès,Museus i col·leccions
+1,el Raval,32,Museu Marítim de Barcelona. MMB,Museus i col·leccions
+11,el Poble Sec,33,Museu Olímpic i de l'Esport Joan Antoni Samaranch,Museus i col·leccions
+4,"Sant Pere, Santa Caterina i la Ribera",1,Museu Picasso,Museus i col·leccions
+7,la Dreta de l'Eixample,30,Museu Tàpies,Museus i col·leccions
+61,la Sagrera,141,Nau Ivanow,Fàbriques de Creació
+31,la Vila de Gràcia,441,Nota 79,Sales de música en viu
+65,el Clot,424,Orfeó Martinenc,Ateneus
+4,"Sant Pere, Santa Caterina i la Ribera",194,Palau de la Música Catalana,Grans auditoris
+1,el Raval,51,Palau Güell,Espais d'interès patrimonial
+7,la Dreta de l'Eixample,59,Palau Robert,Centres d'exposicions
+1,el Raval,495,Paral·lel 62,Sales de música en viu
+30,la Salut,382,Park Güell,Espais d'interès patrimonial
+11,el Poble Sec,50,Pavelló Mies van der Rohe,Espais d'interès patrimonial
+6,la Sagrada Família,384,Phenomena,Cinemes
+66,el Parc i la Llacuna del Poblenou,174,Razzmatazz,Sales de música en viu
+35,el Guinardó,368,Recinte Modernista de Sant Pau,Espais d'interès patrimonial
+21,Pedralbes,230,Reial Monestir de Santa Maria de Pedralbes,Museus i col·leccions
+10,Sant Antoni,358,Renoir Floridablanca,Cinemes
+10,Sant Antoni,481,Sala Aquarel·la,Sales d'arts escèniques
+4,"Sant Pere, Santa Caterina i la Ribera",439,Sala Ars Teatre,Sales d'arts escèniques
+7,la Dreta de l'Eixample,217,Sala Atrium,Sales d'arts escèniques
+1,el Raval,492,Sala B,Sales de música en viu
+68,el Poblenou,142,Sala Beckett,Fàbriques de Creació
+68,el Poblenou,401,Sala Bóveda,Sales de música en viu
+7,la Dreta de l'Eixample,220,Sala City Hall,Sales de música en viu
+1,el Raval,374,Sala Fènix,Sales d'arts escèniques
+18,Sants,375,Sala Flyhard,Sales d'arts escèniques
+11,el Poble Sec,400,Sala Plataforma,Sales de música en viu
+18,Sants,458,Sala Taro,Sales de música en viu
+11,el Poble Sec,446,Sala Upload Barcelona (Poble Espanyol),Sales de música en viu
+5,el Fort Pienc,147,Sala Versus Glòries,Sales d'arts escèniques
+1,el Raval,58,Santa Mònica,Centres d'exposicions
+60,Sant Andreu,192,saT! Sant Andreu Teatre,Sales d'arts escèniques
+2,el Barri Gòtic,178,Sidecar Factory Club,Sales de música en viu
+18,Sants,487,Sinestesia,Sales de música en viu
+8,l'Antiga Esquerra de l'Eixample,402,Slow Barcelona,Sales de música en viu
+19,les Corts,426,Societat Coral l'Espiga de Les Corts,Ateneus
+60,Sant Andreu,427,Societat Cultural i Esportiva La Lira,Ateneus
+31,la Vila de Gràcia,442,Soda Acústic,Sales de música en viu
+11,el Poble Sec,488,Tablao de Carmen,Sales de música en viu
+1,el Raval,489,Tablao Flamenco Cordobés,Sales de música en viu
+1,el Raval,491,Taller de Músics 24,Sales de música en viu
+2,el Barri Gòtic,179,Tarantos,Sales de música en viu
+8,l'Antiga Esquerra de l'Eixample,233,Teatre Akadèmia,Sales d'arts escèniques
+11,el Poble Sec,128,Teatre Apolo,Sales d'arts escèniques
+4,"Sant Pere, Santa Caterina i la Ribera",129,Teatre Borràs,Sales d'arts escèniques
+11,el Poble Sec,130,Teatre Condal,Sales d'arts escèniques
+9,la Nova Esquerra de l'Eixample,216,Teatre Cúpula Arenas Barcelona,Sales d'arts escèniques
+1,el Raval,144,Teatre del Raval,Sales d'arts escèniques
+7,la Dreta de l'Eixample,436,Teatre Eòlia,Sales d'arts escèniques
+6,la Sagrada Família,165,Teatre Gaudí Barcelona,Sales d'arts escèniques
+1,el Raval,131,Teatre Goya,Sales d'arts escèniques
+11,el Poble Sec,221,Teatre Grec,Sales d'arts escèniques
+1,el Raval,455,Teatre La Biblioteca,Sales d'arts escèniques
+11,el Poble Sec,204,Teatre Lliure,Sales d'arts escèniques
+31,la Vila de Gràcia,202,Teatre Lliure (Gràcia),Sales d'arts escèniques
+11,el Poble Sec,480,Teatre Metamorfosis,Sales d'arts escèniques
+5,el Fort Pienc,153,Teatre Nacional de Catalunya,Sales d'arts escèniques
+1,el Raval,132,Teatre Poliorama,Sales d'arts escèniques
+1,el Raval,133,Teatre Romea,Sales d'arts escèniques
+1,el Raval,247,Teatre Tantarantana,Fàbriques de Creació
+7,la Dreta de l'Eixample,134,Teatre Tívoli,Sales d'arts escèniques
+31,la Vila de Gràcia,156,Teatreneu,Sales d'arts escèniques
+31,la Vila de Gràcia,356,Verdi Multicines,Cinemes
+31,la Vila de Gràcia,360,Verdi Park,Cinemes
+66,el Parc i la Llacuna del Poblenou,180,Vol,Sales de música en viu
+66,el Parc i la Llacuna del Poblenou,490,Wolf Barcelona,Sales de música en viu
+7,la Dreta de l'Eixample,472,Yelmo Cines Comedia,Cinemes
+67,la Vila Olímpica del Poblenou,361,Yelmo Cines Icària,Cinemes
+4,"Sant Pere, Santa Caterina i la Ribera",34,Zoo de Barcelona,Museus i col·leccions
+15,Hostafrancs,362,Zumzeig Cinecooperativa,Cinemes

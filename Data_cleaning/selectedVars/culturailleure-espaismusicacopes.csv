@@ -1,0 +1,576 @@
+addresses_neighborhood_id,addresses_neighborhood_name,secondary_filters_name,created,modified
+4,"Sant Pere, Santa Caterina i la Ribera",Cocteleries,2018-07-04T14:37:31,2024-09-18T14:04:56.267090
+4,"Sant Pere, Santa Caterina i la Ribera",Xampanyeries,2018-07-04T14:37:31,2024-09-18T14:04:56.267090
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:16:08.756484
+43,Horta,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:40:48.855622
+18,Sants,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:44:13.003683
+7,la Dreta de l'Eixample,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:16:48.959789
+7,la Dreta de l'Eixample,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:16:48.959789
+68,el Poblenou,Discoteques,1996-09-18T00:00:00,2023-10-03T10:41:43.471437
+68,el Poblenou,Sales de festes,1996-09-18T00:00:00,2023-10-03T10:41:43.471437
+18,Sants,Bars i pubs musicals,1987-12-31T00:00:00,2022-09-17T04:34:47.601449
+18,Sants,Bars i pubs musicals,2021-09-16T08:45:06.983105,2021-09-16T08:46:56.902034
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,2022-04-04T12:05:46.297567,2023-10-03T10:14:44.246112
+8,l'Antiga Esquerra de l'Eixample,Karaokes,2022-04-04T12:05:46.297567,2023-10-03T10:14:44.246112
+31,la Vila de Gràcia,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:43:11.560890
+31,la Vila de Gràcia,Discoteques,1996-09-18T00:00:00,2023-10-03T10:43:11.560890
+2,el Barri Gòtic,Bars i pubs musicals,2003-07-08T15:11:19,2022-09-17T06:03:28.352899
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:18:02.488927
+8,l'Antiga Esquerra de l'Eixample,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:18:02.488927
+8,l'Antiga Esquerra de l'Eixample,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:18:02.488927
+7,la Dreta de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:17:19.697496
+8,l'Antiga Esquerra de l'Eixample,Cocteleries,2018-09-17T13:23:32,2022-01-07T09:05:41.894981
+8,l'Antiga Esquerra de l'Eixample,Xampanyeries,2018-09-17T13:23:32,2022-01-07T09:05:41.894981
+8,l'Antiga Esquerra de l'Eixample,Restaurants,2018-09-17T13:23:32,2022-01-07T09:05:41.894981
+7,la Dreta de l'Eixample,Bars i pubs musicals,1997-11-06T00:00:00,2024-09-18T13:43:02.323899
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:17:42.297064
+8,l'Antiga Esquerra de l'Eixample,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:17:42.297064
+8,l'Antiga Esquerra de l'Eixample,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:17:42.297064
+8,l'Antiga Esquerra de l'Eixample,Restaurants,1996-09-18T00:00:00,2023-10-03T10:17:42.297064
+4,"Sant Pere, Santa Caterina i la Ribera",Bars i pubs musicals,2018-06-08T11:00:09,2022-09-17T09:20:58.113599
+2,el Barri Gòtic,Cocteleries,2018-06-27T09:54:44,2024-09-19T09:56:07.593447
+2,el Barri Gòtic,Xampanyeries,2018-06-27T09:54:44,2024-09-19T09:56:07.593447
+2,el Barri Gòtic,Restaurants,2018-06-27T09:54:44,2024-09-19T09:56:07.593447
+18,Sants,Discoteques,1996-12-24T00:00:00,2022-09-17T05:27:35.832918
+11,el Poble-sec,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:40:51.973687
+11,el Poble-sec,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:40:51.973687
+11,el Poble-sec,Discoteques,1996-09-18T00:00:00,2023-10-03T10:40:51.973687
+11,el Poble-sec,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:40:51.973687
+11,el Poble-sec,Restaurants,1996-09-18T00:00:00,2023-10-03T10:40:51.973687
+20,la Maternitat i Sant Ramon,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:42:54.883564
+1,el Raval,Bars i pubs musicals,2003-05-20T11:49:08,2022-09-17T06:02:10.166383
+7,la Dreta de l'Eixample,Karaokes,2018-07-19T09:44:15,2022-09-17T10:51:21.247515
+7,la Dreta de l'Eixample,Restaurants,2018-07-19T09:44:15,2022-09-17T10:51:21.247515
+6,la Sagrada Família,Bars i pubs musicals,1997-04-29T00:00:00,2022-09-17T05:31:28.367113
+1,el Raval,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:03:18.433251
+7,la Dreta de l'Eixample,Discoteques,1999-07-01T00:00:00,2023-09-27T11:01:42.512737
+8,l'Antiga Esquerra de l'Eixample,Discoteques,1996-09-18T00:00:00,2023-10-03T10:17:07.762842
+4,"Sant Pere, Santa Caterina i la Ribera",Bars i pubs musicals,1998-08-26T00:00:00,2022-09-17T05:42:30.348476
+18,Sants,Discoteques,1996-09-18T00:00:00,2023-10-03T10:39:49.153444
+18,Sants,Karaokes,1996-09-18T00:00:00,2023-10-03T10:39:49.153444
+15,Hostafrancs,Bars i pubs musicals,2024-02-26T09:31:46.996269,2024-02-26T09:41:51.452271
+15,Hostafrancs,Discoteques,2024-02-26T09:31:46.996269,2024-02-26T09:41:51.452271
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:17:07.762842
+7,la Dreta de l'Eixample,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:16:03.628697
+7,la Dreta de l'Eixample,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:16:03.628697
+7,la Dreta de l'Eixample,Restaurants,1996-09-18T00:00:00,2023-10-03T10:16:03.628697
+11,el Poble-sec,Bars i pubs musicals,2003-12-15T18:15:31,2022-09-17T06:06:54.221438
+2,el Barri Gòtic,Bars i pubs musicals,1990-12-20T00:00:00,2022-09-17T04:11:24.449706
+5,el Fort Pienc,Cocteleries,1998-03-28T00:00:00,2023-10-25T09:12:07.090426
+5,el Fort Pienc,Xampanyeries,1998-03-28T00:00:00,2023-10-25T09:12:07.090426
+5,el Fort Pienc,Restaurants,1998-03-28T00:00:00,2023-10-25T09:12:07.090426
+19,les Corts,Bars i pubs musicals,1988-04-05T00:00:00,2022-09-17T04:36:58.266575
+66,el Parc i la Llacuna del Poblenou,Bars i pubs musicals,2018-07-23T11:06:37,2022-09-17T10:51:30.125804
+66,el Parc i la Llacuna del Poblenou,Discoteques,2018-07-23T11:06:37,2022-09-17T10:51:30.125804
+7,la Dreta de l'Eixample,Cocteleries,1998-04-18T00:00:00,2023-10-03T10:15:17.286186
+7,la Dreta de l'Eixample,Xampanyeries,1998-04-18T00:00:00,2023-10-03T10:15:17.286186
+2,el Barri Gòtic,Restaurants,2015-02-13T17:27:52,2022-09-17T08:14:10.264939
+7,la Dreta de l'Eixample,Restaurants,1998-04-18T00:00:00,2023-10-03T10:15:17.286186
+7,la Dreta de l'Eixample,Bars i pubs musicals,1987-02-17T00:00:00,2022-09-17T04:29:01.848355
+7,la Dreta de l'Eixample,Discoteques,1987-02-17T00:00:00,2022-09-17T04:29:01.848355
+26,Sant Gervasi - Galvany,Discoteques,1996-09-17T00:00:00,2023-10-03T10:45:36.871064
+26,Sant Gervasi - Galvany,Salons de ball,1996-09-17T00:00:00,2023-10-03T10:45:36.871064
+1,el Raval,Bars i pubs musicals,1998-03-28T00:00:00,2023-10-03T10:02:43.974203
+60,Sant Andreu,Bars i pubs musicals,2019-05-21T11:41:52,2022-09-17T11:03:33.747976
+7,la Dreta de l'Eixample,Bars i pubs musicals,2018-02-06T14:13:09,2022-09-17T09:12:29.853457
+8,l'Antiga Esquerra de l'Eixample,Cocteleries,2022-06-27T11:31:20.177904,2024-10-29T13:46:51.775290
+8,l'Antiga Esquerra de l'Eixample,Xampanyeries,2022-06-27T11:31:20.177904,2024-10-29T13:46:51.775290
+8,l'Antiga Esquerra de l'Eixample,Restaurants,2022-06-27T11:31:20.177904,2024-10-29T13:46:51.775290
+7,la Dreta de l'Eixample,Bars i pubs musicals,2007-08-03T10:52:22,2022-09-17T06:50:23.630915
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,2018-06-01T11:02:00,2022-09-17T09:19:48.095174
+19,les Corts,Bars i pubs musicals,2018-02-06T14:03:48,2022-09-17T09:12:29.955355
+67,la Vila Olímpica del Poblenou,Bars i pubs musicals,2007-10-03T12:54:27,2022-09-17T06:52:38.226782
+67,la Vila Olímpica del Poblenou,Discoteques,2007-10-03T12:54:27,2022-09-17T06:52:38.226782
+31,la Vila de Gràcia,Cocteleries,2018-07-04T13:19:56,2024-09-18T14:50:39.277694
+31,la Vila de Gràcia,Xampanyeries,2018-07-04T13:19:56,2024-09-18T14:50:39.277694
+2,el Barri Gòtic,Bars i pubs musicals,2015-02-13T17:27:52,2022-09-17T08:14:10.264939
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,2018-07-24T14:03:13,2022-09-17T10:51:56.560002
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,2018-07-24T14:03:13,2022-09-17T10:51:56.406315
+1,el Raval,Bars i pubs musicals,2016-06-22T10:34:08,2022-09-17T08:41:54.051181
+1,el Raval,Restaurants,2016-06-22T10:34:08,2022-09-17T08:41:54.051181
+26,Sant Gervasi - Galvany,Discoteques,2019-07-24T11:48:40,2022-09-17T11:06:08.734790
+1,el Raval,Bars i pubs musicals,2019-06-03T15:38:28,2024-06-14T09:39:04.449374
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,2018-05-25T14:40:42,2022-09-17T09:18:38.287548
+7,la Dreta de l'Eixample,Bars i pubs musicals,2018-05-28T10:39:41,2021-05-28T14:38:29.924310
+7,la Dreta de l'Eixample,Cocteleries,2018-05-28T10:39:41,2021-05-28T14:38:29.924310
+7,la Dreta de l'Eixample,Xampanyeries,2018-05-28T10:39:41,2021-05-28T14:38:29.924310
+26,Sant Gervasi - Galvany,Bars i pubs musicals,1996-09-17T00:00:00,2023-10-03T10:45:03.162614
+7,la Dreta de l'Eixample,Cocteleries,2022-01-07T09:03:49.740496,2022-01-07T09:04:04.905337
+7,la Dreta de l'Eixample,Xampanyeries,2022-01-07T09:03:49.740496,2022-01-07T09:04:04.905337
+26,Sant Gervasi - Galvany,Bars i pubs musicals,2022-04-04T12:13:25.661639,2023-10-03T10:36:41.075146
+26,Sant Gervasi - Galvany,Karaokes,2022-04-04T12:13:25.661639,2023-10-03T10:36:41.075146
+11,el Poble-sec,Bars i pubs musicals,2003-07-08T12:59:46,2022-09-17T06:03:31.078702
+11,el Poble-sec,Restaurants,2003-07-08T12:59:46,2022-09-17T06:03:31.078702
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1999-01-29T00:00:00,2022-09-17T05:48:29.276269
+43,Horta,Discoteques,1999-04-21T00:00:00,2022-09-17T05:50:54.875826
+3,la Barceloneta,Discoteques,2007-11-02T14:18:43,2024-09-23T10:35:59.989430
+3,la Barceloneta,Restaurants,2007-11-02T14:18:43,2024-09-23T10:35:59.989430
+8,l'Antiga Esquerra de l'Eixample,Discoteques,1999-12-16T00:00:00,2022-09-17T05:55:47.474805
+11,el Poble-sec,Bars i pubs musicals,1995-06-20T00:00:00,2021-05-28T14:37:35.340986
+11,el Poble-sec,Cocteleries,1995-06-20T00:00:00,2021-05-28T14:37:35.340986
+11,el Poble-sec,Xampanyeries,1995-06-20T00:00:00,2021-05-28T14:37:35.340986
+2,el Barri Gòtic,Bars i pubs musicals,2010-11-02T17:17:31,2022-09-17T07:26:46.893361
+1,el Raval,Bars i pubs musicals,2006-07-19T12:45:22,2021-05-28T14:37:51.159343
+1,el Raval,Cocteleries,2006-07-19T12:45:22,2021-05-28T14:37:51.159343
+1,el Raval,Xampanyeries,2006-07-19T12:45:22,2021-05-28T14:37:51.159343
+8,l'Antiga Esquerra de l'Eixample,Cocteleries,2007-05-04T10:11:19,2024-09-18T14:10:31.161824
+8,l'Antiga Esquerra de l'Eixample,Xampanyeries,2007-05-04T10:11:19,2024-09-18T14:10:31.161824
+31,la Vila de Gràcia,Discoteques,1996-09-18T00:00:00,2023-10-03T10:42:15.959474
+8,l'Antiga Esquerra de l'Eixample,Restaurants,2007-05-04T10:11:19,2024-09-18T14:10:31.161824
+31,la Vila de Gràcia,Bars i pubs musicals,1996-10-18T00:00:00,2022-09-17T05:25:20.857494
+3,la Barceloneta,Bars i pubs musicals,2004-04-30T14:28:24,2024-09-23T10:39:40.479219
+3,la Barceloneta,Discoteques,2004-04-30T14:28:24,2024-09-23T10:39:40.479219
+3,la Barceloneta,Restaurants,2004-04-30T14:28:24,2024-09-23T10:39:40.479219
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1992-09-30T00:00:00,2022-09-17T04:58:32.688921
+5,el Fort Pienc,Discoteques,2005-04-20T17:51:37,2022-09-17T06:23:58.998771
+5,el Fort Pienc,Salons de ball,2005-04-20T17:51:37,2022-09-17T06:23:58.998771
+31,la Vila de Gràcia,Cocteleries,2004-09-30T13:49:57,2024-09-18T13:36:35.459406
+31,la Vila de Gràcia,Xampanyeries,2004-09-30T13:49:57,2024-09-18T13:36:35.459406
+31,la Vila de Gràcia,Bars i pubs musicals,2006-05-10T13:50:05,2021-05-28T14:37:48.909672
+31,la Vila de Gràcia,Cocteleries,2006-05-10T13:50:05,2021-05-28T14:37:48.909672
+31,la Vila de Gràcia,Xampanyeries,2006-05-10T13:50:05,2021-05-28T14:37:48.909672
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,2015-02-17T16:01:01,2022-09-17T08:14:32.335122
+18,Sants,Discoteques,1998-10-16T00:00:00,2022-09-17T05:43:18.323527
+4,"Sant Pere, Santa Caterina i la Ribera",Bars i pubs musicals,2015-02-16T13:21:13,2022-09-17T08:14:18.806500
+5,el Fort Pienc,Tablaos flamencs,2017-03-20T13:27:27,2022-09-17T08:56:42.226725
+5,el Fort Pienc,Restaurants,2017-03-20T13:27:27,2022-09-17T08:56:42.226725
+26,Sant Gervasi - Galvany,Cocteleries,2017-11-15T17:49:52,2021-05-28T14:38:25.733797
+26,Sant Gervasi - Galvany,Xampanyeries,2017-11-15T17:49:52,2021-05-28T14:38:25.733797
+26,Sant Gervasi - Galvany,Restaurants,2017-11-15T17:49:52,2021-05-28T14:38:25.733797
+4,"Sant Pere, Santa Caterina i la Ribera",Bars i pubs musicals,1992-01-09T00:00:00,2022-09-17T04:48:00.189665
+9,la Nova Esquerra de l'Eixample,Cocteleries,1998-12-01T00:00:00,2021-05-28T14:37:38.308581
+9,la Nova Esquerra de l'Eixample,Discoteques,1998-12-01T00:00:00,2021-05-28T14:37:38.308581
+9,la Nova Esquerra de l'Eixample,Xampanyeries,1998-12-01T00:00:00,2021-05-28T14:37:38.308581
+1,el Raval,Cocteleries,2005-04-26T12:12:16,2021-05-28T14:37:42.115633
+1,el Raval,Xampanyeries,2005-04-26T12:12:16,2021-05-28T14:37:42.115633
+27,el Putxet i el Farró,Cocteleries,2017-01-30T10:59:42,2024-09-19T10:14:50.345426
+27,el Putxet i el Farró,Xampanyeries,2017-01-30T10:59:42,2024-09-19T10:14:50.345426
+26,Sant Gervasi - Galvany,Discoteques,1997-12-04T00:00:00,2022-09-17T05:36:12.120562
+43,Horta,Bars i pubs musicals,2002-09-28T14:36:11,2023-10-03T10:36:44.584539
+4,"Sant Pere, Santa Caterina i la Ribera",Cocteleries,2023-11-21T11:00:44.872254,2023-11-21T11:08:58.841592
+8,l'Antiga Esquerra de l'Eixample,Karaokes,1996-11-04T00:00:00,2022-09-17T05:25:46.007200
+2,el Barri Gòtic,Bars i pubs musicals,1992-07-23T00:00:00,2023-02-16T11:23:14.945604
+2,el Barri Gòtic,Discoteques,1992-07-23T00:00:00,2023-02-16T11:23:14.945604
+1,el Raval,Bars i pubs musicals,1997-05-21T00:00:00,2022-09-17T05:31:34.517221
+7,la Dreta de l'Eixample,Karaokes,1996-09-18T00:00:00,2023-10-03T10:15:41.174666
+8,l'Antiga Esquerra de l'Eixample,Discoteques,1998-04-11T00:00:00,2023-10-03T10:15:16.453928
+3,la Barceloneta,Discoteques,2013-10-15T12:56:05,2022-09-17T07:57:59.658437
+2,el Barri Gòtic,Discoteques,1996-09-18T00:00:00,2023-10-03T10:02:58.736410
+11,el Poble-sec,Tablaos flamencs,1996-09-18T00:00:00,2023-10-03T10:41:31.325937
+11,el Poble-sec,Restaurants,1996-09-18T00:00:00,2023-10-03T10:41:31.325937
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:16:33.803041
+21,Pedralbes,Discoteques,2001-07-21T00:00:00,2023-10-03T10:37:52.914393
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:17:36.679106
+23,Sarrià,Bars i pubs musicals,2007-01-09T10:14:26,2021-05-28T14:37:58.217821
+23,Sarrià,Cocteleries,2007-01-09T10:14:26,2021-05-28T14:37:58.217821
+23,Sarrià,Xampanyeries,2007-01-09T10:14:26,2021-05-28T14:37:58.217821
+4,"Sant Pere, Santa Caterina i la Ribera",Bars i pubs musicals,1996-01-05T00:00:00,2022-09-17T05:18:14.262813
+1,el Raval,Bars i pubs musicals,2001-12-08T00:00:00,2023-10-03T10:02:33.057118
+4,"Sant Pere, Santa Caterina i la Ribera",Bars i pubs musicals,2008-04-10T14:18:14,2022-09-17T06:59:25.967727
+18,Sants,Bars i pubs musicals,2001-06-02T00:00:00,2023-10-03T10:37:56.991548
+4,"Sant Pere, Santa Caterina i la Ribera",Bars i pubs musicals,2005-07-23T12:30:55,2023-10-03T10:02:27.513662
+4,"Sant Pere, Santa Caterina i la Ribera",Cocteleries,2005-07-23T12:30:55,2023-10-03T10:02:27.513662
+4,"Sant Pere, Santa Caterina i la Ribera",Xampanyeries,2005-07-23T12:30:55,2023-10-03T10:02:27.513662
+2,el Barri Gòtic,Cocteleries,2006-07-14T12:35:37,2021-05-28T14:37:50.156349
+2,el Barri Gòtic,Xampanyeries,2006-07-14T12:35:37,2021-05-28T14:37:50.156349
+31,la Vila de Gràcia,Cocteleries,2022-02-11T11:12:00.337116,2022-02-11T11:17:07.225532
+31,la Vila de Gràcia,Xampanyeries,2022-02-11T11:12:00.337116,2022-02-11T11:17:07.225532
+1,el Raval,Bars i pubs musicals,1992-03-13T00:00:00,2022-09-17T04:48:47.605726
+4,"Sant Pere, Santa Caterina i la Ribera",Cocteleries,2006-03-16T14:23:21,2021-05-28T14:37:46.504817
+4,"Sant Pere, Santa Caterina i la Ribera",Xampanyeries,2006-03-16T14:23:21,2021-05-28T14:37:46.504817
+11,el Poble-sec,Cocteleries,2005-02-28T17:18:02,2023-02-14T11:55:04.131926
+11,el Poble-sec,Xampanyeries,2005-02-28T17:18:02,2023-02-14T11:55:04.131926
+1,el Raval,Sales de festes,2017-05-17T12:36:15,2023-09-21T13:38:44.656138
+7,la Dreta de l'Eixample,Cocteleries,2017-11-16T00:00:00,2021-05-28T14:38:26.706920
+7,la Dreta de l'Eixample,Xampanyeries,2017-11-16T00:00:00,2021-05-28T14:38:26.706920
+2,el Barri Gòtic,Bars i pubs musicals,2016-12-14T14:19:51,2022-09-17T08:48:21.585183
+4,"Sant Pere, Santa Caterina i la Ribera",Bars i pubs musicals,2008-07-03T14:02:32,2024-09-18T13:20:38.661857
+4,"Sant Pere, Santa Caterina i la Ribera",Cocteleries,2008-07-03T14:02:32,2024-09-18T13:20:38.661857
+4,"Sant Pere, Santa Caterina i la Ribera",Xampanyeries,2008-07-03T14:02:32,2024-09-18T13:20:38.661857
+68,el Poblenou,Cocteleries,2022-11-21T10:52:39.888376,2023-03-03T10:33:13.260343
+68,el Poblenou,Xampanyeries,2022-11-21T10:52:39.888376,2023-03-03T10:33:13.260343
+4,"Sant Pere, Santa Caterina i la Ribera",Bars i pubs musicals,1996-11-25T00:00:00,2023-10-03T10:02:50.784851
+8,l'Antiga Esquerra de l'Eixample,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:16:52.234874
+8,l'Antiga Esquerra de l'Eixample,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:16:52.234874
+9,la Nova Esquerra de l'Eixample,Discoteques,1996-09-18T00:00:00,2023-10-03T10:17:37.856941
+8,l'Antiga Esquerra de l'Eixample,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:16:44.517720
+8,l'Antiga Esquerra de l'Eixample,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:16:44.517720
+4,"Sant Pere, Santa Caterina i la Ribera",Cocteleries,1996-09-18T00:00:00,2023-10-03T10:03:00.295351
+4,"Sant Pere, Santa Caterina i la Ribera",Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:03:00.295351
+31,la Vila de Gràcia,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:41:37.557376
+31,la Vila de Gràcia,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:41:37.557376
+31,la Vila de Gràcia,Restaurants,1996-09-18T00:00:00,2023-10-03T10:41:37.557376
+23,Sarrià,Cocteleries,2015-04-23T13:37:55,2024-09-18T14:39:38.938277
+23,Sarrià,Xampanyeries,2015-04-23T13:37:55,2024-09-18T14:39:38.938277
+60,Sant Andreu,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:40:48.387009
+31,la Vila de Gràcia,Cocteleries,2016-02-03T00:00:00,2021-05-28T14:38:16.617970
+31,la Vila de Gràcia,Xampanyeries,2016-02-03T00:00:00,2021-05-28T14:38:16.617970
+26,Sant Gervasi - Galvany,Bars i pubs musicals,1988-01-30T00:00:00,2024-09-18T13:18:26.641779
+26,Sant Gervasi - Galvany,Cocteleries,1988-01-30T00:00:00,2024-09-18T13:18:26.641779
+26,Sant Gervasi - Galvany,Xampanyeries,1988-01-30T00:00:00,2024-09-18T13:18:26.641779
+26,Sant Gervasi - Galvany,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:42:39.148945
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1990-03-21T00:00:00,2022-09-17T04:43:33.672637
+7,la Dreta de l'Eixample,Discoteques,2009-04-27T14:41:01,2022-09-17T07:11:55.102457
+7,la Dreta de l'Eixample,Cocteleries,2009-11-26T00:00:00,2021-05-28T14:38:08.200302
+7,la Dreta de l'Eixample,Xampanyeries,2009-11-26T00:00:00,2021-05-28T14:38:08.200302
+26,Sant Gervasi - Galvany,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:43:15.309938
+11,el Poble-sec,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:41:14.437012
+11,el Poble-sec,Discoteques,1996-09-18T00:00:00,2023-10-03T10:41:14.437012
+26,Sant Gervasi - Galvany,Bars i pubs musicals,1996-09-17T00:00:00,2023-10-03T10:45:42.048000
+66,el Parc i la Llacuna del Poblenou,Discoteques,2011-01-21T12:18:44,2022-09-17T07:29:39.965090
+4,"Sant Pere, Santa Caterina i la Ribera",Cocteleries,2022-01-07T11:05:17.244567,2022-01-07T11:05:27.028292
+4,"Sant Pere, Santa Caterina i la Ribera",Xampanyeries,2022-01-07T11:05:17.244567,2022-01-07T11:05:27.028292
+2,el Barri Gòtic,Bars i pubs musicals,1996-09-18T00:00:00,2024-10-03T11:38:16.019422
+2,el Barri Gòtic,Discoteques,1996-09-18T00:00:00,2024-10-03T11:38:16.019422
+3,la Barceloneta,Discoteques,2019-02-28T10:00:28,2024-09-23T10:36:43.228564
+3,la Barceloneta,Restaurants,2019-02-28T10:00:28,2024-09-23T10:36:43.228564
+4,"Sant Pere, Santa Caterina i la Ribera",Cocteleries,2019-02-27T10:38:05,2021-05-28T14:38:50.271675
+4,"Sant Pere, Santa Caterina i la Ribera",Xampanyeries,2019-02-27T10:38:05,2021-05-28T14:38:50.271675
+4,"Sant Pere, Santa Caterina i la Ribera",Restaurants,2019-02-27T10:38:05,2021-05-28T14:38:50.271675
+1,el Raval,Cocteleries,2023-03-31T09:44:37.668775,2023-03-31T09:49:30.898854
+1,el Raval,Xampanyeries,2023-03-31T09:44:37.668775,2023-03-31T09:49:30.898854
+8,l'Antiga Esquerra de l'Eixample,Cocteleries,2023-03-03T10:33:25.814544,2023-03-03T11:53:10.102699
+8,l'Antiga Esquerra de l'Eixample,Xampanyeries,2023-03-03T10:33:25.814544,2023-03-03T11:53:10.102699
+8,l'Antiga Esquerra de l'Eixample,Restaurants,2023-03-03T10:33:25.814544,2023-03-03T11:53:10.102699
+31,la Vila de Gràcia,Cocteleries,2023-02-10T11:49:22.934005,2023-02-10T11:51:26.335586
+31,la Vila de Gràcia,Xampanyeries,2023-02-10T11:49:22.934005,2023-02-10T11:51:26.335586
+9,la Nova Esquerra de l'Eixample,Bars i pubs musicals,2018-02-01T15:17:59,2022-09-17T09:12:04.857862
+26,Sant Gervasi - Galvany,Bars i pubs musicals,2018-05-25T11:05:38,2022-09-17T09:18:31.871107
+7,la Dreta de l'Eixample,Cocteleries,2021-12-31T08:30:36.665412,2024-09-19T09:55:04.658266
+7,la Dreta de l'Eixample,Xampanyeries,2021-12-31T08:30:36.665412,2024-09-19T09:55:04.658266
+7,la Dreta de l'Eixample,Restaurants,2021-12-31T08:30:36.665412,2024-09-19T09:55:04.658266
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,2018-05-23T11:22:57,2022-09-17T09:18:01.912659
+25,Sant Gervasi - la Bonanova,Cocteleries,2018-07-16T11:52:31,2024-09-18T14:05:57.237973
+25,Sant Gervasi - la Bonanova,Xampanyeries,2018-07-16T11:52:31,2024-09-18T14:05:57.237973
+4,"Sant Pere, Santa Caterina i la Ribera",Cocteleries,2019-03-07T14:07:38,2024-09-18T14:54:04.014950
+4,"Sant Pere, Santa Caterina i la Ribera",Xampanyeries,2019-03-07T14:07:38,2024-09-18T14:54:04.014950
+4,"Sant Pere, Santa Caterina i la Ribera",Cocteleries,2022-10-03T10:09:20.266056,2022-10-03T10:09:34.849257
+4,"Sant Pere, Santa Caterina i la Ribera",Xampanyeries,2022-10-03T10:09:20.266056,2022-10-03T10:09:34.849257
+4,"Sant Pere, Santa Caterina i la Ribera",Bars i pubs musicals,2015-04-23T13:20:14,2022-09-17T08:17:36.038951
+4,"Sant Pere, Santa Caterina i la Ribera",Xampanyeries,2023-11-21T11:00:44.872254,2023-11-21T11:08:58.841592
+4,"Sant Pere, Santa Caterina i la Ribera",Restaurants,2015-04-23T13:20:14,2022-09-17T08:17:36.038951
+7,la Dreta de l'Eixample,Cocteleries,2018-07-02T14:17:34,2023-01-20T12:58:42.590356
+7,la Dreta de l'Eixample,Xampanyeries,2018-07-02T14:17:34,2023-01-20T12:58:42.590356
+7,la Dreta de l'Eixample,Restaurants,2018-07-02T14:17:34,2023-01-20T12:58:42.590356
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1988-03-17T00:00:00,2022-09-17T04:36:24.919273
+4,"Sant Pere, Santa Caterina i la Ribera",Discoteques,1991-11-05T00:00:00,2022-09-17T04:47:40.104241
+4,"Sant Pere, Santa Caterina i la Ribera",Restaurants,2023-11-21T11:00:44.872254,2023-11-21T11:08:58.841592
+66,el Parc i la Llacuna del Poblenou,Discoteques,1995-11-23T00:00:00,2022-01-18T14:33:21.575126
+4,"Sant Pere, Santa Caterina i la Ribera",Tablaos flamencs,1996-09-18T00:00:00,2023-10-03T10:02:51.694383
+4,"Sant Pere, Santa Caterina i la Ribera",Restaurants,1996-09-18T00:00:00,2023-10-03T10:02:51.694383
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,2018-07-04T09:17:11,2022-09-17T09:25:06.139794
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,2018-07-04T12:42:26,2022-09-17T09:25:14.761968
+43,Horta,Bars i pubs musicals,2001-05-26T00:00:00,2023-10-03T10:37:55.957927
+31,la Vila de Gràcia,Xampanyeries,2006-06-09T13:12:03,2024-09-18T13:23:41.522053
+18,Sants,Bars i pubs musicals,1998-03-28T00:00:00,2023-10-03T10:38:57.298600
+2,el Barri Gòtic,Bars i pubs musicals,1997-10-18T00:00:00,2023-10-03T10:02:46.043553
+2,el Barri Gòtic,Restaurants,1997-10-18T00:00:00,2023-10-03T10:02:46.043553
+5,el Fort Pienc,Karaokes,1998-01-17T00:00:00,2023-10-03T10:15:34.793538
+5,el Fort Pienc,Restaurants,1998-01-17T00:00:00,2023-10-03T10:15:34.793538
+26,Sant Gervasi - Galvany,Discoteques,2013-10-15T13:12:43,2024-09-23T10:53:17.685749
+26,Sant Gervasi - Galvany,Discoteques,2013-10-15T13:22:59,2024-09-23T10:38:25.950289
+8,l'Antiga Esquerra de l'Eixample,Cocteleries,2014-10-14T14:19:24,2024-09-19T10:14:04.952870
+8,l'Antiga Esquerra de l'Eixample,Xampanyeries,2014-10-14T14:19:24,2024-09-19T10:14:04.952870
+2,el Barri Gòtic,Bars i pubs musicals,2000-02-26T00:00:00,2023-10-03T10:02:37.939714
+1,el Raval,Bars i pubs musicals,1996-09-17T00:00:00,2023-10-03T10:04:08.372725
+8,l'Antiga Esquerra de l'Eixample,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:18:34.549080
+8,l'Antiga Esquerra de l'Eixample,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:18:34.549080
+60,Sant Andreu,Bars i pubs musicals,2019-05-21T11:37:51,2022-09-17T11:03:32.537680
+1,el Raval,Discoteques,1989-01-13T00:00:00,2022-09-17T04:27:27.090803
+7,la Dreta de l'Eixample,Discoteques,2018-05-23T14:51:43,2022-09-17T09:18:21.081196
+7,la Dreta de l'Eixample,Bars i pubs musicals,2022-05-23T12:04:12.161346,2023-10-03T10:14:44.185524
+7,la Dreta de l'Eixample,Discoteques,2022-05-23T12:04:12.161346,2023-10-03T10:14:44.185524
+9,la Nova Esquerra de l'Eixample,Tablaos flamencs,1996-09-17T00:00:00,2023-10-03T10:19:10.049781
+9,la Nova Esquerra de l'Eixample,Restaurants,1996-09-17T00:00:00,2023-10-03T10:19:10.049781
+10,Sant Antoni,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:17:24.526029
+10,Sant Antoni,Restaurants,1996-09-18T00:00:00,2023-10-03T10:17:24.526029
+4,"Sant Pere, Santa Caterina i la Ribera",Cocteleries,2023-11-17T08:23:59.021785,2024-10-29T09:21:20.700953
+4,"Sant Pere, Santa Caterina i la Ribera",Xampanyeries,2023-11-17T08:23:59.021785,2024-10-29T09:21:20.700953
+8,l'Antiga Esquerra de l'Eixample,Cocteleries,1988-05-06T00:00:00,2021-05-28T14:37:33.165203
+8,l'Antiga Esquerra de l'Eixample,Xampanyeries,1988-05-06T00:00:00,2021-05-28T14:37:33.165203
+63,Navas,Discoteques,1996-09-18T00:00:00,2023-10-03T10:40:45.120239
+31,la Vila de Gràcia,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:39:58.909649
+7,la Dreta de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2024-09-23T10:55:37.015878
+7,la Dreta de l'Eixample,Discoteques,1996-09-18T00:00:00,2024-09-23T10:55:37.015878
+31,la Vila de Gràcia,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:41:42.519642
+19,les Corts,Bars i pubs musicals,2001-01-13T00:00:00,2023-10-03T10:37:04.882828
+4,"Sant Pere, Santa Caterina i la Ribera",Bars i pubs musicals,1987-02-18T00:00:00,2024-09-18T13:47:10.553876
+18,Sants,Bars i pubs musicals,2019-05-20T16:26:00,2022-09-17T11:03:32.570501
+35,el Guinardó,Bars i pubs musicals,2019-05-21T11:30:39,2022-09-17T11:03:35.305028
+68,el Poblenou,Discoteques,2019-07-24T11:43:18,2022-09-17T11:06:08.874573
+3,la Barceloneta,Discoteques,1996-04-12T00:00:00,2023-02-15T13:11:31.834201
+3,la Barceloneta,Sales de festes,1996-04-12T00:00:00,2023-02-15T13:11:31.834201
+3,la Barceloneta,Salons de ball,1996-04-12T00:00:00,2023-02-15T13:11:31.834201
+11,el Poble-sec,Discoteques,2013-05-28T17:25:24,2022-09-17T07:54:40.551795
+11,el Poble-sec,Sales de festes,2013-05-28T17:25:24,2022-09-17T07:54:40.551795
+7,la Dreta de l'Eixample,Bars i pubs musicals,1995-07-07T00:00:00,2022-09-17T05:16:13.514250
+8,l'Antiga Esquerra de l'Eixample,Cocteleries,1997-03-22T00:00:00,2022-10-03T10:13:45.420615
+8,l'Antiga Esquerra de l'Eixample,Xampanyeries,1997-03-22T00:00:00,2022-10-03T10:13:45.420615
+1,el Raval,Bars i pubs musicals,1996-12-17T00:00:00,2022-09-17T05:27:29.599814
+31,la Vila de Gràcia,Bars i pubs musicals,1996-05-06T00:00:00,2024-07-25T10:03:07.550210
+26,Sant Gervasi - Galvany,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:42:29.261411
+26,Sant Gervasi - Galvany,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:42:29.261411
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1998-06-20T00:00:00,2023-10-03T10:15:15.203381
+8,l'Antiga Esquerra de l'Eixample,Restaurants,1998-06-20T00:00:00,2023-10-03T10:15:15.203381
+7,la Dreta de l'Eixample,Cocteleries,2011-08-09T12:40:35,2021-05-28T14:38:15.124757
+2,el Barri Gòtic,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:03:22.810166
+7,la Dreta de l'Eixample,Xampanyeries,2011-08-09T12:40:35,2021-05-28T14:38:15.124757
+7,la Dreta de l'Eixample,Restaurants,2011-08-09T12:40:35,2021-05-28T14:38:15.124757
+31,la Vila de Gràcia,Cocteleries,2018-02-08T13:43:18,2024-09-18T14:08:51.977903
+31,la Vila de Gràcia,Xampanyeries,2018-02-08T13:43:18,2024-09-18T14:08:51.977903
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:17:24.453164
+26,Sant Gervasi - Galvany,Discoteques,1996-12-15T00:00:00,2023-10-03T10:40:06.884971
+31,la Vila de Gràcia,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:42:15.959474
+2,el Barri Gòtic,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:03:22.810166
+2,el Barri Gòtic,Bars i pubs musicals,2010-11-16T14:09:21,2022-09-17T07:27:10.300351
+2,el Barri Gòtic,Discoteques,2010-11-16T14:09:21,2022-09-17T07:27:10.300351
+2,el Barri Gòtic,Discoteques,1996-09-18T00:00:00,2023-10-03T10:03:14.781022
+2,el Barri Gòtic,Bars i pubs musicals,2006-09-28T13:17:25,2021-05-28T14:37:54.890757
+2,el Barri Gòtic,Cocteleries,2006-09-28T13:17:25,2021-05-28T14:37:54.890757
+2,el Barri Gòtic,Xampanyeries,2006-09-28T13:17:25,2021-05-28T14:37:54.890757
+8,l'Antiga Esquerra de l'Eixample,Cocteleries,2018-06-08T12:09:07,2021-05-28T14:38:38.031982
+8,l'Antiga Esquerra de l'Eixample,Xampanyeries,2018-06-08T12:09:07,2021-05-28T14:38:38.031982
+8,l'Antiga Esquerra de l'Eixample,Restaurants,2018-06-08T12:09:07,2021-05-28T14:38:38.031982
+10,Sant Antoni,Cocteleries,2007-12-27T14:01:32,2024-09-19T09:53:31.987388
+10,Sant Antoni,Xampanyeries,2007-12-27T14:01:32,2024-09-19T09:53:31.987388
+6,la Sagrada Família,Cocteleries,1996-09-18T00:00:00,2024-04-08T14:59:43.447060
+31,la Vila de Gràcia,Cocteleries,2006-06-09T13:12:03,2024-09-18T13:23:41.522053
+6,la Sagrada Família,Xampanyeries,1996-09-18T00:00:00,2024-04-08T14:59:43.447060
+7,la Dreta de l'Eixample,Teatres,2016-10-19T10:40:51,2022-09-17T08:46:54.423018
+7,la Dreta de l'Eixample,Discoteques,2016-10-19T10:40:51,2022-09-17T08:46:54.423018
+7,la Dreta de l'Eixample,Discoteques,2022-09-30T10:55:32.256293,2022-09-30T11:02:27.881483
+3,la Barceloneta,Cocteleries,2018-06-04T00:00:00,2024-09-18T14:56:43.725193
+3,la Barceloneta,Xampanyeries,2018-06-04T00:00:00,2024-09-18T14:56:43.725193
+19,les Corts,Bars i pubs musicals,1984-12-13T00:00:00,2022-09-17T04:06:47.388910
+7,la Dreta de l'Eixample,Discoteques,2013-10-15T13:55:08,2022-09-17T07:57:59.719871
+2,el Barri Gòtic,Cocteleries,2018-01-15T13:57:29,2021-05-28T14:38:27.324705
+2,el Barri Gòtic,Xampanyeries,2018-01-15T13:57:29,2021-05-28T14:38:27.324705
+2,el Barri Gòtic,Restaurants,2018-01-15T13:57:29,2021-05-28T14:38:27.324705
+9,la Nova Esquerra de l'Eixample,Bars i pubs musicals,2018-07-05T09:10:23,2024-09-18T13:27:25.170846
+9,la Nova Esquerra de l'Eixample,Cocteleries,2018-07-05T09:10:23,2024-09-18T13:27:25.170846
+9,la Nova Esquerra de l'Eixample,Xampanyeries,2018-07-05T09:10:23,2024-09-18T13:27:25.170846
+26,Sant Gervasi - Galvany,Cocteleries,2018-07-05T13:13:17,2021-05-28T14:38:46.140755
+26,Sant Gervasi - Galvany,Xampanyeries,2018-07-05T13:13:17,2021-05-28T14:38:46.140755
+26,Sant Gervasi - Galvany,Restaurants,2018-07-05T13:13:17,2021-05-28T14:38:46.140755
+31,la Vila de Gràcia,Cocteleries,2018-07-06T08:58:39,2021-05-28T14:38:39.923927
+31,la Vila de Gràcia,Xampanyeries,2018-07-06T08:58:39,2021-05-28T14:38:39.923927
+7,la Dreta de l'Eixample,Cocteleries,2019-07-04T00:00:00,2021-05-28T14:38:52.211418
+7,la Dreta de l'Eixample,Xampanyeries,2019-07-04T00:00:00,2021-05-28T14:38:52.211418
+66,el Parc i la Llacuna del Poblenou,Bars i pubs musicals,1993-08-09T00:00:00,2022-09-17T05:04:43.499754
+7,la Dreta de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:17:13.083513
+7,la Dreta de l'Eixample,Restaurants,1996-09-18T00:00:00,2023-10-03T10:17:13.083513
+20,la Maternitat i Sant Ramon,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:42:51.144578
+20,la Maternitat i Sant Ramon,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:42:51.144578
+20,la Maternitat i Sant Ramon,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:42:51.144578
+2,el Barri Gòtic,Bars i pubs musicals,2001-11-03T00:00:00,2023-10-03T10:02:33.785204
+1,el Raval,Cocteleries,2001-03-10T00:00:00,2023-10-03T10:02:35.728095
+1,el Raval,Xampanyeries,2001-03-10T00:00:00,2023-10-03T10:02:35.728095
+4,"Sant Pere, Santa Caterina i la Ribera",Bars i pubs musicals,1987-05-21T00:00:00,2022-09-17T04:31:59.593226
+20,la Maternitat i Sant Ramon,Discoteques,2017-12-20T10:21:57,2022-10-03T12:24:22.893799
+2,el Barri Gòtic,Cocteleries,2018-05-28T10:23:14,2021-05-28T14:38:28.741885
+2,el Barri Gòtic,Xampanyeries,2018-05-28T10:23:14,2021-05-28T14:38:28.741885
+68,el Poblenou,Bars i pubs musicals,2022-11-21T10:48:46.354049,2022-11-21T10:48:51.639584
+9,la Nova Esquerra de l'Eixample,Bars i pubs musicals,2001-02-02T00:00:00,2022-09-17T02:21:26.876430
+2,el Barri Gòtic,Bars i pubs musicals,2004-02-18T14:05:02,2022-09-17T06:10:43.343787
+31,la Vila de Gràcia,Bars i pubs musicals,2006-06-09T13:12:03,2024-09-18T13:23:41.522053
+31,la Vila de Gràcia,Bars i pubs musicals,2006-11-27T17:33:19,2022-09-17T06:39:08.773287
+9,la Nova Esquerra de l'Eixample,Cocteleries,2000-06-24T00:00:00,2023-10-03T10:15:01.057669
+9,la Nova Esquerra de l'Eixample,Xampanyeries,2000-06-24T00:00:00,2023-10-03T10:15:01.057669
+7,la Dreta de l'Eixample,Bars i pubs musicals,1996-11-25T00:00:00,2023-10-03T10:15:39.095894
+7,la Dreta de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:16:33.983961
+4,"Sant Pere, Santa Caterina i la Ribera",Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:02:56.906363
+31,la Vila de Gràcia,Discoteques,1996-09-18T00:00:00,2023-10-03T10:39:47.812532
+3,la Barceloneta,Bars i pubs musicals,2001-05-19T00:00:00,2024-09-23T10:41:45.103740
+3,la Barceloneta,Restaurants,2001-05-19T00:00:00,2024-09-23T10:41:45.103740
+1,el Raval,Cocteleries,2023-03-31T10:07:44.869375,2023-03-31T10:13:01.983426
+1,el Raval,Xampanyeries,2023-03-31T10:07:44.869375,2023-03-31T10:13:01.983426
+32,el Camp d'en Grassot i Gràcia Nova,Discoteques,1996-09-18T00:00:00,2023-10-03T10:39:46.250521
+8,l'Antiga Esquerra de l'Eixample,Restaurants,1996-09-18T00:00:00,2023-10-03T10:17:52.885554
+32,el Camp d'en Grassot i Gràcia Nova,Karaokes,1996-09-18T00:00:00,2023-10-03T10:39:46.250521
+25,Sant Gervasi - la Bonanova,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:41:17.150987
+25,Sant Gervasi - la Bonanova,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:41:17.150987
+25,Sant Gervasi - la Bonanova,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:41:17.150987
+11,el Poble-sec,Discoteques,1999-03-29T00:00:00,2022-09-17T05:49:51.986435
+3,la Barceloneta,Cocteleries,2018-06-25T09:54:53,2021-05-28T14:38:38.542625
+3,la Barceloneta,Xampanyeries,2018-06-25T09:54:53,2021-05-28T14:38:38.542625
+3,la Barceloneta,Restaurants,2018-06-25T09:54:53,2021-05-28T14:38:38.542625
+4,"Sant Pere, Santa Caterina i la Ribera",Cocteleries,2006-05-09T11:49:07,2021-05-28T14:37:50.014058
+4,"Sant Pere, Santa Caterina i la Ribera",Xampanyeries,2006-05-09T11:49:07,2021-05-28T14:37:50.014058
+67,la Vila Olímpica del Poblenou,Karaokes,2006-05-10T13:15:59,2023-01-20T12:58:44.765310
+66,el Parc i la Llacuna del Poblenou,Bars i pubs musicals,2006-12-11T18:15:07,2022-09-17T06:42:10.619467
+10,Sant Antoni,Bars i pubs musicals,2015-07-16T14:33:49,2022-09-17T08:23:11.300633
+10,Sant Antoni,Tablaos flamencs,2015-07-16T14:33:49,2022-09-17T08:23:11.300633
+31,la Vila de Gràcia,Bars i pubs musicals,2018-02-08T14:49:07,2022-09-17T09:12:36.175278
+31,la Vila de Gràcia,Cocteleries,2017-01-23T15:34:22,2024-09-18T13:38:33.391184
+31,la Vila de Gràcia,Xampanyeries,2017-01-23T15:34:22,2024-09-18T13:38:33.391184
+31,la Vila de Gràcia,Bars i pubs musicals,1998-02-18T00:00:00,2022-09-17T05:37:41.557180
+20,la Maternitat i Sant Ramon,Discoteques,2017-02-28T13:24:51,2022-09-17T08:54:45.182813
+1,el Raval,Tablaos flamencs,2005-09-21T13:52:53,2023-01-20T14:16:07.628275
+66,el Parc i la Llacuna del Poblenou,Discoteques,1996-09-18T00:00:00,2023-10-03T10:40:48.780476
+1,el Raval,Discoteques,1991-08-28T00:00:00,2022-09-17T04:47:14.777491
+8,l'Antiga Esquerra de l'Eixample,Cocteleries,1996-09-17T00:00:00,2023-10-03T10:19:11.075429
+8,l'Antiga Esquerra de l'Eixample,Xampanyeries,1996-09-17T00:00:00,2023-10-03T10:19:11.075429
+8,l'Antiga Esquerra de l'Eixample,Restaurants,1996-09-17T00:00:00,2023-10-03T10:19:11.075429
+7,la Dreta de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:16:42.228467
+1,el Raval,Bars i pubs musicals,2005-06-17T08:26:45,2022-09-17T06:26:12.946912
+1,el Raval,Cocteleries,2005-11-23T11:53:31,2024-09-19T09:48:16.364621
+1,el Raval,Xampanyeries,2005-11-23T11:53:31,2024-09-19T09:48:16.364621
+9,la Nova Esquerra de l'Eixample,Discoteques,1997-02-06T00:00:00,2022-09-17T05:28:14.723676
+9,la Nova Esquerra de l'Eixample,Salons de ball,1997-02-06T00:00:00,2022-09-17T05:28:14.723676
+10,Sant Antoni,Bars i pubs musicals,2019-05-20T16:41:58,2022-09-17T11:03:31.083897
+1,el Raval,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:03:14.455680
+26,Sant Gervasi - Galvany,Cocteleries,2018-07-26T10:10:29,2021-05-28T14:38:48.338689
+26,Sant Gervasi - Galvany,Xampanyeries,2018-07-26T10:10:29,2021-05-28T14:38:48.338689
+26,Sant Gervasi - Galvany,Restaurants,2018-07-26T10:10:29,2021-05-28T14:38:48.338689
+66,el Parc i la Llacuna del Poblenou,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:41:40.300484
+6,la Sagrada Família,Discoteques,2006-01-25T12:09:18,2022-09-17T06:34:10.135282
+31,la Vila de Gràcia,Bars i pubs musicals,2007-09-27T13:43:45,2022-09-17T06:52:32.707301
+1,el Raval,Bars i pubs musicals,1994-11-02T00:00:00,2022-09-17T05:10:54.720930
+1,el Raval,Bars i pubs musicals,2013-06-06T00:00:00,2022-09-17T07:55:02.364650
+4,"Sant Pere, Santa Caterina i la Ribera",Bars i pubs musicals,1996-03-11T00:00:00,2022-09-17T05:19:24.131072
+7,la Dreta de l'Eixample,Bars i pubs musicals,1996-09-17T00:00:00,2023-10-03T10:19:06.558675
+31,la Vila de Gràcia,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:41:47.567834
+31,la Vila de Gràcia,Bars i pubs musicals,1999-05-01T00:00:00,2023-10-03T10:38:31.409402
+1,el Raval,Bars i pubs musicals,2000-04-28T00:00:00,2022-09-17T02:16:19.728601
+11,el Poble-sec,Bars i pubs musicals,1999-12-10T00:00:00,2022-09-17T05:55:23.555469
+1,el Raval,Bars i pubs musicals,2003-12-03T09:05:09,2022-09-17T06:06:43.265815
+4,"Sant Pere, Santa Caterina i la Ribera",Cocteleries,1996-09-18T00:00:00,2023-10-03T10:02:54.205762
+4,"Sant Pere, Santa Caterina i la Ribera",Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:02:54.205762
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:17:52.885554
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:17:36.869974
+8,l'Antiga Esquerra de l'Eixample,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:17:36.869974
+8,l'Antiga Esquerra de l'Eixample,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:17:36.869974
+1,el Raval,Tablaos flamencs,1997-08-02T00:00:00,2023-10-03T10:02:47.743515
+1,el Raval,Restaurants,1997-08-02T00:00:00,2023-10-03T10:02:47.743515
+4,"Sant Pere, Santa Caterina i la Ribera",Cocteleries,2006-10-04T17:41:09,2021-05-28T14:37:56.047203
+4,"Sant Pere, Santa Caterina i la Ribera",Xampanyeries,2006-10-04T17:41:09,2021-05-28T14:37:56.047203
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1996-09-17T00:00:00,2023-10-03T10:19:10.962907
+19,les Corts,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:39:18.644281
+19,les Corts,Discoteques,1996-09-18T00:00:00,2023-10-03T10:39:18.644281
+2,el Barri Gòtic,Bars i pubs musicals,2006-10-16T16:21:18,2022-09-17T06:38:32.089818
+31,la Vila de Gràcia,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:43:23.670092
+19,les Corts,Bars i pubs musicals,1997-04-26T00:00:00,2022-09-17T03:33:04.408292
+3,la Barceloneta,Bars i pubs musicals,2000-11-04T00:00:00,2023-10-03T10:03:00.536923
+7,la Dreta de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:18:56.483534
+7,la Dreta de l'Eixample,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:18:56.483534
+7,la Dreta de l'Eixample,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:18:56.483534
+31,la Vila de Gràcia,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:44:03.130664
+1,el Raval,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:03:15.153334
+1,el Raval,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:03:15.153334
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:16:57.809044
+4,"Sant Pere, Santa Caterina i la Ribera",Bars i pubs musicals,2003-12-31T10:39:58,2022-09-17T06:07:14.452123
+8,l'Antiga Esquerra de l'Eixample,Cocteleries,2005-12-21T09:45:00,2024-09-19T08:08:46.158548
+8,l'Antiga Esquerra de l'Eixample,Xampanyeries,2005-12-21T09:45:00,2024-09-19T08:08:46.158548
+4,"Sant Pere, Santa Caterina i la Ribera",Cocteleries,2002-11-23T14:08:47,2023-10-03T10:02:30.870733
+4,"Sant Pere, Santa Caterina i la Ribera",Xampanyeries,2002-11-23T14:08:47,2023-10-03T10:02:30.870733
+19,les Corts,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:44:22.086492
+8,l'Antiga Esquerra de l'Eixample,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:16:57.809044
+8,l'Antiga Esquerra de l'Eixample,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:16:57.809044
+6,la Sagrada Família,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:18:54.075600
+6,la Sagrada Família,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:18:54.075600
+6,la Sagrada Família,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:18:54.075600
+26,Sant Gervasi - Galvany,Discoteques,1996-09-18T00:00:00,2024-09-23T10:44:21.559714
+1,el Raval,Altres esports,2018-07-05T10:20:57,2024-09-18T13:25:08.484568
+9,la Nova Esquerra de l'Eixample,Bars i pubs musicals,1996-11-25T00:00:00,2023-10-03T10:16:27.671401
+9,la Nova Esquerra de l'Eixample,Karaokes,1996-11-25T00:00:00,2023-10-03T10:16:27.671401
+26,Sant Gervasi - Galvany,Teatres,1996-09-18T00:00:00,2023-10-03T10:42:56.628974
+26,Sant Gervasi - Galvany,Discoteques,1996-09-18T00:00:00,2023-10-03T10:42:56.628974
+1,el Raval,Discoteques,1996-09-18T00:00:00,2023-10-03T10:02:52.019971
+11,el Poble-sec,Discoteques,2005-06-16T14:41:50,2022-09-17T06:26:07.756221
+3,la Barceloneta,Cocteleries,2019-09-27T00:00:00,2021-05-28T14:38:54.433274
+3,la Barceloneta,Xampanyeries,2019-09-27T00:00:00,2021-05-28T14:38:54.433274
+3,la Barceloneta,Restaurants,2019-09-27T00:00:00,2021-05-28T14:38:54.433274
+66,el Parc i la Llacuna del Poblenou,Bars i pubs musicals,2000-11-28T00:00:00,2022-09-17T02:20:36.294239
+66,el Parc i la Llacuna del Poblenou,Discoteques,2000-11-28T00:00:00,2022-09-17T02:20:36.294239
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-11-23T12:46:48.550965
+2,el Barri Gòtic,Bars i pubs musicals,2000-11-16T00:00:00,2024-09-18T13:23:09.863503
+2,el Barri Gòtic,Cocteleries,2000-11-16T00:00:00,2024-09-18T13:23:09.863503
+2,el Barri Gòtic,Xampanyeries,2000-11-16T00:00:00,2024-09-18T13:23:09.863503
+25,Sant Gervasi - la Bonanova,Bars i pubs musicals,2000-11-20T00:00:00,2022-09-17T02:20:21.814788
+4,"Sant Pere, Santa Caterina i la Ribera",Cocteleries,1996-09-17T00:00:00,2023-10-03T10:03:54.825776
+4,"Sant Pere, Santa Caterina i la Ribera",Xampanyeries,1996-09-17T00:00:00,2023-10-03T10:03:54.825776
+2,el Barri Gòtic,Discoteques,2008-04-16T00:00:00,2023-02-28T13:57:41.283104
+4,"Sant Pere, Santa Caterina i la Ribera",Bars i pubs musicals,1996-09-17T00:00:00,2023-10-03T10:03:54.695086
+4,"Sant Pere, Santa Caterina i la Ribera",Cocteleries,1996-09-17T00:00:00,2023-10-03T10:03:54.695086
+4,"Sant Pere, Santa Caterina i la Ribera",Xampanyeries,1996-09-17T00:00:00,2023-10-03T10:03:54.695086
+31,la Vila de Gràcia,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:43:35.839902
+7,la Dreta de l'Eixample,Bars i pubs musicals,2008-03-11T13:22:27,2022-09-17T06:57:25.808350
+2,el Barri Gòtic,Cocteleries,2007-02-02T14:29:20,2022-02-25T12:37:28.772756
+2,el Barri Gòtic,Xampanyeries,2007-02-02T14:29:20,2022-02-25T12:37:28.772756
+1,el Raval,Bars i pubs musicals,2000-10-09T00:00:00,2023-02-15T10:33:51.489597
+1,el Raval,Cocteleries,2000-10-09T00:00:00,2023-02-15T10:33:51.489597
+1,el Raval,Xampanyeries,2000-10-09T00:00:00,2023-02-15T10:33:51.489597
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,2001-02-02T00:00:00,2022-09-17T02:21:38.031628
+8,l'Antiga Esquerra de l'Eixample,Restaurants,2001-02-02T00:00:00,2022-09-17T02:21:38.031628
+1,el Raval,Cocteleries,1996-09-17T00:00:00,2023-10-03T10:03:54.038624
+1,el Raval,Xampanyeries,1996-09-17T00:00:00,2023-10-03T10:03:54.038624
+26,Sant Gervasi - Galvany,Bars i pubs musicals,2003-10-02T11:34:08,2022-09-17T06:04:40.740165
+1,el Raval,Bars i pubs musicals,2003-02-13T14:19:11,2022-09-17T06:00:30.828459
+4,"Sant Pere, Santa Caterina i la Ribera",Bars i pubs musicals,2000-10-03T00:00:00,2022-09-17T02:19:18.239149
+8,l'Antiga Esquerra de l'Eixample,Discoteques,1996-09-18T00:00:00,2023-10-03T10:18:20.770164
+31,la Vila de Gràcia,Discoteques,1996-09-18T00:00:00,2023-10-03T10:44:56.852965
+31,la Vila de Gràcia,Salons de ball,1996-09-18T00:00:00,2023-10-03T10:44:56.852965
+31,la Vila de Gràcia,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:42:15.884995
+31,la Vila de Gràcia,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:42:15.884995
+31,la Vila de Gràcia,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:42:15.884995
+20,la Maternitat i Sant Ramon,Discoteques,2003-06-27T15:52:23,2022-09-17T06:03:06.285438
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:17:28.392269
+1,el Raval,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:03:21.599733
+7,la Dreta de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:16:52.143069
+7,la Dreta de l'Eixample,Discoteques,1996-09-18T00:00:00,2023-10-03T10:16:52.143069
+7,la Dreta de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:17:06.780426
+7,la Dreta de l'Eixample,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:17:58.822290
+1,el Raval,Cocteleries,2023-03-31T10:17:17.224135,2023-03-31T10:22:25.284380
+1,el Raval,Xampanyeries,2023-03-31T10:17:17.224135,2023-03-31T10:22:25.284380
+1,el Raval,Instal·lacions esportives,2018-07-05T10:20:57,2024-09-18T13:25:08.484568
+2,el Barri Gòtic,Bars i pubs musicals,1997-08-23T00:00:00,2023-10-03T10:02:47.191808
+2,el Barri Gòtic,Bars i pubs musicals,1997-09-06T00:00:00,2023-10-03T10:02:47.016650
+2,el Barri Gòtic,Restaurants,1997-09-06T00:00:00,2023-10-03T10:02:47.016650
+26,Sant Gervasi - Galvany,Bars i pubs musicals,2001-07-30T00:00:00,2022-09-17T02:24:30.613402
+1,el Raval,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:03:14.268191
+62,el Congrés i els Indians,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:44:08.145579
+62,el Congrés i els Indians,Cocteleries,1996-09-18T00:00:00,2023-10-03T10:44:08.145579
+62,el Congrés i els Indians,Xampanyeries,1996-09-18T00:00:00,2023-10-03T10:44:08.145579
+1,el Raval,Discoteques,1996-09-18T00:00:00,2023-10-03T10:03:15.213650
+1,el Raval,Salons de ball,1996-09-18T00:00:00,2023-10-03T10:03:15.213650
+2,el Barri Gòtic,Bars i pubs musicals,1996-09-18T00:00:00,2023-10-03T10:04:07.123127
+2,el Barri Gòtic,Tablaos flamencs,1996-09-18T00:00:00,2023-10-03T10:04:07.123127
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1996-09-17T00:00:00,2023-10-03T10:19:10.849703
+25,Sant Gervasi - la Bonanova,Bars i pubs musicals,1988-07-12T00:00:00,2022-09-17T04:37:41.305901
+25,Sant Gervasi - la Bonanova,Discoteques,1988-07-12T00:00:00,2022-09-17T04:37:41.305901
+26,Sant Gervasi - Galvany,Discoteques,2001-03-23T00:00:00,2023-10-03T10:46:02.776010
+8,l'Antiga Esquerra de l'Eixample,Bars i pubs musicals,1996-09-17T00:00:00,2023-10-03T10:19:04.668962
+1,el Raval,Cocteleries,2017-12-18T13:21:28,2024-09-18T13:24:31.651097
+1,el Raval,Xampanyeries,2017-12-18T13:21:28,2024-09-18T13:24:31.651097
+7,la Dreta de l'Eixample,Cocteleries,2018-01-19T09:18:30,2022-02-11T11:36:15.902373
+7,la Dreta de l'Eixample,Xampanyeries,2018-01-19T09:18:30,2022-02-11T11:36:15.902373
+7,la Dreta de l'Eixample,Restaurants,2018-01-19T09:18:30,2022-02-11T11:36:15.902373
+2,el Barri Gòtic,Bars i pubs musicals,2022-08-01T08:37:23.896962,2023-02-16T11:23:26.834691
+2,el Barri Gòtic,Discoteques,2022-08-01T08:37:23.896962,2023-02-16T11:23:26.834691
+7,la Dreta de l'Eixample,Discoteques,2017-01-23T14:27:26,2022-09-17T08:49:45.777684
+1,el Raval,Cocteleries,2022-10-03T10:19:49.759187,2022-10-03T10:20:44.482922
+1,el Raval,Xampanyeries,2022-10-03T10:19:49.759187,2022-10-03T10:20:44.482922
+7,la Dreta de l'Eixample,Bars i pubs musicals,2018-07-06T11:34:10,2022-09-17T09:25:36.170032
+31,la Vila de Gràcia,Bars i pubs musicals,2015-02-16T14:19:54,2022-09-17T08:14:23.260000
+31,la Vila de Gràcia,Bars i pubs musicals,2018-02-08T11:19:49,2022-09-17T09:12:31.865516
+1,el Raval,Cocteleries,2018-07-05T10:20:57,2024-09-18T13:25:08.484568
+1,el Raval,Xampanyeries,2018-07-05T10:20:57,2024-09-18T13:25:08.484568
+3,la Barceloneta,Cocteleries,2017-09-18T13:04:30,2024-09-19T09:57:54.003754
+3,la Barceloneta,Xampanyeries,2017-09-18T13:04:30,2024-09-19T09:57:54.003754
+3,la Barceloneta,Restaurants,2017-09-18T13:04:30,2024-09-19T09:57:54.003754
+3,la Barceloneta,Cocteleries,2017-09-18T13:16:19,2021-05-28T14:38:22.873698
+3,la Barceloneta,Xampanyeries,2017-09-18T13:16:19,2021-05-28T14:38:22.873698
+3,la Barceloneta,Restaurants,2017-09-18T13:16:19,2021-05-28T14:38:22.873698
+10,Sant Antoni,Cocteleries,2016-09-28T13:24:18,2021-05-28T14:38:20.749971
+10,Sant Antoni,Xampanyeries,2016-09-28T13:24:18,2021-05-28T14:38:20.749971
+10,Sant Antoni,Restaurants,2016-09-28T13:24:18,2021-05-28T14:38:20.749971
+8,l'Antiga Esquerra de l'Eixample,Cocteleries,2018-07-12T11:42:39,2021-05-28T14:38:45.345322
+8,l'Antiga Esquerra de l'Eixample,Xampanyeries,2018-07-12T11:42:39,2021-05-28T14:38:45.345322
+8,l'Antiga Esquerra de l'Eixample,Restaurants,2018-07-12T11:42:39,2021-05-28T14:38:45.345322
+1,el Raval,Bars i pubs musicals,2024-09-06T09:38:14.965235,2024-09-12T14:37:41.002903
+1,el Raval,Restaurants,2024-09-06T09:38:14.965235,2024-09-12T14:37:41.002903
+4,"Sant Pere, Santa Caterina i la Ribera",Sales de festes,2024-11-06T12:36:02.553002,2024-11-06T12:41:41.580468
+4,"Sant Pere, Santa Caterina i la Ribera",Restaurants,2024-11-06T12:36:02.553002,2024-11-06T12:41:41.580468
+11,el Poble-sec,Cocteleries,2024-11-08T12:34:59.155873,2024-11-08T12:51:33.467798
+11,el Poble-sec,Xampanyeries,2024-11-08T12:34:59.155873,2024-11-08T12:51:33.467798
+11,el Poble-sec,Restaurants,2024-11-08T12:34:59.155873,2024-11-08T12:51:33.467798
