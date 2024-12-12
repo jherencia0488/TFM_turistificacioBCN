@@ -1,0 +1,348 @@
+Te_Subseus,Entitat,Titularitat,Tipus_Equipament,Id_Seu_Principal,Es_subseu_de,Notes_Equipament,Nom_Districte,Id_Equipament,Es_seu_principal,Nom_Barri,Codi_Districte,Nom_Equipament,Codi_Barri,Latitud,_id,Longitud
+NO,Alberto Pons Carrera,Titularitat privada,Sales de música en viu,,,,Ciutat Vella,453,1,el Raval,1,23Robadors ,1,41.3788539,1,2.163502
+NO,Agrupació Congrés,Titularitat privada,Ateneus,,,,Sant Andreu,408,1,el Congrés i els Indians,9,Agrupació Congrés,62,41.424768,2,2.180450
+NO,Confederació Sardanista de Catalunya,Titularitat privada,Ateneus,,,,Ciutat Vella,478,1,"Sant Pere, Santa Caterina i la Ribera",1,Agrupació Cultural Folklòrica Barcelona,4,41.3877756552004,3,2.179969802282483
+NO,Grup Almodobar,Titularitat privada,Sales de música en viu,,,,Gràcia,394,1,la Vila de Gràcia,6,Almo2bar,31,41.4056165,4,2.1621234
+NO,Grup Almodobar,Titularitat privada,Sales de música en viu,,,,Gràcia,393,1,la Vila de Gràcia,6,Almodobar,31,41.4034215,5,2.1677698
+NO,Ajuntament de Barcelona,Ajuntament de Barcelona,Arxius de districte,,,,Horta-Guinardó,332,1,el Baix Guinardó,7,AMDB. Arxiu Municipal Districte d'Horta-Guinardó,33,41.409960057,6,2.169191469
+NO,Ajuntament de Barcelona,Ajuntament de Barcelona,Arxius de districte,,,,Ciutat Vella,323,1,el Raval,1,AMDB. Arxiu Municipal Districte de Ciutat Vella,1,41.382300324,7,2.168061867
+NO,Ajuntament de Barcelona,Ajuntament de Barcelona,Arxius de districte,,,,Gràcia,324,1,Vallcarca i els Penitents,6,AMDB. Arxiu Municipal Districte de Gràcia,28,41.407459816,8,2.149757391
+NO,Ajuntament de Barcelona,Ajuntament de Barcelona,Arxius de districte,,,,Eixample,325,1,Sant Antoni,2,AMDB. Arxiu Municipal Districte de l'Eixample,10,41.376643701,9,2.159247358
+NO,Ajuntament de Barcelona,Ajuntament de Barcelona,Arxius de districte,,,,Les Corts,326,1,les Corts,4,AMDB. Arxiu Municipal Districte de les Corts,19,41.385612855,10,2.129754111
+NO,Ajuntament de Barcelona,Ajuntament de Barcelona,Arxius de districte,,,,Nou Barris,327,1,la Guineueta,8,AMDB. Arxiu Municipal Districte de Nou Barris,48,41.436813681,11,2.171212448
+NO,Ajuntament de Barcelona,Ajuntament de Barcelona,Arxius de districte,,,,Sant Andreu,328,1,Sant Andreu,9,AMDB. Arxiu Municipal Districte de Sant Andreu,60,41.436950581,12,2.192183512
+NO,Ajuntament de Barcelona,Ajuntament de Barcelona,Arxius de districte,,,,Sant Martí,329,1,la Vila Olímpica del Poblenou,10,AMDB. Arxiu Municipal Districte de Sant Martí,67,41.392407372,13,2.197707021
+NO,Ajuntament de Barcelona,Ajuntament de Barcelona,Arxius de districte,,,,Sants-Montjuïc,330,1,Hostafrancs,3,AMDB. Arxiu Municipal Districte de Sants-MontjuÏc,15,41.375377378,14,2.142256283
+NO,Ajuntament de Barcelona,Ajuntament de Barcelona,Arxius de districte,,,,Sarrià-Sant Gervasi,331,1,Sarrià,5,AMDB. Arxiu Municipal Districte Sarrià-St Gervasi,23,41.393875129,15,2.121169107
+NO,Amics de la Unesco de Barcelona,Titularitat privada,Ateneus,,,,Eixample,479,1,l'Antiga Esquerra de l'Eixample,2,Amics de la Unesco de Barcelona,8,41.39052520368022,16,2.157912347982272
+NO,Antic Teatre,Titularitat privada,Sales d'arts escèniques,,,,Ciutat Vella,137,1,"Sant Pere, Santa Caterina i la Ribera",1,Antic Teatre,4,41.387137228,17,2.175892194
+NO,Autopark,Titularitat privada,Sales de música en viu,,,,Sants-Montjuïc,182,1,el Poble Sec,3,Apolo,11,41.374341941,18,2.169489768
+NO,Artisteando Barcelona,Titularitat privada,Sales d'arts escèniques,,,,Eixample,245,1,la Nova Esquerra de l'Eixample,2,Aquitània Teatre,9,41.390208275,19,2.144701461
+NO,Edificios y Espectáculos. Grup Balañá,Titularitat privada,Cinemes,,,,Eixample,334,1,la Nova Esquerra de l'Eixample,2,Arenas de Barcelona Multicines 3D,9,41.376006901,20,2.149957276
+NO,Edificios y Espectáculos. Grup Balañá,Titularitat privada,Cinemes,,,,Eixample,364,1,l'Antiga Esquerra de l'Eixample,2,Aribau Multicines,8,41.384561732,21,2.161367847
+NO,Ministerio de Cultura,Altres administracions públiques,Arxius i biblioteques patrimonials,,,,Sant Martí,74,1,el Parc i la Llacuna del Poblenou,10,Arxiu de la Corona d'Aragó,66,41.395265611,22,2.187388946
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Arxius i biblioteques patrimonials,,,,Ciutat Vella,25,1,"Sant Pere, Santa Caterina i la Ribera",1,Arxiu Fotogràfic de Barcelona,4,41.386872640,23,2.181806284
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Arxius i biblioteques patrimonials,,,,Ciutat Vella,24,1,el Barri Gòtic,1,Arxiu Històric de la Ciutat de Barcelona,2,41.384253792,24,2.175866873
+NO,Hospital de la Santa Creu i Sant Pau,Consorci o fundació amb presència administracions públiques,Arxius i biblioteques patrimonials,,,,Horta-Guinardó,367,1,el Guinardó,7,Arxiu Històric Hospital de la Sta. Creu i Sant Pau,35,41.413341,25,2.174335
+NO,Ajuntament de Barcelona,Ajuntament de Barcelona,Arxius i biblioteques patrimonials,,,,Ciutat Vella,72,1,el Barri Gòtic,1,Arxiu Municipal Contemporani de Barcelona,2,41.383087426,26,2.178749468
+NO,Ateneu Barcelonès,Titularitat privada,Ateneus,,,,Ciutat Vella,409,1,el Barri Gòtic,1,Ateneu Barcelonès,2,41.3846753,27,2.1717826000000287
+NO,La Farinera Ateneu del Clot de Barcelona,Titularitat privada,Ateneus,,,,Sant Martí,410,1,el Clot,10,Ateneu del Clot,65,41.4218753,28,2.178068899999971
+NO,Cor d'Horta,Titularitat privada,Ateneus,,,,Horta-Guinardó,411,1,Horta,7,Ateneu Hortenc,43,41.4301359,29,2.1602420000000393
+NO,Bidó de Nou Barris,Ajuntament de Barcelona,Fàbriques de Creació,,,,Nou Barris,302,1,la Trinitat Nova,8,Ateneu Popular 9 Barris,53,41.448742312,30,2.180393289
+NO,Centre Catòlic de Sants,Titularitat privada,Ateneus,,,,Sants-Montjuïc,414,1,Sants,3,Centre Catòlic de Sants,18,41.3743832,89,2.1348557999999684
+NO,Edificios y Espectáculos. Grup Balañá,Titularitat privada,Cinemes,,,,Sarrià-Sant Gervasi,336,1,el Putxet i el Farró,5,Balmes Multicines,27,41.4071804,31,2.1386014
+NO,Fundació Junta Constructora del Temple Expiatori de la Sagrada Família,Titularitat privada,Espais d'interès patrimonial,,,,Eixample,52,1,la Sagrada Família,2,Basílica de la Sagrada Família,6,41.403188985,32,2.174826626
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Ciutat Vella,77,1,la Barceloneta,1,Biblioteca Barceloneta - La Fraternitat,3,41.379201005,33,2.188854072
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Sant Andreu,105,1,el Bon Pastor,9,Biblioteca Bon Pastor - Josefina Castellví,59,41.435164144,34,2.204659876
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Sant Martí,224,1,el Camp de l'Arpa del Clot,10,Biblioteca Camp de l'Arpa - Caterina Albert,64,41.415766234,35,2.182280785
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Nou Barris,100,1,Canyelles,8,Biblioteca Canyelles - M Àngels Rivas,49,41.443773486,36,2.164322669
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Sarrià-Sant Gervasi,92,1,les Tres Torres,5,Biblioteca Clarà,24,41.399909399,37,2.129455802
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Sarrià-Sant Gervasi,93,1,"Vallvidrera, el Tibidabo i les Planes",5,Biblioteca Collserola - Josep Miracle,22,41.415359022,38,2.102528700
+NO,Biblioteca de Catalunya. Generalitat de Catalunya,Altres administracions públiques,Arxius i biblioteques patrimonials,,,,Ciutat Vella,115,1,el Raval,1,Biblioteca de Catalunya,1,41.381057325,39,2.169793714
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Horta-Guinardó,96,1,el Carmel,7,Biblioteca El Carmel - Juan Marsé,37,41.421104560,40,2.155286623
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Sant Martí,239,1,el Parc i la Llacuna del Poblenou,10,Biblioteca El Clot - Josep Benet,66,41.4019532,41,2.188806
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Eixample,82,1,la Nova Esquerra de l'Eixample,2,Biblioteca Esquerra de l'Eixample - Agustí Centelles,9,41.3864488,42,2.1527896
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Eixample,81,1,el Fort Pienc,2,Biblioteca Fort Pienc - Ana M. Moix,5,41.395555185,43,2.182447586
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Sants-Montjuïc,87,1,la Marina de Port,3,Biblioteca Francesc Candel,13,41.361777512,44,2.136276613
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Ciutat Vella,78,1,"Sant Pere, Santa Caterina i la Ribera",1,Biblioteca Francesca Bonnemaison,4,41.386936575,45,2.175789976
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,"Biblioteca inaugurada la primavera de 2022 en substitució de la Biblioteca Sant Martí de Provençals, tancada definitivament el desembre de 2021.",Sant Martí,470,1,Sant Martí de Provençals,10,Biblioteca Gabriel García Márquez,72,41.417120,46,2.200328
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Ciutat Vella,79,1,el Barri Gòtic,1,Biblioteca Gòtic - Andreu Nin,2,41.378730324,47,2.175978504
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Horta-Guinardó,97,1,el Baix Guinardó,7,Biblioteca Guinardó - Mercè Rodoreda,33,41.414313258,48,2.165318095
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Horta-Guinardó,98,1,Horta,7,Biblioteca Horta - Can Mariner,43,41.431105502,49,2.160733590
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Sant Andreu,107,1,Sant Andreu,9,Biblioteca Ignasi Iglésias - Can Fabra,60,41.434481450,50,2.190871493
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Gràcia,94,1,Vallcarca i els Penitents,6,Biblioteca Jaume Fuster,28,41.407459888,51,2.149757498
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Eixample,83,1,la Nova Esquerra de l'Eixample,2,Biblioteca Joan Miró,9,41.378816801,52,2.149230361
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Sant Andreu,108,1,la Sagrera,9,Biblioteca La Sagrera - Marina Clotet,61,41.425875519,53,2.193764263
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Les Corts,91,1,la Maternitat i Sant Ramon,4,Biblioteca Les Corts - Miquel Llongueras,20,41.377777960,54,2.121760828
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Nou Barris,101,1,les Roquetes,8,Biblioteca Les Roquetes - Rafa Juncadella,50,41.445371792,55,2.177103706
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Horta-Guinardó,99,1,Montbau,7,Biblioteca Montbau - Albert Pérez Baró,40,41.429553532,56,2.142195427
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,Biblioteca inaugurada el 26 de gener de 2018.,Les Corts,403,1,les Corts,4,Biblioteca Montserrat Abelló,19,41.383722,57,2.1352722
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Nou Barris,102,1,la Guineueta,8,Biblioteca Nou Barris - Aurora Díaz Plaja ,48,41.436813681,58,2.171212448
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Sants-Montjuïc,88,1,el Poble Sec,3,Biblioteca Poble Sec - Francesc Boix,11,41.373921824,59,2.164025015
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Sant Martí,109,1,el Poblenou,10,Biblioteca Poblenou - Manuel Arranz,68,41.401373426,60,2.204525705
+NO,Biblioteca Pública Arús,Ajuntament de Barcelona,Arxius i biblioteques patrimonials,,,,Eixample,113,1,el Fort Pienc,2,Biblioteca Pública Arús,5,41.392937252,61,2.178563570
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Sant Martí,110,1,el Besòs i el Maresme,10,Biblioteca Ramon d'Alòs-Moner,70,41.416309274,62,2.211483280
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Eixample,84,1,la Sagrada Família,2,Biblioteca Sagrada Família - J. M. Ainaud de Lasarte,6,41.4055771,63,2.176118
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Eixample,85,1,Sant Antoni,2,Biblioteca Sant Antoni - Joan Oliver,10,41.377384776,64,2.162778079
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Sarrià-Sant Gervasi,365,1,Sant Gervasi - la Bonanova,5,Biblioteca Sant Gervasi - Joan Maragall,25,41.4059495,65,2.136064
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Ciutat Vella,80,1,el Raval,1,Biblioteca Sant Pau - Santa Creu,1,41.381057326,66,2.169793857
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Eixample,86,1,la Dreta de l'Eixample,2,Biblioteca Sofia Barat,7,41.394674294,67,2.171504480
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Sant Andreu,210,1,la Trinitat Vella,9,Biblioteca Trinitat Vella - José Barbero,57,41.449283144,68,2.190748711
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Gràcia,195,1,Vallcarca i els Penitents,6,Biblioteca Vallcarca i els Penitents - M. Antonieta Cot,28,41.420008234,69,2.139657303
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Sants-Montjuïc,89,1,Sants,3,Biblioteca Vapor Vell,18,41.376897256,70,2.134733614
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Gràcia,95,1,la Vila de Gràcia,6,Biblioteca Vila de Gràcia - Rosa M. Arquimbau,31,41.401467067,71,2.158213802
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Nou Barris,103,1,Vilapicina i la Torre Llobeta,8,Biblioteca Vilapicina i la Torre Llobeta - Carmen Laforet,44,41.426885098,72,2.176452383
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Sant Martí,112,1,la Vila Olímpica del Poblenou,10,Biblioteca Xavier Benguerel,67,41.392407385,73,2.197710107
+NO,Consorci de Biblioteques de Barcelona,Ajuntament de Barcelona,Biblioteques de Barcelona,,,,Nou Barris,104,1,Torre Baró,8,Biblioteca Zona Nord - Mària Sánchez,54,41.461237425,74,2.179875786
+NO,Bikini,Titularitat privada,Sales de música en viu,,,,Les Corts,168,1,les Corts,4,Bikini Barcelona,19,41.389714424,75,2.135380995
+NO,Boliche Cinemes,Titularitat privada,Cinemes,,,,Sarrià-Sant Gervasi,337,1,Sant Gervasi - Galvany,5,Boliche Cinemes,26,41.395305248,76,2.153688873
+NO,Edificios y Espectáculos. Grup Balañá,Titularitat privada,Cinemes,,,"L'any 2021, la sala 9 d'aquest cinema es converteix en una sala d'arts escèniques.",Gràcia,338,1,la Vila de Gràcia,6,Bosque Multicines,31,41.401366050,77,2.151704124
+NO,"Fundació Bancària Caixa d'Estalvis i Pensions de Barcelona, ""la Caixa""",Titularitat privada,Centres d'exposicions,,,,Sants-Montjuïc,60,1,la Font de la Guatlla,3,CaixaForum,14,41.371294526,78,2.149575441
+NO,Fundació Vila Casas,Titularitat privada,Museus i col·leccions,,,,Sant Martí,39,1,el Parc i la Llacuna del Poblenou,10,Can Framis. Fundació Vila Casas,66,41.402912812,79,2.194947848
+NO,Fundació Institut Ametller Art Hispànic,Titularitat privada,Espais d'interès patrimonial,,,,Eixample,448,1,la Dreta de l'Eixample,2,Casa Amatller,7,41.3913381,80,2.16468108
+NO,Casa Batlló,Titularitat privada,Espais d'interès patrimonial,,,,Eixample,55,1,la Dreta de l'Eixample,2,Casa Batlló,7,41.3916967,81,2.1649608
+NO,Fundació Junta Constructora del Temple Expiatori de la Sagrada Família,Titularitat privada,Espais d'interès patrimonial,,,,Gràcia,53,1,la Salut,6,Casa Museu Gaudí,30,41.414781293,82,2.155046761
+NO,Casa Vicens Gaudí,Titularitat privada,Espais d'interès patrimonial,,,,Gràcia,437,1,la Vila de Gràcia,6,Casa Vicens,31,41.4036093,83,2.1512308
+NO,Casal Catòlic de Sant Andreu,Titularitat privada,Ateneus,,,,Sant Andreu,412,1,Sant Andreu,9,Casal Catòlic de Sant Andreu,60,41.4355276,84,2.1864693999999645
+NO,Fundació Privada Casino l'Aliança del Poble Nou   ,Titularitat privada,Ateneus,,,,Sant Martí,413,1,el Poblenou,10,Casino l'Aliança del Poblenou,68,41.3997932,85,2.203171999999995
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,,,,Sants-Montjuïc,54,1,el Poble Sec,3,Castell de Montjuïc,11,41.3675648,86,2.1685315
+NO,Bar Ceferino,Titularitat privada,Sales de música en viu,,,,Sant Martí,452,1,el Parc i la Llacuna del Poblenou,10,Ceferino,66,41.3969535,87,2.1911669
+NO,Assoc. Cultural per a la Tradició Musical TRAM,Ajuntament de Barcelona,Sales de música en viu,,,,Gràcia,430,1,la Vila de Gràcia,6,Centre Artesà Tradicionàrius. CAT,31,41.4023522,88,2.1544427
+NO,PROGESS,Ajuntament de Barcelona,Centres cívics,,,,Ciutat Vella,187,1,la Barceloneta,1,Centre Cívic Barceloneta,3,41.380269123,90,2.192300790
+NO,La Puça Espectacles,Ajuntament de Barcelona,Centres cívics,,,,Sant Andreu,291,1,Baró de Viver,9,Centre Cívic Baró de Viver,58,41.448391924,91,2.199921143
+NO,"Tasca, projectes animació sociocultural ",Ajuntament de Barcelona,Centres cívics,,,,Sant Martí,298,1,el Besòs i el Maresme,10,Centre Cívic Besòs,70,41.416306001,92,2.211478868
+NO,Calaix de Cultura,Ajuntament de Barcelona,Centres cívics,,,,Sant Andreu,292,1,el Bon Pastor,9,Centre Cívic Bon Pastor,59,41.434780211,93,2.204911796
+NO,Turó Acció Social Cultural (TASC),Ajuntament de Barcelona,Centres cívics,,,,Nou Barris,287,1,el Turó de la Peira,8,Centre Cívic Can Basté,46,41.430458546,94,2.173212158
+NO,Esport3 Serveis Alternatius,Ajuntament de Barcelona,Centres cívics,,,,Sarrià-Sant Gervasi,272,1,Sant Gervasi - Galvany,5,Centre Cívic Can Castelló,26,41.399005576,95,2.140162970
+NO,Assoc. de Veins del Barri del Congrés-Indians,Ajuntament de Barcelona,Centres cívics,,,,Sant Andreu,429,1,el Congrés i els Indians,9,Centre Cívic Can Clariana Cultural,62,41.4275181,96,2.178412
+NO,Club Lleuresport,Ajuntament de Barcelona,Centres cívics,,,,Les Corts,268,1,les Corts,4,Centre Cívic Can Deu,19,41.386760961,97,2.132502076
+NO,PROGESS,Ajuntament de Barcelona,Centres cívics,,,,Sant Martí,297,1,el Poblenou,10,Centre Cívic Can Felipa,68,41.404013272,98,2.201386526
+NO,Club Lleuresport,Ajuntament de Barcelona,Centres cívics,,,,Nou Barris,288,1,Porta,8,Centre Cívic Can Verdaguer,45,41.433977414,99,2.179080278
+NO,Unió d'Entitats de la Marina,Ajuntament de Barcelona,Centres cívics,,,,Sants-Montjuïc,261,1,la Marina de Port,3,Centre Cívic Casa del Rellotge,13,41.357544067,100,2.141389922
+NO,QSL Serveis Culturals,Ajuntament de Barcelona,Centres cívics,,,,Horta-Guinardó,282,1,Sant Genís dels Agudells,7,Centre Cívic Casa Groga,39,41.426863420,101,2.137450112
+NO,Assoc. Cultural Casa Orlandai,Ajuntament de Barcelona,Centres cívics,,,,Sarrià-Sant Gervasi,273,1,Sarrià,5,Centre Cívic Casa Orlandai,23,41.398330273,102,2.124656447
+NO,"Secretariat d'Entitats de Sants, Hostafrancs i la Bordeta",Ajuntament de Barcelona,Centres cívics,,,,Sants-Montjuïc,262,1,Hostafrancs,3,Centre Cívic Casinet d'Hostafrancs,15,41.377824558,103,2.143204273
+NO,Trànsit Projectes,Ajuntament de Barcelona,Centres cívics,,,,Ciutat Vella,252,1,"Sant Pere, Santa Caterina i la Ribera",1,Centre Cívic Convent de Sant Agustí,4,41.387391384,104,2.181711349
+NO,Trànsit Projectes,Ajuntament de Barcelona,Centres cívics,,,,Eixample,257,1,Sant Antoni,2,Centre Cívic Cotxeres Borrell,10,41.375908694,105,2.163176076
+NO,"Secretariat d'Entitats de Sants, Hostafrancs i la Bordeta",Ajuntament de Barcelona,Centres cívics,,,,Sants-Montjuïc,263,1,Sants,3,Centre Cívic Cotxeres de Sants,18,41.375264199,106,2.136876024
+NO,"Tasca, projectes animació sociocultural ",Ajuntament de Barcelona,Centres cívics,,,,Sant Martí,299,1,el Parc i la Llacuna del Poblenou,10,Centre Cívic del Parc - Sandaru,66,41.391718569,107,2.184755119
+NO,PROGESS,Ajuntament de Barcelona,Centres cívics,,,,Ciutat Vella,253,1,el Raval,1,Centre Cívic Drassanes,1,41.377644996,108,2.172852395
+NO,QSL Serveis Culturals,Ajuntament de Barcelona,Centres cívics,,,,Horta-Guinardó,283,1,el Carmel,7,Centre Cívic El Carmel,37,41.420263994,109,2.151191237
+NO,Calaix de Cultura,Ajuntament de Barcelona,Centres cívics,,,,Gràcia,280,1,el Coll,6,Centre Cívic El Coll - La Bruguera,29,41.418579055,110,2.149896871
+NO,Calaix de Cultura,Ajuntament de Barcelona,Centres cívics,,,,Sants-Montjuïc,264,1,el Poble Sec,3,Centre Cívic El Sortidor,11,41.372066797,111,2.162531728
+NO,Assoc. de Veïns Font de la Guatlla-Magòria,Ajuntament de Barcelona,Centres cívics,,,,Sants-Montjuïc,265,1,la Font de la Guatlla,3,Centre Cívic Font de la Guatlla,14,41.370560397,112,2.147508546
+NO,Calaix de Cultura,Ajuntament de Barcelona,Centres cívics,,,,Eixample,255,1,el Fort Pienc,2,Centre Cívic Fort Pienc,5,41.395557419,113,2.182446362
+NO,Calaix de Cultura,Ajuntament de Barcelona,Centres cívics,,,,Eixample,256,1,la Nova Esquerra de l'Eixample,2,Centre Cívic Golferichs,9,41.380813341,114,2.156392101
+NO,PROGESS,Ajuntament de Barcelona,Centres cívics,,,,Horta-Guinardó,284,1,el Guinardó,7,Centre Cívic Guinardó,35,41.416056397,115,2.173322891
+NO,Club Lleuresport,Ajuntament de Barcelona,Centres cívics,,,,Les Corts,269,1,la Maternitat i Sant Ramon,4,Centre Cívic Joan Oliver - Pere Quart,20,41.379302926,116,2.127757703
+NO,Club Lleuresport,Ajuntament de Barcelona,Centres cívics,,,,Les Corts,271,1,la Maternitat i Sant Ramon,4,Centre Cívic Josep M. Trias i Peitx - Riera Blanca,20,41.377780128,117,2.121762772
+NO,Calaix de Cultura,Ajuntament de Barcelona,Centres cívics,,,,Sarrià-Sant Gervasi,275,1,"Vallvidrera, el Tibidabo i les Planes",5,Centre Cívic l'Elèctric,22,41.419137960,118,2.097871834
+NO,Unió d'Entitats de la Marina,Ajuntament de Barcelona,Centres cívics,,,,Sants-Montjuïc,266,1,la Marina de Port,3,Centre Cívic La Cadena,13,41.364156288,119,2.139067245
+NO,Calaix de Cultura,Ajuntament de Barcelona,Centres cívics,,,,Eixample,258,1,la Dreta de l'Eixample,2,Centre Cívic La Casa Elizalde,7,41.394483818,120,2.165880676
+NO,Club Lleuresport,Ajuntament de Barcelona,Centres cívics,,,,Sant Andreu,293,1,la Sagrera,9,Centre Cívic La Sagrera,61,41.423942321,121,2.189139414
+NO,Relleu Cultural,Ajuntament de Barcelona,Centres cívics,,,,Gràcia,281,1,el Camp d'en Grassot i Gràcia Nova,6,Centre Cívic La Sedeta,32,41.405548940,122,2.167665468
+NO,Ajuntament de Barcelona,Ajuntament de Barcelona,Centres cívics,,,,Horta-Guinardó,286,1,Horta,7,Centre Cívic Matas i Ramis,43,41.432755073,123,2.160711473
+NO,Club Lleuresport,Ajuntament de Barcelona,Centres cívics,,,,Sant Andreu,294,1,Navas,9,Centre Cívic Navas,63,41.416904706,124,2.184919133
+NO,Trànsit Projectes,Ajuntament de Barcelona,Centres cívics,,,,Ciutat Vella,254,1,el Barri Gòtic,1,Centre Cívic Pati Llimona,2,41.381635545,125,2.179176281
+NO,Calaix de Cultura,Ajuntament de Barcelona,Centres cívics,,,,Sarrià-Sant Gervasi,276,1,Sant Gervasi - la Bonanova,5,Centre Cívic Pere Pruna,25,41.403181601,126,2.131302875
+NO,Trànsit Projectes,Ajuntament de Barcelona,Centres cívics,,,,Eixample,259,1,la Sagrada Família,2,Centre Cívic Sagrada Família,6,41.405380126,127,2.176760148
+NO,Ajuntament de Barcelona,Ajuntament de Barcelona,Centres cívics,,,,Sant Andreu,295,1,Sant Andreu,9,Centre Cívic Sant Andreu,60,41.430852888,128,2.189400581
+NO,Trànsit Projectes,Ajuntament de Barcelona,Centres cívics,,,,Sant Martí,300,1,Sant Martí de Provençals,10,Centre Cívic Sant Martí,72,41.416622171,129,2.198563813
+NO,QSL Serveis Culturals,Ajuntament de Barcelona,Centres cívics,,,,Sarrià-Sant Gervasi,277,1,Sarrià,5,Centre Cívic Sarrià,23,41.393871979,130,2.121163587
+NO,QSL Serveis Culturals,Ajuntament de Barcelona,Centres cívics,,,,Horta-Guinardó,285,1,la Teixonera,7,Centre Cívic Teixonera,38,41.422637884,131,2.144554558
+NO,PROGESS,Ajuntament de Barcelona,Centres cívics,,,,Les Corts,270,1,les Corts,4,Centre Cívic Tomasa Cuevas - Les Corts,19,41.384783744,132,2.128318397
+NO,Esport3 Serveis Alternatius,Ajuntament de Barcelona,Centres cívics,,,,Nou Barris,289,1,Vilapicina i la Torre Llobeta,8,Centre Cívic Torre Llobeta,44,41.426896898,133,2.173951442
+NO,Calaix de Cultura,Ajuntament de Barcelona,Centres cívics,,,,Sant Andreu,296,1,la Trinitat Vella,9,Centre Cívic Trinitat Vella,57,41.451618627,134,2.191189600
+NO,Calaix de Cultura,Ajuntament de Barcelona,Centres cívics,,,,Eixample,260,1,la Nova Esquerra de l'Eixample,2,Centre Cívic Urgell,9,41.386861397,135,2.152032146
+NO,Calaix de Cultura,Ajuntament de Barcelona,Centres cívics,,,,Sarrià-Sant Gervasi,278,1,"Vallvidrera, el Tibidabo i les Planes",5,Centre Cívic Vallvidrera Vázquez Montalbán,22,41.415364217,136,2.102530794
+NO,Reial Cercle Artístic,Titularitat privada,Ateneus,,,,Ciutat Vella,425,1,el Barri Gòtic,1,Reial Cercle Artístic,2,41.3846867,292,2.174380000000042
+NO,QSL Serveis Culturals,Ajuntament de Barcelona,Centres cívics,,,,Sarrià-Sant Gervasi,279,1,Sant Gervasi - la Bonanova,5,Centre Cívic Vil·la Florida,25,41.405337410,137,2.135294028
+NO,Trànsit Projectes,Ajuntament de Barcelona,Centres cívics,,,,Sarrià-Sant Gervasi,447,1,el Putxet i el Farró,5,Centre Cívic Vil·la Urània,27,41.3986429,138,2.14276
+NO,Trànsit Projectes,Ajuntament de Barcelona,Centres cívics,,,,Nou Barris,290,1,Ciutat Meridiana,8,Centre Cívic Zona Nord,55,41.461113806,139,2.177397304
+NO,Centre Comarcal Lleidatà,Titularitat privada,Ateneus,,,,Eixample,449,1,la Dreta de l'Eixample,2,Centre Comarcal Lleidatà,7,41.3863747,140,2.1646697
+NO,Calaix de Cultura,Ajuntament de Barcelona,Centres cívics,,,,Sants-Montjuïc,267,1,el Poble Sec,3,Centre Cultural Albareda,11,41.373999934,141,2.173269239
+NO,Centre Cultural Els Catalanistes,Titularitat privada,Ateneus,,,,Sant Andreu,438,1,Sant Andreu,9,Centre Cultural els Catalanistes,60,41.432009,142,2.1913912
+NO,Centre Cultural Els Propis,Titularitat privada,Ateneus,,,,Nou Barris,428,1,Verdun,8,Centre Cultural Els Propis,51,41.4452378,143,2.1789977
+NO,Fed. Entitats Clot Camp Arpa,Ajuntament de Barcelona,Centres cívics,,,,Sant Martí,301,1,el Clot,10,Centre Cultural la Farinera del Clot,65,41.404913599,144,2.188442671
+NO,Centre Cultural Sant Vicenç de Sarrià,Titularitat privada,Ateneus,,,,Sarrià-Sant Gervasi,415,1,Sarrià,5,Centre Cultural Sant Vicenç de Sarrià,23,41.400585,145,2.1207044000000224
+NO,Assoc. de la Imatgeria Festiva del Poblenou,Ajuntament de Barcelona,Cases de la Festa,,,,Sant Martí,461,1,el Poblenou,10,Centre d'Imatgeria Festiva de Sant Martí - Can Sal,68,41.40157412252128,146,2.2045472261774126
+NO,Centre de Cultura Contemporània de Barcelona (CCCB),Consorci o fundació amb presència administracions públiques,Centres d'exposicions,,,,Ciutat Vella,57,1,el Raval,1,Centre de Cultura Contemporània de Barcelona. CCCB,1,41.383883057,147,2.166795152
+NO,Ajuntament de Barcelona,Ajuntament de Barcelona,Cases de la Festa,,,,Sant Andreu,460,1,Sant Andreu,9,Centre de Cultura Popular de Sant Andreu,60,41.440796263112944,148,2.1877800550148336
+NO,Diputació de Barcelona,Altres administracions públiques,Arxius i biblioteques patrimonials,,,,Sants-Montjuïc,250,1,el Poble Sec,3,Centre de Doc. i Museu de les Arts Escèniques,11,41.370647908,149,2.157431333
+NO,Centre Moral i Cultural del Poblenou,Titularitat privada,Ateneus,,,,Sant Martí,416,1,el Poblenou,10,Centre Moral i Cultural del Poblenou,68,41.401115,150,2.200169800000026
+NO,Centre Moral Instructiu de Gràcia,Titularitat privada,Ateneus,,,,Gràcia,417,1,la Vila de Gràcia,6,Centre Moral i Instructiu de Gràcia,31,41.4010837,151,2.15471320000006
+NO,Centre Sant Pere Apòstol,Titularitat privada,Ateneus,,,,Ciutat Vella,418,1,"Sant Pere, Santa Caterina i la Ribera",1,Centre Sant Pere 1892,4,41.3881272,152,2.1762837999999647
+NO,Cercle Catòlic de Gràcia,Titularitat privada,Ateneus,,,,Gràcia,419,1,la Vila de Gràcia,6,Cercle Catòlic de Gràcia,31,41.4037318,153,2.152953000000025
+NO,Mònica Escrivà i Pedrol,Titularitat privada,Cinemes,,,,Ciutat Vella,339,1,el Barri Gòtic,1,Cinema Maldà,2,41.383570271,154,2.173149870
+NO,Cinemes Girona,Titularitat privada,Cinemes,,,,Eixample,340,1,la Dreta de l'Eixample,2,Cinemes Girona,7,41.399596039,155,2.164612168
+NO,Cinesa Compañía de Iniciativas y Espectáculos,Titularitat privada,Cinemes,,,,Sarrià-Sant Gervasi,343,1,Sant Gervasi - Galvany,5,Cinesa Diagonal,26,41.394268940,156,2.137358643
+NO,Cinesa Compañía de Iniciativas y Espectáculos,Titularitat privada,Cinemes,,,,Sant Martí,344,1,Diagonal Mar i el Front Marítim del Poblenou,10,Cinesa Diagonal Mar,69,41.410974400,157,2.218580826
+NO,Cinesa Compañía de Iniciativas y Espectáculos,Titularitat privada,Cinemes,,,,Sant Andreu,342,1,el Bon Pastor,9,Cinesa La Maquinista,59,41.442744917,158,2.200222125
+NO,Cinesa Compañía de Iniciativas y Espectáculos,Titularitat privada,Cinemes,,,,Nou Barris,471,1,Porta,8,Cinesa Som Multiespai,45,41.43544,159,2.18078
+NO,Edificios y Espectáculos. Grup Balañá,Titularitat privada,Sales d'arts escèniques,,,,Eixample,123,1,la Dreta de l'Eixample,2,Coliseum,7,41.388275,160,2.166088
+NO,"Fundació Bancària Caixa d'Estalvis i Pensions de Barcelona, ""la Caixa""",Titularitat privada,Museus i col·leccions,,,,Sarrià-Sant Gervasi,47,1,Sant Gervasi - la Bonanova,5,CosmoCaixa,25,41.413267367,161,2.130658424
+NO,Eix 49,Titularitat privada,Sales d'arts escèniques,,,,Sants-Montjuïc,457,1,el Poble Sec,3,Dau al Sec,11,41.3713037,162,2.1648109
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Centres d'exposicions,4,Disseny Hub Barcelona. DHub,,Sant Andreu,200,0,Sant Andreu,9,DHub. Casa Bloc,60,41.440944620,163,2.190335733
+NO,Profedia Central,Titularitat privada,Sales de música en viu,,,,Ciutat Vella,396,1,"Sant Pere, Santa Caterina i la Ribera",1,Diobar,4,41.3855443,164,2.185382
+NO,Centre Cultural Euskal Etxea Barcelona,Titularitat privada,Sales de música en viu,,,,Ciutat Vella,397,1,"Sant Pere, Santa Caterina i la Ribera",1,Euskal Etxea,4,41.3845051,177,2.1819542
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Centres d'exposicions,,,,Sant Andreu,226,1,Sant Andreu,9,Fabra i Coats - Centre d'Art Contemporani,60,41.433762956,178,2.190815632
+SI,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Centres d'exposicions,,,"2/12/2008: el Museu de les Arts Decoratives, el Museu Tèxtil i el Museu de Ceràmica es van constituir com el nou Disseny Hub Barcelona; 2009-2012: el Disseny Hub Barcelona va desenvolupar la seva activitat a les seus del carrer Montcada i del Palau de Pedralbes; 2012: les seus de Montcada i Pedralbes van tancar per preparar trasllat a un nou edifici a la plaça de les Glòries; 13/12/2014: s'inaugura el Disseny Hub Barcelona - Museu del Disseny al nou edifici de la plaça de les Glòries; 2024: el DHub es posiciona com el centre neuràlgic del disseny, l¿arquitectura, l¿audiovisual, la tecnologia, el videojoc i la innovació i és la seu del Museu del Disseny de Barcelona.",Sant Martí,4,1,el Parc i la Llacuna del Poblenou,10,Disseny Hub Barcelona. DHub,66,41.4025295461622,165,2.1880652060461467
+NO,"Eixample Teatre, Magiajunior-83",Titularitat privada,Sales d'arts escèniques,,,,Eixample,125,1,l'Antiga Esquerra de l'Eixample,2,Eixample Teatre,8,41.385343,166,2.155808
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,,,,Ciutat Vella,238,1,"Sant Pere, Santa Caterina i la Ribera",1,El Born Centre de Cultura i Memòria,4,41.385641483,167,2.183568044
+NO,Marfúrius,Titularitat privada,Sales d'arts escèniques,,,,Ciutat Vella,140,1,el Barri Gòtic,1,El Maldà,2,41.383570271,168,2.173149870
+NO,Barcelona Events Musicals,Ajuntament de Barcelona,Sales de música en viu,,,,Sants-Montjuïc,124,1,el Poble Sec,3,El Molino,11,41.374517759963254,169,2.167227381695062
+NO,FESVI,Titularitat privada,Sales de música en viu,,,,Ciutat Vella,443,1,el Barri Gòtic,1,El Paraigua,2,41.3819109,170,2.1767686
+NO,Gesteatral del Vallès,Titularitat privada,Sales d'arts escèniques,,,,Sants-Montjuïc,135,1,el Poble Sec,3,El Victòria,11,41.374778065,171,2.169244522
+NO,Ajuntament de Barcelona,Ajuntament de Barcelona,Cases de la Festa,,,,Gràcia,462,1,la Vila de Gràcia,6,Espai Albert Musons,31,41.406272949756136,172,2.156592268505591
+NO,Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,,,,Sants-Montjuïc,386,1,el Poble Sec,3,Espai Bombers Parc de la Prevenció,11,41.373639,173,2.1543788
+NO,Assoc. Cultural Salvadiscos,Titularitat privada,Sales de música en viu,,,,Sants-Montjuïc,482,1,el Poble Sec,3,Espai Salvadiscos,11,41.37373,174,2.15617
+NO,Cinema Illa Mesina SL i Teatre Texas SL,Titularitat privada,Cinemes,,,El 2023 va tornar a obrir aquest espai amb dues sales de cinema i una nova sala teatral de 200 localitats.,Gràcia,383,1,la Vila de Gràcia,6,Espai Texas,31,41.402039,175,2.163669
+NO,Fundació Vila Casas,Titularitat privada,Centres d'exposicions,,,,Eixample,231,1,la Dreta de l'Eixample,2,Espais VolART i VolART2. Fundació Vila Casas,7,41.390963134,176,2.175293998
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Fàbriques de Creació,,,,Sant Andreu,303,1,Sant Andreu,9,Fabra i Coats - Fàbrica de Creació,60,41.433558800,179,2.191379525
+NO,Institut Català de les Empreses Culturals (ICEC). Generalitat de Catalunya,Altres administracions públiques,Cinemes,,,,Ciutat Vella,363,1,el Raval,1,Filmoteca de Catalunya,1,41.3784206,180,2.1712328
+NO,Assoc. Foment Hortenc,Titularitat privada,Ateneus,,,,Horta-Guinardó,420,1,Horta,7,Foment Hortenc,43,41.4309732,181,2.1594603999999435
+NO,Assoc. Foment Martinenc,Titularitat privada,Ateneus,,,,Sant Martí,421,1,el Camp de l'Arpa del Clot,10,Foment Martinenc,64,41.4104593,182,2.182719499999962
+NO,Assoc. Cultural Freedonia,Titularitat privada,Sales de música en viu,,,,Ciutat Vella,432,1,el Raval,1,Freedonia,1,41.3772894,183,2.1670145
+NO,Fundació Foto Colectània,Titularitat privada,Museus i col·leccions,,,,Ciutat Vella,232,1,"Sant Pere, Santa Caterina i la Ribera",1,Fundació Foto Colectania,4,41.3876349,184,2.1827391
+NO,Fundació Fran Daurel,Titularitat privada,Museus i col·leccions,,,,Sants-Montjuïc,38,1,el Poble Sec,3,Fundació Fran Daurel,11,41.368986024213875,185,2.147697935147927
+NO,Fundació Joan Brossa,Ajuntament de Barcelona,Fàbriques de Creació,,,,Ciutat Vella,307,1,"Sant Pere, Santa Caterina i la Ribera",1,Fundació Joan Brossa - Centre de les Arts Lliures,4,41.385217359,186,2.182361375
+NO,Fundació Joan Miró,Consorci o fundació amb presència administracions públiques,Museus i col·leccions,,,,Sants-Montjuïc,29,1,el Poble Sec,3,Fundació Joan Miró,11,41.36863,187,2.159851
+NO,Fundació Julio Muñoz i Ramonet. Ajuntament de Barcelona,Ajuntament de Barcelona,Espais d'interès patrimonial,,,,Sarrià-Sant Gervasi,494,1,Sant Gervasi - Galvany,5,Fundació Julio Muñoz Ramonet,26,41.39656898913028,188,2.147035912539778
+NO,Fundació Privada Josep I. Suñol Soler,Titularitat privada,Museus i col·leccions,,,,Les Corts,40,1,la Maternitat i Sant Ramon,4,Fundació Suñol,20,41.3826167,189,2.1262746
+NO,Garage 442,Titularitat privada,Sales de música en viu,,,,Eixample,483,1,la Dreta de l'Eixample,2,Garage 442,7,41.39727,190,2.16072
+NO,Gatsby,Titularitat privada,Sales de música en viu,,,,Sarrià-Sant Gervasi,484,1,Sant Gervasi - Galvany,5,Gatsby,26,41.39637,191,2.15142
+NO,Edificios y Espectáculos. Grup Balañá,Titularitat privada,Cinemes,,,,Sant Martí,349,1,el Parc i la Llacuna del Poblenou,10,Glòries Multicines,66,41.404944395,192,2.192504086
+NO,Magandango,Titularitat privada,Sales d'arts escèniques,,,,Gràcia,136,1,la Vila de Gràcia,6,Golem'S,31,41.406091398,193,2.161404860
+NO,Edificios y Espectáculos. Grup Balañá,Titularitat privada,Cinemes,,,,Sarrià-Sant Gervasi,350,1,les Tres Torres,5,Gran Sarrià Multicinemes,24,41.393832748,194,2.133194754
+NO,Consorci del Gran Teatre del Liceu,Consorci o fundació amb presència administracions públiques,Grans auditoris,,,,Ciutat Vella,191,1,el Raval,1,Gran Teatre del Liceu,1,41.380115249,195,2.173329003
+NO,Consorci Mercat de les Flors,Ajuntament de Barcelona,Fàbriques de Creació,,,,Sants-Montjuïc,241,1,la Marina de Port,3,Graner,13,41.361492275,196,2.135956703
+NO,Guzzo,Titularitat privada,Sales de música en viu,,,,Ciutat Vella,485,1,"Sant Pere, Santa Caterina i la Ribera",1,Guzzo,4,41.38532,197,2.18368
+NO,Assoc. d'Artistes Visuals de Catalunya (AAVC),Ajuntament de Barcelona,Fàbriques de Creació,,,,Sant Martí,305,1,Provençals del Poblenou,10,Hangar,71,41.407975,198,2.198792
+NO,Sergio Daniel Negro Speroni,Titularitat privada,Sales de música en viu,,,,Ciutat Vella,169,1,el Barri Gòtic,1,Harlem Jazz Club,2,41.381142750,199,2.178407934
+NO,Hemp Museums BV Sucursal Espanya,Titularitat privada,Museus i col·leccions,,,,Ciutat Vella,229,1,el Barri Gòtic,1,Hash Marihuana Cáñamo & Hemp Museum,2,41.380783393,200,2.180139311
+NO,TITUS ANDRONIC SL,Titularitat privada,Sales d'arts escèniques,,,,Sants-Montjuïc,496,1,Sants - Badal,3,Heartbreak Hotel,17,41.373158866065175,201,2.128854605845001
+NO,Heliogàbal,Titularitat privada,Sales de música en viu,,,El 2023 aquest espai va obtenir l'acreditació d'espai de Cultura Viva.,Gràcia,170,1,la Vila de Gràcia,6,Heliogàbal,31,41.40352,202,2.16018
+NO,Layers of reality,Titularitat privada,Centres d'exposicions,,,,Sant Martí,474,1,el Poblenou,10,Ideal - Centre d'Arts Digitals,68,41.39795,203,2.20267
+NO,PELAIMAS. Grup Mas i Mas,Titularitat privada,Sales de música en viu,,,,Ciutat Vella,181,1,el Barri Gòtic,1,Jamboree,2,41.379703771,204,2.175268003
+NO,Taller de Músics,Titularitat privada,Sales de música en viu,,,,Ciutat Vella,171,1,el Raval,1,Jazz Sí Club,1,41.379806535,205,2.164072884
+NO,Jove Teatre Regina,Titularitat privada,Sales d'arts escèniques,,,,Gràcia,126,1,la Vila de Gràcia,6,Jove Teatre Regina,31,41.396845566,206,2.156149548
+NO,Fundació MAPFRE,Titularitat privada,Centres d'exposicions,,,,Sant Martí,456,1,la Vila Olímpica del Poblenou,10,KBr Fundación MAPFRE,67,41.388415,207,2.1960494
+NO,Aspro Parks,Titularitat privada,Museus i col·leccions,,,,Ciutat Vella,48,1,el Barri Gòtic,1,L'Aquàrium,2,41.376477557,208,2.184560919
+NO,L'Auditori,Consorci o fundació amb presència administracions públiques,Grans auditoris,,,,Eixample,193,1,el Fort Pienc,2,L'Auditori,5,41.398741043,209,2.185141717
+NO,Assoc. La Escuelita,Titularitat privada,Sales d'arts escèniques,,,,Gràcia,246,1,la Vila de Gràcia,6,L'Autèntica,31,41.40543,210,2.15707
+NO,Badabadoc Produccions Artístiques,Titularitat privada,Sales d'arts escèniques,,,,Gràcia,435,1,la Vila de Gràcia,6,La Badabadoc,31,41.40329835,211,2.16160013
+NO,ACDAC La Caldera,Ajuntament de Barcelona,Fàbriques de Creació,,,,Les Corts,385,1,les Corts,4,La Caldera,19,41.3841617,212,2.1286503999999695
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Centres d'exposicions,,,,Ciutat Vella,56,1,el Raval,1,La Capella,1,41.381057326,213,2.169793857
+NO,Confederació Sardanista de Catalunya,Titularitat privada,Cases de la Festa,,,,Ciutat Vella,466,1,"Sant Pere, Santa Caterina i la Ribera",1,La Casa de la Sardana,4,41.38783942673868,214,2.179949590611282
+NO,Fed. d'Entitats de Cultura Popular i Tradicional de Barcelona Vella i La Casa dels Entremesos,Ajuntament de Barcelona,Cases de la Festa,,,,Ciutat Vella,463,1,el Barri Gòtic,1,La Casa dels Entremesos,2,41.38612232109628,215,2.176880190594856
+NO,Assoc. de Professionals del Circ de Catalunya,Ajuntament de Barcelona,Fàbriques de Creació,,,,Sant Martí,306,1,el Besòs i el Maresme,10,La Central del Circ,70,41.411256,216,2.22647
+NO,Kop de Mà Bar,Titularitat privada,Sales de música en viu,,,,Sants-Montjuïc,486,1,Sants,3,La Deskomunal,18,41.37602,217,2.13239
+NO,Assoc. d'Idees Ema,Ajuntament de Barcelona,Fàbriques de Creació,,,,Sant Martí,304,1,Provençals del Poblenou,10,La Escocesa,71,41.411243983,218,2.203826943
+NO,Barbara Granados Simon,Titularitat privada,Sales d'arts escèniques,,,,Sarrià-Sant Gervasi,405,1,el Putxet i el Farró,5,La Gleva,27,41.403173,219,2.146046
+NO,Ajuntament de Barcelona,Ajuntament de Barcelona,Espais d'interès patrimonial,,,,Eixample,493,1,la Nova Esquerra de l'Eixample,2,La Model Espai Memorial,9,41.38313067790676,220,2.1447265959593116
+NO,Teatre de la Nau,Titularitat privada,Sales de música en viu,,,,Sant Martí,445,1,la Vila Olímpica del Poblenou,10,La Nau,67,41.3942712,221,2.197051
+NO,Asoc. Cultural Sala Ón,Titularitat privada,Sales d'arts escèniques,,,Antiga Sala Ón.,Gràcia,469,1,la Vila de Gràcia,6,La Off Barcelona,31,41.403961,222,2.168091
+NO,Fundació Catalunya - La Pedrera,Titularitat privada,Espais d'interès patrimonial,,,,Eixample,61,1,la Dreta de l'Eixample,2,La Pedrera,7,41.395316302,223,2.162043384
+NO,La Puntual,Titularitat privada,Sales d'arts escèniques,,,,Ciutat Vella,214,1,"Sant Pere, Santa Caterina i la Ribera",1,La Puntual,4,41.386779395,224,2.181261530
+NO,Zanuy i Grifell,Titularitat privada,Sales de música en viu,,,,Gràcia,398,1,la Vila de Gràcia,6,La Sonora de Gràcia,31,41.3984803,225,2.1550105
+NO,Fed. Torre de La Sagrera,Ajuntament de Barcelona,Cases de la Festa,,,,Sant Andreu,468,1,la Sagrera,9,La Torre de la Sagrera,61,41.42386311946190,226,2.1919427789188600
+NO,Centre d'Investigació i Recerca Teatral i Artística (CIRTA). Grup Focus,Titularitat privada,Sales d'arts escèniques,,,,Eixample,127,1,l'Antiga Esquerra de l'Eixample,2,La Villarroel,8,41.384515128,227,2.157499403
+NO,Coordinadora de Colles de Cultura Popular de Gràcia,Ajuntament de Barcelona,Cases de la Festa,,,,Gràcia,464,1,la Vila de Gràcia,6,La Violeta de Gràcia,31,41.4009781058417,228,2.156228797341406
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Centres d'exposicions,,,,Ciutat Vella,26,1,el Raval,1,La Virreina Centre de la Imatge,1,41.382498322,229,2.171708630
+NO,Giferman,Titularitat privada,Sales de música en viu,,,,Sants-Montjuïc,451,1,el Poble Sec,3,Laut,11,41.373737,230,2.170002
+NO,Discoteca les Enfants,Titularitat privada,Sales de música en viu,,,,Ciutat Vella,399,1,el Raval,1,Les Enfants,1,41.3780104,231,2.1737371
+NO,Lluïsos d'Horta,Titularitat privada,Ateneus,,,,Horta-Guinardó,423,1,Horta,7,Lluïsos d'Horta,43,41.432317,232,2.1602766999999403
+NO,Lluïsos de Gràcia,Titularitat privada,Ateneus,,,,Gràcia,422,1,la Vila de Gràcia,6,Lluïsos de Gràcia,31,41.4072721,233,2.1556355000000167
+NO,Muntanal,Titularitat privada,Sales de música en viu,,,,Sarrià-Sant Gervasi,172,1,Sant Gervasi - Galvany,5,Luz de Gas,26,41.394592939,234,2.149045108
+NO,Marula Barna,Titularitat privada,Sales de música en viu,,,,Ciutat Vella,243,1,el Barri Gòtic,1,Marula Cafè,2,41.38506,235,2.17340
+NO,Consorci del Museu de Ciències Naturals de Barcelona,Consorci o fundació amb presència administracions públiques,Museus i col·leccions,19,Museu de Ciències Naturals de Barcelona. MCNB,,Sants-Montjuïc,23,0,el Poble Sec,3,MCNB Jardí Botànic de Barcelona,11,41.361147184,236,2.152670465
+NO,Consorci del Museu de Ciències Naturals de Barcelona,Consorci o fundació amb presència administracions públiques,Museus i col·leccions,19,Museu de Ciències Naturals de Barcelona. MCNB,,Sants-Montjuïc,477,0,el Poble Sec,3,MCNB Jardí Botànic Històric,11,41.3691019,237,2.1547425
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,8,Museu d'Història de Barcelona. MUHBA,,Gràcia,12,0,la Salut,6,MUHBA Park Güell. Casa del Guarda,30,41.413478226,251,2.153109601
+SI,Consorci Mercat de les Flors,Consorci o fundació amb presència administracions públiques,Sales d'arts escèniques,,,,Sants-Montjuïc,199,1,el Poble Sec,3,Mercat de les Flors,11,41.37122403290831,238,2.1570425220800273
+NO,Asoc. Cultural Meteora,Titularitat privada,Sales de música en viu,,,,Sants-Montjuïc,450,1,el Poble Sec,3,Meteoro,11,41.371866,239,2.167476
+NO,Larregola Univer Milano,Titularitat privada,Sales de música en viu,,,,Eixample,219,1,la Dreta de l'Eixample,2,Milano Jazz Club,7,41.3872273,240,2.1676775
+NO,"Modern Contemporary Museum, business name of Moco Museum B.V",Titularitat privada,Museus i col·leccions,,,,Ciutat Vella,475,1,"Sant Pere, Santa Caterina i la Ribera",1,Moco Museum Barcelona,4,41.38487,241,2.18153
+NO,PELAIMAS. Grup Mas i Mas,Titularitat privada,Sales de música en viu,,,,Ciutat Vella,173,1,el Raval,1,Moog,1,41.377989,242,2.1750813
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,370,Museu Etnològic i de Cultures del Món. MUEC,,Sants-Montjuïc,369,0,el Poble Sec,3,MUEC Parc Montjuïc,11,41.369062110,243,2.155983304
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,8,Museu d'Història de Barcelona. MUHBA,Equipament inaugurat l'11 de març de 2023.,Sant Andreu,404,0,el Bon Pastor,9,MUHBA Bon Pastor,59,41.437479521398274,244,2.20592659645363
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,8,Museu d'Història de Barcelona. MUHBA,,Nou Barris,188,0,la Trinitat Nova,8,MUHBA Casa de l'Aigua,53,41.45358945,245,2.18753684
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,8,Museu d'Història de Barcelona. MUHBA,,Ciutat Vella,389,0,el Barri Gòtic,1,MUHBA Domus Avinyó,2,41.3811464,246,2.1766719
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,8,Museu d'Història de Barcelona. MUHBA,,Ciutat Vella,16,0,el Barri Gòtic,1,MUHBA Domus de Sant Honorat,2,41.383007,247,2.175869
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,8,Museu d'Història de Barcelona. MUHBA,,Ciutat Vella,15,0,el Barri Gòtic,1,MUHBA El Call,2,41.383012,248,2.175397
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,8,Museu d'Història de Barcelona. MUHBA,,Sant Andreu,390,0,Sant Andreu,9,MUHBA Fabra i Coats,60,41.4336755,249,2.1915119
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,8,Museu d'Història de Barcelona. MUHBA,,Sant Martí,388,0,Provençals del Poblenou,10,MUHBA Oliva Artés,71,41.4083335,250,2.201517
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,8,Museu d'Història de Barcelona. MUHBA,,Ciutat Vella,444,0,el Barri Gòtic,1,MUHBA Porta de Mar,2,41.3814606,252,2.1791487
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,8,Museu d'Història de Barcelona. MUHBA,,Sants-Montjuïc,14,0,el Poble Sec,3,MUHBA Refugi 307,11,41.371817,253,2.16647
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,8,Museu d'Història de Barcelona. MUHBA,,Horta-Guinardó,387,0,Can Baró,7,MUHBA Turó de la Rovira,34,41.4194856,254,2.1637004
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,8,Museu d'Història de Barcelona. MUHBA,,Ciutat Vella,17,0,el Barri Gòtic,1,MUHBA Via Sepulcral Romana,2,41.384719,255,2.172543
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,8,Museu d'Història de Barcelona. MUHBA,,Sarrià-Sant Gervasi,11,0,"Vallvidrera, el Tibidabo i les Planes",5,MUHBA Vil·la Joana,22,41.419737,256,2.099737
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Espais d'interès patrimonial,189,Espais patrimonials del MUHBA,,Ciutat Vella,13,0,"Sant Pere, Santa Caterina i la Ribera",1,MUHBA. Santa Caterina,4,41.386264,257,2.178572
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Espais d'interès patrimonial,189,Espais patrimonials del MUHBA,,Ciutat Vella,190,0,el Barri Gòtic,1,MUHBA. Temple d'August,2,41.384316,258,2.177521
+NO,Generalitat de Catalunya,Altres administracions públiques,Museus i col·leccions,,,,Sants-Montjuïc,36,1,el Poble Sec,3,Museu d'Arqueologia de Catalunya,11,41.370153865,259,2.157646024
+NO,Museu d'Art Contemporani de Barcelona,Consorci o fundació amb presència administracions públiques,Museus i col·leccions,,,,Ciutat Vella,28,1,el Raval,1,Museu d'Art Contemporani de Barcelona. MACBA,1,41.383145956,260,2.167830774
+SI,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,,,,Ciutat Vella,8,1,el Barri Gòtic,1,Museu d'Història de Barcelona. MUHBA,2,41.384316,261,2.177521
+NO,Generalitat de Catalunya,Altres administracions públiques,Museus i col·leccions,,,,Ciutat Vella,37,1,la Barceloneta,1,Museu d'Història de Catalunya,3,41.380668608,262,2.185503480
+NO,Barcino Culturae Novae,Titularitat privada,Museus i col·leccions,,,,Ciutat Vella,45,1,el Barri Gòtic,1,Museu de Cera,2,41.377099024,263,2.177442932
+NO,Museu Nacional d'Art de Catalunya,Consorci o fundació amb presència administracions públiques,Museus i col·leccions,,,,Sants-Montjuïc,27,1,el Poble Sec,3,Museu Nacional d'Art de Catalunya. MNAC,11,41.368853566,276,2.153363173
+SI,Consorci del Museu de Ciències Naturals de Barcelona,Consorci o fundació amb presència administracions públiques,Museus i col·leccions,,,,Sant Martí,19,1,el Besòs i el Maresme,10,Museu de Ciències Naturals de Barcelona. MCNB,70,41.410779883,264,2.220482541
+NO,Erotic Museum,Titularitat privada,Museus i col·leccions,,,,Ciutat Vella,46,1,el Barri Gòtic,1,Museu de l'Eròtica,2,41.382282529,265,2.172714946
+NO,Consorci de L'Auditori i l'Orquestra,Consorci o fundació amb presència administracions públiques,Museus i col·leccions,,,,Eixample,31,1,el Fort Pienc,2,Museu de la Música,5,41.398366625,266,2.184867722
+NO,Fundació de l'escola del Gremi de Pastisseria i Museu de la Xocolata de Barcelona,Titularitat privada,Museus i col·leccions,,,,Ciutat Vella,42,1,"Sant Pere, Santa Caterina i la Ribera",1,Museu de la Xocolata,4,41.387387733,267,2.181708405
+NO,Futbol Club Barcelona,Titularitat privada,Museus i col·leccions,,,,Les Corts,44,1,la Maternitat i Sant Ramon,4,Museu del Futbol Club Barcelona,20,41.379059282,268,2.120267204
+NO,Gothsland Art i Cultura,Titularitat privada,Museus i col·leccions,,,,Eixample,41,1,la Dreta de l'Eixample,2,Museu del Modernisme de Barcelona,7,41.388876027,269,2.163384936
+NO,Barcelona de Serveis Municipals. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,,,,Sarrià-Sant Gervasi,35,1,"Vallvidrera, el Tibidabo i les Planes",5,Museu dels Autòmats del Tibidabo,22,41.42174827,270,2.11979347
+NO,Fundació Arqueològica Clos,Titularitat privada,Museus i col·leccions,,,,Eixample,43,1,la Dreta de l'Eixample,2,Museu Egipci de Barcelona,7,41.393626242,271,2.164736478
+SI,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,,,,Sants-Montjuïc,370,1,el Poble Sec,3,Museu Etnològic i de Cultures del Món. MUEC,11,41.369062110,272,2.155983304
+NO,Fundació Privada de les Arts i els Artistes,Titularitat privada,Museus i col·leccions,,,,Ciutat Vella,227,1,"Sant Pere, Santa Caterina i la Ribera",1,Museu Europeu d'Art Modern. MEAM,4,41.384912046,273,2.180305787
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,,,,Ciutat Vella,2,1,el Barri Gòtic,1,Museu Frederic Marès,2,41.384173998,274,2.176939205
+SI,Consorci de les Drassanes Reials i Museu Marítim de Barcelona,Consorci o fundació amb presència administracions públiques,Museus i col·leccions,,,,Ciutat Vella,32,1,el Raval,1,Museu Marítim de Barcelona. MMB,1,41.375949813,275,2.176041471
+NO,Fundació Barcelona Olímpica,Ajuntament de Barcelona,Museus i col·leccions,,,,Sants-Montjuïc,33,1,el Poble Sec,3,Museu Olímpic i de l'Esport Joan Antoni Samaranch,11,41.366249336,277,2.157076095
+NO,Fundació Museu Picasso,Consorci o fundació amb presència administracions públiques,Museus i col·leccions,,,,Ciutat Vella,1,1,"Sant Pere, Santa Caterina i la Ribera",1,Museu Picasso,4,41.385152312,278,2.180834795
+NO,Fundació Antoni Tàpies,Consorci o fundació amb presència administracions públiques,Museus i col·leccions,,,,Eixample,30,1,la Dreta de l'Eixample,2,Museu Tàpies,7,41.391522171,279,2.163757744
+NO,Fundació Sagrera,Ajuntament de Barcelona,Fàbriques de Creació,,,,Sant Andreu,141,1,la Sagrera,9,Nau Ivanow,61,41.420017781,280,2.189849370
+NO,Nota 79 Produccions,Titularitat privada,Sales de música en viu,,,,Sarrià-Sant Gervasi,441,1,la Vila de Gràcia,5,Nota 79,31,41.4031012,281,2.1491929
+NO,Fundació Orfeó Martinenc,Titularitat privada,Ateneus,,,,Sant Martí,424,1,el Clot,10,Orfeó Martinenc,65,41.4070588,282,2.1865715000000137
+NO,Fundació Orfeó Català-Palau de la Música Catalana,Consorci o fundació amb presència administracions públiques,Grans auditoris,,,,Ciutat Vella,194,1,"Sant Pere, Santa Caterina i la Ribera",1,Palau de la Música Catalana,4,41.387331649,283,2.175157780
+NO,Diputació de Barcelona,Altres administracions públiques,Espais d'interès patrimonial,,,,Ciutat Vella,51,1,el Raval,1,Palau Güell,1,41.3791747,284,2.1744127
+NO,Generalitat de Catalunya,Altres administracions públiques,Centres d'exposicions,,,,Eixample,59,1,la Dreta de l'Eixample,2,Palau Robert,7,41.396100952,285,2.159514266
+NO,"L'Afluent, Sccl, Quesoni, Amamusic2015",Ajuntament de Barcelona,Sales de música en viu,,,,Eixample,495,1,el Raval,2,Paral·lel 62,1,41.375154356,286,2.169583037
+NO,Barcelona de Serveis Municipals. Ajuntament de Barcelona,Ajuntament de Barcelona,Espais d'interès patrimonial,,,,Gràcia,382,1,la Salut,6,Park Güell,30,41.4134251,287,2.1531849
+NO,Fundació Mies van der Rohe,Consorci o fundació amb presència administracions públiques,Espais d'interès patrimonial,,,,Sants-Montjuïc,50,1,el Poble Sec,3,Pavelló Mies van der Rohe,11,41.370666,288,2.149491
+NO,Nuevo Apsi,Titularitat privada,Cinemes,,,,Eixample,384,1,la Sagrada Família,2,Phenomena,6,41.409098,289,2.171725
+NO,Sala Razzmatazz,Titularitat privada,Sales de música en viu,,,,Sant Martí,174,1,el Parc i la Llacuna del Poblenou,10,Razzmatazz,66,41.397724772,290,2.191080074
+NO,Hospital de la Santa Creu i Sant Pau,Consorci o fundació amb presència administracions públiques,Espais d'interès patrimonial,,,,Horta-Guinardó,368,1,el Guinardó,7,Recinte Modernista de Sant Pau,35,41.4118413,291,2.1744033
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,,,,Les Corts,230,1,Pedralbes,4,Reial Monestir de Santa Maria de Pedralbes,21,41.395574166,293,2.112056853
+NO,Cines Floridablanca,Titularitat privada,Cinemes,,,,Eixample,358,1,Sant Antoni,2,Renoir Floridablanca,10,41.381679719,294,2.162556081
+NO,Anexa,Titularitat privada,Sales d'arts escèniques,,,,Eixample,481,1,Sant Antoni,2,Sala Aquarel·la,10,41.38469,295,2.16164
+NO,Sala Ars Teatre BCN ,Titularitat privada,Sales d'arts escèniques,,,,Ciutat Vella,439,1,"Sant Pere, Santa Caterina i la Ribera",1,Sala Ars Teatre,4,41.3884888,296,2.1738805
+NO,Teatrium,Titularitat privada,Sales d'arts escèniques,,,,Eixample,217,1,la Dreta de l'Eixample,2,Sala Atrium,7,41.397263538,297,2.173739616
+NO,Luz de Gas,Titularitat privada,Sales de música en viu,,,,Ciutat Vella,492,1,el Raval,1,Sala B,1,41.39534,298,2.14876
+NO,Fundació Sala Beckett Obrador Internacional de Dramatúrgia,Ajuntament de Barcelona,Fàbriques de Creació,,,,Sant Martí,142,1,el Poblenou,10,Sala Beckett,68,41.404734,299,2.199518
+NO,Backgroundnoise,Titularitat privada,Sales de música en viu,,,,Sant Martí,401,1,el Poblenou,10,Sala Bóveda,68,41.3984275,300,2.2000804
+NO,Activitats Lúdiques i Teatrals,Titularitat privada,Sales de música en viu,,,,Eixample,220,1,la Dreta de l'Eixample,2,Sala City Hall,7,41.387709904,301,2.168321533
+NO,La Ira Teatro,Titularitat privada,Sales d'arts escèniques,,,,Ciutat Vella,374,1,el Raval,1,Sala Fènix,1,41.3777431,302,2.1690638
+NO,FlyHard Produccions,Titularitat privada,Sales d'arts escèniques,,,,Sants-Montjuïc,375,1,Sants,3,Sala Flyhard,18,41.371816,303,2.1408658
+NO,Line 145,Titularitat privada,Sales de música en viu,,,,Sants-Montjuïc,400,1,el Poble Sec,3,Sala Plataforma,11,41.3728804,304,2.168014
+NO,Sala Taro,Titularitat privada,Sales de música en viu,,,,Sants-Montjuïc,458,1,Sants,3,Sala Taro,18,41.37369,305,2.13740
+NO,AMAMUSIC2015,Titularitat privada,Sales de música en viu,,,,Sants-Montjuïc,446,1,el Poble Sec,3,Sala Upload Barcelona (Poble Espanyol),11,41.3694671,306,2.1470439
+NO,Apunta Teatre,Titularitat privada,Sales d'arts escèniques,,,,Eixample,147,1,el Fort Pienc,2,Sala Versus Glòries,5,41.402080107,307,2.183906477
+NO,Generalitat de Catalunya,Altres administracions públiques,Centres d'exposicions,,,,Ciutat Vella,58,1,el Raval,1,Santa Mònica,1,41.377227254,308,2.175597264
+NO,N54 Produccions,Ajuntament de Barcelona,Sales d'arts escèniques,,,,Sant Andreu,192,1,Sant Andreu,9,saT! Sant Andreu Teatre,60,41.430583231,309,2.188904165
+NO,Roberto Tierz,Titularitat privada,Sales de música en viu,,,,Ciutat Vella,178,1,el Barri Gòtic,1,Sidecar Factory Club,2,41.380544047,310,2.175174697
+NO,Sinestesia,Titularitat privada,Sales de música en viu,,,,Sants-Montjuïc,487,1,Sants,3,Sinestesia,18,41.38100,311,2.13593
+NO,LEYDEBER,Titularitat privada,Sales de música en viu,,,,Eixample,402,1,l'Antiga Esquerra de l'Eixample,2,Slow Barcelona,8,41.3935824,312,2.1533629
+NO,Societat Coral l'Espiga de les Corts ,Titularitat privada,Ateneus,,,,Les Corts,426,1,les Corts,4,Societat Coral l'Espiga de Les Corts,19,41.3879959,313,2.1332087000000683
+NO,Societat Cultural i Esportiva La Lira,Titularitat privada,Ateneus,,,,Sant Andreu,427,1,Sant Andreu,9,Societat Cultural i Esportiva La Lira,60,41.4330659,314,2.1886806999999635
+NO,Soulkitchen MiniClub,Titularitat privada,Sales de música en viu,,,,Gràcia,442,1,la Vila de Gràcia,6,Soda Acústic,31,41.4031899,315,2.1567985
+NO,"Marasa, 94",Titularitat privada,Sales de música en viu,,,,Sants-Montjuïc,488,1,el Poble Sec,3,Tablao de Carmen,11,41.36907,316,2.14885
+NO,Cadame,Titularitat privada,Sales de música en viu,,,,Ciutat Vella,489,1,el Raval,1,Tablao Flamenco Cordobés,1,41.37975,317,2.17478
+NO,Taller de Músics,Titularitat privada,Sales de música en viu,,,,Ciutat Vella,491,1,el Raval,1,Taller de Músics 24,1,41.38011,318,2.16413
+NO,PELAIMAS. Grup Mas i Mas,Titularitat privada,Sales de música en viu,,,,Ciutat Vella,179,1,el Barri Gòtic,1,Tarantos,2,41.379703771,319,2.175268003
+NO,Assoc. Civil Teatre Akadèmia,Titularitat privada,Sales d'arts escèniques,,,,Eixample,233,1,l'Antiga Esquerra de l'Eixample,2,Teatre Akadèmia,8,41.392700831,320,2.147273481
+NO,Veniu Escena,Titularitat privada,Sales d'arts escèniques,,,,Sants-Montjuïc,128,1,el Poble Sec,3,Teatre Apolo,11,41.374764425,321,2.170308608
+NO,Edificios y Espectáculos. Grup Balañá,Titularitat privada,Sales d'arts escèniques,,,,Ciutat Vella,129,1,"Sant Pere, Santa Caterina i la Ribera",1,Teatre Borràs,4,41.388856627,322,2.173599270
+NO,Serveis Escènics Comtal. Grup Focus,Titularitat privada,Sales d'arts escèniques,,,,Sants-Montjuïc,130,1,el Poble Sec,3,Teatre Condal,11,41.374775800,323,2.164709963
+NO,"Global Exhibitions, S.L.",Titularitat privada,Sales d'arts escèniques,,,,Sants-Montjuïc,216,1,la Nova Esquerra de l'Eixample,3,Teatre Cúpula Arenas Barcelona,9,41.37520013735237,324,2.1491028097093614
+NO,Factoria Artípolis,Titularitat privada,Sales d'arts escèniques,,,,Ciutat Vella,144,1,el Raval,1,Teatre del Raval,1,41.379373252,325,2.165215007
+NO,Nova Eòlia,Titularitat privada,Sales d'arts escèniques,,,,Eixample,436,1,la Dreta de l'Eixample,2,Teatre Eòlia,7,41.39241326,326,2.17637066
+SI,Teatre de la Nau,Titularitat privada,Sales d'arts escèniques,,,,Eixample,165,1,la Sagrada Família,2,Teatre Gaudí Barcelona,6,41.407429352,327,2.169502763
+NO,Serveis Escènics Goya. Grup Focus,Titularitat privada,Sales d'arts escèniques,,,,Ciutat Vella,131,1,el Raval,1,Teatre Goya,1,41.384184369,328,2.164671620
+NO,Institut de Cultura. Ajuntament de Barcelona,Ajuntament de Barcelona,Sales d'arts escèniques,,,,Sants-Montjuïc,221,1,el Poble Sec,3,Teatre Grec,11,41.3695356,329,2.1598196
+NO,La Perla 29,Titularitat privada,Sales d'arts escèniques,,,,Ciutat Vella,455,1,el Raval,1,Teatre La Biblioteca,1,41.3807945,330,2.1700774
+SI,Fundació Teatre Lliure-Teatre Públic de Barcelona,Consorci o fundació amb presència administracions públiques,Sales d'arts escèniques,,,,Sants-Montjuïc,204,1,el Poble Sec,3,Teatre Lliure,11,41.370647908,331,2.157431333
+NO,Fundació Teatre Lliure-Teatre Públic de Barcelona,Consorci o fundació amb presència administracions públiques,Sales d'arts escèniques,204,Teatre Lliure,,Gràcia,202,0,la Vila de Gràcia,6,Teatre Lliure (Gràcia),31,41.402729880,332,2.156013379
+NO,Oracle Theatre,Titularitat privada,Sales d'arts escèniques,,,Antiga sala Oracles Theatre.,Sants-Montjuïc,480,1,el Poble Sec,3,Teatre Metamorfosis,11,41.37414008982946,333,2.1645457980840037
+SI,Teatre Nacional de Catalunya. Generalitat de Catalunya,Altres administracions públiques,Sales d'arts escèniques,,,,Eixample,153,1,el Fort Pienc,2,Teatre Nacional de Catalunya,5,41.399686263,334,2.186087865
+NO,Tres per 3,Titularitat privada,Sales d'arts escèniques,,,,Ciutat Vella,132,1,el Raval,1,Teatre Poliorama,1,41.384144463,335,2.170723150
+NO,Serveis Escènics Romea. Grup Focus,Titularitat privada,Sales d'arts escèniques,,,,Ciutat Vella,133,1,el Raval,1,Teatre Romea,1,41.380553512,336,2.171064836
+SI,Tantarantana Teatre,Ajuntament de Barcelona,Fàbriques de Creació,,,,Ciutat Vella,247,1,el Raval,1,Teatre Tantarantana,1,41.375938056,337,2.167361110
+NO,Edificios y Espectáculos. Grup Balañá,Titularitat privada,Sales d'arts escèniques,,,,Eixample,134,1,la Dreta de l'Eixample,2,Teatre Tívoli,7,41.389052665,338,2.170720909
+SI,Activitats & Realitats,Titularitat privada,Sales d'arts escèniques,,,,Gràcia,156,1,la Vila de Gràcia,6,Teatreneu,31,41.403252200,339,2.158562702
+NO,Espectarama,Titularitat privada,Cinemes,,,,Gràcia,356,1,la Vila de Gràcia,6,Verdi Multicines,31,41.404163336,340,2.157212897
+NO,Espectarama,Titularitat privada,Cinemes,,,,Gràcia,360,1,la Vila de Gràcia,6,Verdi Park,31,41.404433026,341,2.157664213
+NO,L'Afluent,Titularitat privada,Sales de música en viu,,,,Sant Martí,180,1,el Parc i la Llacuna del Poblenou,10,Vol,66,41.399440359,342,2.191159281
+NO,Otium Entertainment,Titularitat privada,Sales de música en viu,,,,Sant Martí,490,1,el Parc i la Llacuna del Poblenou,10,Wolf Barcelona,66,41.39609,343,2.18860
+NO,Yelmo Films,Titularitat privada,Cinemes,,,,Eixample,472,1,la Dreta de l'Eixample,2,Yelmo Cines Comedia,7,41.38975,344,2.16768
+NO,Yelmo Films,Titularitat privada,Cinemes,,,,Sant Martí,361,1,la Vila Olímpica del Poblenou,10,Yelmo Cines Icària,67,41.390895879,345,2.197851326
+NO,Barcelona de Serveis Municipals. Ajuntament de Barcelona,Ajuntament de Barcelona,Museus i col·leccions,,,,Ciutat Vella,34,1,"Sant Pere, Santa Caterina i la Ribera",1,Zoo de Barcelona,4,41.386823,346,2.190346
+NO,Zumzeig Cinecooperativa,Titularitat privada,Cinemes,,,,Sants-Montjuïc,362,1,Hostafrancs,3,Zumzeig Cinecooperativa,15,41.37736,347,2.14504
