@@ -1,0 +1,738 @@
+Codi_Barri,Nom_Barri,Id_Instal
+26,Galvany,186
+26,Galvany,187
+2,el Barri Gòtic,206
+1,el Raval,207
+4,"Sant Pere, Santa Caterina i la Ribera",208
+18,Sants,246
+26,Galvany,267
+1,el Raval,268
+18,Sants,326
+26,Galvany,346
+26,Galvany,347
+1,el Raval,366
+1,el Raval,389
+1,el Raval,390
+25,la Bonanova,391
+31,la Vila de Gràcia,406
+18,Sants,426
+57,la Trinitat Vella,428
+66,el Parc i la Llacuna del Poblenou,446
+66,el Parc i la Llacuna del Poblenou,447
+19,les Corts,466
+31,la Vila de Gràcia,486
+31,la Vila de Gràcia,487
+7,la Dreta de l'Eixample,488
+7,la Dreta de l'Eixample,489
+7,la Dreta de l'Eixample,490
+7,la Dreta de l'Eixample,491
+10,Sant Antoni,492
+11,el Poble Sec,493
+10,Sant Antoni,494
+11,el Poble Sec,495
+11,el Poble Sec,496
+11,el Poble Sec,497
+20,la Maternitat i Sant Ramon,509
+20,la Maternitat i Sant Ramon,510
+20,la Maternitat i Sant Ramon,511
+20,la Maternitat i Sant Ramon,512
+20,la Maternitat i Sant Ramon,513
+20,la Maternitat i Sant Ramon,514
+20,la Maternitat i Sant Ramon,515
+20,la Maternitat i Sant Ramon,516
+20,la Maternitat i Sant Ramon,517
+4,"Sant Pere, Santa Caterina i la Ribera",526
+11,el Poble Sec,527
+1,el Raval,546
+69,Diagonal Mar i el Front Marítim del Poblenou,586
+45,Porta,606
+68,el Poblenou,607
+4,"Sant Pere, Santa Caterina i la Ribera",626
+26,Galvany,647
+26,Galvany,648
+31,la Vila de Gràcia,650
+8,l'Antiga Esquerra de l'Eixample,651
+26,Galvany,652
+26,Galvany,653
+7,la Dreta de l'Eixample,654
+7,la Dreta de l'Eixample,655
+7,la Dreta de l'Eixample,656
+7,la Dreta de l'Eixample,657
+31,la Vila de Gràcia,658
+43,Horta,659
+72,Sant Martí de Provençals,666
+1,el Raval,927
+72,Sant Martí de Provençals,667
+7,la Dreta de l'Eixample,669
+7,la Dreta de l'Eixample,670
+5,el Fort Pienc,671
+64,el Camp de l'Arpa del Clot,686
+5,el Fort Pienc,707
+19,les Corts,726
+25,la Bonanova,727
+25,la Bonanova,728
+66,el Parc i la Llacuna del Poblenou,786
+58,Baró de Viver,806
+1,el Raval,826
+1,el Raval,827
+8,l'Antiga Esquerra de l'Eixample,846
+19,les Corts,847
+2,el Barri Gòtic,926
+3,la Barceloneta,928
+32,el Camp d'en Grassot i Gràcia Nova,966
+31,la Vila de Gràcia,1006
+12,la Marina del Prat Vermell,1026
+12,la Marina del Prat Vermell,1027
+31,la Vila de Gràcia,1046
+4,"Sant Pere, Santa Caterina i la Ribera",1086
+65,el Clot,1106
+26,Galvany,1126
+35,el Guinardó,1146
+7,la Dreta de l'Eixample,1166
+7,la Dreta de l'Eixample,1167
+7,la Dreta de l'Eixample,1168
+5,el Fort Pienc,1169
+7,la Dreta de l'Eixample,1170
+31,la Vila de Gràcia,1171
+31,la Vila de Gràcia,1172
+7,la Dreta de l'Eixample,1173
+7,la Dreta de l'Eixample,1174
+7,la Dreta de l'Eixample,1175
+7,la Dreta de l'Eixample,1186
+7,la Dreta de l'Eixample,1187
+7,la Dreta de l'Eixample,1188
+5,el Fort Pienc,1189
+7,la Dreta de l'Eixample,1190
+31,la Vila de Gràcia,1191
+31,la Vila de Gràcia,1192
+7,la Dreta de l'Eixample,1193
+7,la Dreta de l'Eixample,1194
+7,la Dreta de l'Eixample,1195
+7,la Dreta de l'Eixample,1196
+7,la Dreta de l'Eixample,1197
+20,la Maternitat i Sant Ramon,1226
+69,Diagonal Mar i el Front Marítim del Poblenou,1227
+23,Sarrià,1228
+3,la Barceloneta,1248
+11,el Poble Sec,1266
+8,l'Antiga Esquerra de l'Eixample,1286
+11,el Poble Sec,1287
+16,la Bordeta,1288
+31,la Vila de Gràcia,1289
+23,Sarrià,1290
+23,Sarrià,1291
+54,Torre Baró,1306
+69,Diagonal Mar i el Front Marítim del Poblenou,1326
+68,el Poblenou,1346
+66,el Parc i la Llacuna del Poblenou,1347
+66,el Parc i la Llacuna del Poblenou,1348
+68,el Poblenou,1349
+26,Galvany,1386
+26,Galvany,1387
+10,Sant Antoni,1388
+10,Sant Antoni,1389
+9,la Nova Esquerra de l'Eixample,1566
+18,Sants,1586
+9,la Nova Esquerra de l'Eixample,1606
+26,Galvany,1627
+68,el Poblenou,1686
+18,Sants,1726
+3,la Barceloneta,1746
+31,la Vila de Gràcia,1866
+31,la Vila de Gràcia,1867
+31,la Vila de Gràcia,1868
+31,la Vila de Gràcia,1869
+31,la Vila de Gràcia,1870
+31,la Vila de Gràcia,1871
+31,la Vila de Gràcia,1872
+31,la Vila de Gràcia,1873
+31,la Vila de Gràcia,1874
+31,la Vila de Gràcia,1875
+31,la Vila de Gràcia,1886
+31,la Vila de Gràcia,1887
+68,el Poblenou,1888
+63,Navas,1906
+21,Pedralbes,1926
+21,Pedralbes,1946
+1,el Raval,1947
+1,el Raval,1948
+56,Vallbona,1967
+56,Vallbona,1968
+1,el Raval,1987
+2,el Barri Gòtic,1988
+7,la Dreta de l'Eixample,1989
+24,les Tres Torres,2006
+28,Vallcarca i els Penitents,2026
+23,Sarrià,2027
+43,Horta,2028
+32,el Camp d'en Grassot i Gràcia Nova,2046
+32,el Camp d'en Grassot i Gràcia Nova,2047
+32,el Camp d'en Grassot i Gràcia Nova,2048
+32,el Camp d'en Grassot i Gràcia Nova,2049
+6,la Sagrada Família,2050
+43,Horta,2051
+43,Horta,2052
+43,Horta,2053
+43,Horta,2054
+43,Horta,2055
+43,Horta,2066
+43,Horta,2067
+31,la Vila de Gràcia,2086
+68,el Poblenou,2106
+27,el Putxet i el Farró,2166
+32,el Camp d'en Grassot i Gràcia Nova,2186
+61,la Sagrera,2206
+61,la Sagrera,2207
+35,el Guinardó,2208
+35,el Guinardó,2209
+66,el Parc i la Llacuna del Poblenou,2246
+10,Sant Antoni,2266
+10,Sant Antoni,2267
+10,Sant Antoni,2268
+8,l'Antiga Esquerra de l'Eixample,2306
+18,Sants,2326
+1,el Raval,2327
+11,el Poble Sec,2347
+31,la Vila de Gràcia,2348
+26,Galvany,2349
+2,el Barri Gòtic,2366
+31,la Vila de Gràcia,2367
+31,la Vila de Gràcia,2368
+10,Sant Antoni,2406
+31,la Vila de Gràcia,2426
+4,"Sant Pere, Santa Caterina i la Ribera",2446
+31,la Vila de Gràcia,2489
+68,el Poblenou,2508
+27,el Putxet i el Farró,2526
+26,Galvany,2547
+2,el Barri Gòtic,2548
+10,Sant Antoni,2549
+42,la Clota,2586
+26,Galvany,2587
+21,Pedralbes,2588
+2,el Barri Gòtic,2589
+9,la Nova Esquerra de l'Eixample,2590
+61,la Sagrera,2591
+53,la Trinitat Nova,2592
+52,la Prosperitat,2593
+52,la Prosperitat,2594
+61,la Sagrera,2595
+60,Sant Andreu,2596
+70,el Besòs i el Maresme,2597
+24,les Tres Torres,2626
+43,Horta,2646
+15,Hostafrancs,2706
+43,Horta,2707
+18,Sants,2726
+17,Badal,2746
+64,el Camp de l'Arpa del Clot,2766
+3,la Barceloneta,2786
+25,la Bonanova,2806
+11,el Poble Sec,2808
+13,la Marina de Port,2826
+31,la Vila de Gràcia,2846
+10,Sant Antoni,2886
+8,l'Antiga Esquerra de l'Eixample,2906
+10,Sant Antoni,2907
+8,l'Antiga Esquerra de l'Eixample,2908
+10,Sant Antoni,2909
+18,Sants,2946
+10,Sant Antoni,2948
+1,el Raval,2966
+2,el Barri Gòtic,2967
+66,el Parc i la Llacuna del Poblenou,2986
+54,Torre Baró,3006
+54,Torre Baró,3007
+1,el Raval,3026
+1,el Raval,3027
+11,el Poble Sec,3046
+68,el Poblenou,3066
+68,el Poblenou,3067
+68,el Poblenou,3068
+30,la Salut,3086
+30,la Salut,3087
+30,la Salut,3088
+60,Sant Andreu,3106
+1,el Raval,3107
+11,el Poble Sec,3126
+8,l'Antiga Esquerra de l'Eixample,3146
+31,la Vila de Gràcia,3186
+32,el Camp d'en Grassot i Gràcia Nova,3187
+5,el Fort Pienc,3206
+19,les Corts,3207
+65,el Clot,3208
+65,el Clot,3209
+5,el Fort Pienc,3226
+1,el Raval,3247
+71,Provençals del Poblenou,3306
+70,el Besòs i el Maresme,3366
+69,Diagonal Mar i el Front Marítim del Poblenou,3386
+21,Pedralbes,3406
+65,el Clot,3426
+19,les Corts,3447
+45,Porta,3466
+45,Porta,3467
+3,la Barceloneta,3468
+68,el Poblenou,3469
+25,la Bonanova,3470
+31,la Vila de Gràcia,3486
+31,la Vila de Gràcia,3506
+31,la Vila de Gràcia,3507
+31,la Vila de Gràcia,3508
+31,la Vila de Gràcia,3509
+31,la Vila de Gràcia,3510
+31,la Vila de Gràcia,3511
+31,la Vila de Gràcia,3512
+31,la Vila de Gràcia,3513
+31,la Vila de Gràcia,3514
+31,la Vila de Gràcia,3515
+31,la Vila de Gràcia,3516
+31,la Vila de Gràcia,3517
+31,la Vila de Gràcia,3518
+31,la Vila de Gràcia,3519
+31,la Vila de Gràcia,3526
+11,el Poble Sec,3546
+18,Sants,3566
+60,Sant Andreu,3586
+60,Sant Andreu,3606
+60,Sant Andreu,3607
+65,el Clot,3608
+65,el Clot,4046
+70,el Besòs i el Maresme,3609
+1,el Raval,3626
+26,Galvany,3666
+31,la Vila de Gràcia,3667
+43,Horta,3668
+25,la Bonanova,3669
+4,"Sant Pere, Santa Caterina i la Ribera",3686
+3,la Barceloneta,3706
+4,"Sant Pere, Santa Caterina i la Ribera",3707
+4,"Sant Pere, Santa Caterina i la Ribera",3709
+15,Hostafrancs,3710
+15,Hostafrancs,3711
+10,Sant Antoni,3712
+8,l'Antiga Esquerra de l'Eixample,3713
+7,la Dreta de l'Eixample,3714
+7,la Dreta de l'Eixample,3715
+1,el Raval,3746
+19,les Corts,3766
+64,el Camp de l'Arpa del Clot,3786
+8,l'Antiga Esquerra de l'Eixample,3806
+9,la Nova Esquerra de l'Eixample,3807
+11,el Poble Sec,3846
+11,el Poble Sec,3866
+9,la Nova Esquerra de l'Eixample,3886
+6,la Sagrada Família,3887
+7,la Dreta de l'Eixample,3888
+64,el Camp de l'Arpa del Clot,3926
+65,el Clot,3967
+5,el Fort Pienc,4006
+7,la Dreta de l'Eixample,4026
+65,el Clot,4066
+65,el Clot,4067
+31,la Vila de Gràcia,4068
+11,el Poble Sec,4086
+31,la Vila de Gràcia,4106
+31,la Vila de Gràcia,4126
+6,la Sagrada Família,4127
+19,les Corts,4147
+18,Sants,4166
+65,el Clot,4186
+31,la Vila de Gràcia,4206
+10,Sant Antoni,4226
+64,el Camp de l'Arpa del Clot,4227
+70,el Besòs i el Maresme,4246
+9,la Nova Esquerra de l'Eixample,4248
+65,el Clot,4249
+65,el Clot,4266
+31,la Vila de Gràcia,4286
+65,el Clot,4287
+11,el Poble Sec,4306
+45,Porta,4326
+11,el Poble Sec,4346
+43,Horta,4366
+15,Hostafrancs,4367
+5,el Fort Pienc,4386
+4,"Sant Pere, Santa Caterina i la Ribera",4387
+11,el Poble Sec,4388
+11,el Poble Sec,4406
+64,el Camp de l'Arpa del Clot,4426
+5,el Fort Pienc,4446
+6,la Sagrada Família,4466
+65,el Clot,4486
+60,Sant Andreu,4506
+10,Sant Antoni,4526
+2,el Barri Gòtic,4527
+31,la Vila de Gràcia,4546
+18,Sants,4566
+21,Pedralbes,4586
+19,les Corts,4606
+65,el Clot,4607
+61,la Sagrera,4626
+19,les Corts,4646
+5,el Fort Pienc,4666
+60,Sant Andreu,4686
+2,el Barri Gòtic,4706
+9,la Nova Esquerra de l'Eixample,4726
+1,el Raval,4786
+70,el Besòs i el Maresme,4806
+1,el Raval,4846
+38,la Teixonera,4866
+43,Horta,4887
+43,Horta,4888
+68,el Poblenou,4889
+4,"Sant Pere, Santa Caterina i la Ribera",4890
+4,"Sant Pere, Santa Caterina i la Ribera",4891
+11,el Poble Sec,4892
+11,el Poble Sec,4906
+64,el Camp de l'Arpa del Clot,4926
+3,la Barceloneta,4946
+6,la Sagrada Família,4966
+18,Sants,4986
+10,Sant Antoni,5026
+10,Sant Antoni,5027
+10,Sant Antoni,5029
+26,Galvany,5046
+2,el Barri Gòtic,5066
+1,el Raval,5086
+43,Horta,5106
+43,Horta,5107
+13,la Marina de Port,5108
+13,la Marina de Port,5109
+64,el Camp de l'Arpa del Clot,5126
+70,el Besòs i el Maresme,5127
+6,la Sagrada Família,5128
+9,la Nova Esquerra de l'Eixample,5129
+18,Sants,5130
+71,Provençals del Poblenou,5186
+71,Provençals del Poblenou,5187
+71,Provençals del Poblenou,5188
+5,el Fort Pienc,5206
+11,el Poble Sec,5207
+7,la Dreta de l'Eixample,5226
+19,les Corts,5246
+2,el Barri Gòtic,5247
+31,la Vila de Gràcia,5266
+5,el Fort Pienc,5286
+7,la Dreta de l'Eixample,5306
+70,el Besòs i el Maresme,5326
+19,les Corts,5346
+26,Galvany,5347
+10,Sant Antoni,5386
+7,la Dreta de l'Eixample,5387
+11,el Poble Sec,5406
+4,"Sant Pere, Santa Caterina i la Ribera",5426
+7,la Dreta de l'Eixample,5446
+19,les Corts,5466
+26,Galvany,5486
+31,la Vila de Gràcia,5506
+31,la Vila de Gràcia,5526
+31,la Vila de Gràcia,5527
+32,el Camp d'en Grassot i Gràcia Nova,5528
+64,el Camp de l'Arpa del Clot,5566
+65,el Clot,5586
+15,Hostafrancs,5606
+52,la Prosperitat,5626
+65,el Clot,5646
+20,la Maternitat i Sant Ramon,5666
+64,el Camp de l'Arpa del Clot,5686
+11,el Poble Sec,5706
+1,el Raval,8907
+9,la Nova Esquerra de l'Eixample,5707
+19,les Corts,5746
+10,Sant Antoni,5766
+60,Sant Andreu,5767
+60,Sant Andreu,5768
+64,el Camp de l'Arpa del Clot,5786
+8,l'Antiga Esquerra de l'Eixample,5806
+8,l'Antiga Esquerra de l'Eixample,5807
+18,Sants,5847
+11,el Poble Sec,5867
+3,la Barceloneta,5869
+31,la Vila de Gràcia,5886
+2,el Barri Gòtic,5926
+25,la Bonanova,5946
+21,Pedralbes,5966
+31,la Vila de Gràcia,6226
+31,la Vila de Gràcia,5986
+31,la Vila de Gràcia,6006
+31,la Vila de Gràcia,6007
+2,el Barri Gòtic,6009
+31,la Vila de Gràcia,6026
+19,les Corts,6046
+43,Horta,6086
+61,la Sagrera,6106
+66,el Parc i la Llacuna del Poblenou,6107
+18,Sants,6127
+19,les Corts,6146
+6,la Sagrada Família,6166
+8,l'Antiga Esquerra de l'Eixample,6186
+8,l'Antiga Esquerra de l'Eixample,6187
+33,el Baix Guinardó,6207
+1,el Raval,8906
+31,la Vila de Gràcia,6246
+31,la Vila de Gràcia,6266
+2,el Barri Gòtic,6286
+1,el Raval,6306
+13,la Marina de Port,6326
+10,Sant Antoni,6346
+21,Pedralbes,6366
+19,les Corts,6386
+11,el Poble Sec,6426
+7,la Dreta de l'Eixample,6446
+31,la Vila de Gràcia,6466
+32,el Camp d'en Grassot i Gràcia Nova,6486
+32,el Camp d'en Grassot i Gràcia Nova,6487
+33,el Baix Guinardó,6488
+1,el Raval,6506
+8,l'Antiga Esquerra de l'Eixample,6526
+19,les Corts,6566
+18,Sants,6567
+8,l'Antiga Esquerra de l'Eixample,6586
+7,la Dreta de l'Eixample,6606
+7,la Dreta de l'Eixample,6607
+7,la Dreta de l'Eixample,6608
+71,Provençals del Poblenou,6626
+68,el Poblenou,6646
+13,la Marina de Port,6647
+19,les Corts,6666
+32,el Camp d'en Grassot i Gràcia Nova,6667
+31,la Vila de Gràcia,6668
+31,la Vila de Gràcia,6669
+5,el Fort Pienc,6686
+4,"Sant Pere, Santa Caterina i la Ribera",6687
+9,la Nova Esquerra de l'Eixample,6688
+11,el Poble Sec,6689
+11,el Poble Sec,6690
+11,el Poble Sec,6706
+8,l'Antiga Esquerra de l'Eixample,6726
+10,Sant Antoni,6727
+9,la Nova Esquerra de l'Eixample,6728
+9,la Nova Esquerra de l'Eixample,6746
+9,la Nova Esquerra de l'Eixample,6747
+9,la Nova Esquerra de l'Eixample,6748
+8,l'Antiga Esquerra de l'Eixample,6749
+8,l'Antiga Esquerra de l'Eixample,6750
+8,l'Antiga Esquerra de l'Eixample,6751
+7,la Dreta de l'Eixample,6752
+7,la Dreta de l'Eixample,6753
+7,la Dreta de l'Eixample,6754
+7,la Dreta de l'Eixample,6755
+6,la Sagrada Família,6756
+5,el Fort Pienc,6757
+32,el Camp d'en Grassot i Gràcia Nova,6758
+8,l'Antiga Esquerra de l'Eixample,6759
+9,la Nova Esquerra de l'Eixample,6760
+66,el Parc i la Llacuna del Poblenou,6766
+32,el Camp d'en Grassot i Gràcia Nova,6786
+1,el Raval,6787
+66,el Parc i la Llacuna del Poblenou,6806
+1,el Raval,6826
+1,el Raval,6827
+8,l'Antiga Esquerra de l'Eixample,6828
+8,l'Antiga Esquerra de l'Eixample,6829
+4,"Sant Pere, Santa Caterina i la Ribera",6830
+4,"Sant Pere, Santa Caterina i la Ribera",6831
+3,la Barceloneta,6832
+4,"Sant Pere, Santa Caterina i la Ribera",6833
+2,el Barri Gòtic,6834
+2,el Barri Gòtic,6835
+64,el Camp de l'Arpa del Clot,6846
+4,"Sant Pere, Santa Caterina i la Ribera",6886
+4,"Sant Pere, Santa Caterina i la Ribera",6887
+1,el Raval,6888
+1,el Raval,6889
+4,"Sant Pere, Santa Caterina i la Ribera",6890
+70,el Besòs i el Maresme,6906
+31,la Vila de Gràcia,6926
+31,la Vila de Gràcia,6966
+31,la Vila de Gràcia,6967
+31,la Vila de Gràcia,6986
+8,l'Antiga Esquerra de l'Eixample,7006
+31,la Vila de Gràcia,7026
+31,la Vila de Gràcia,7027
+6,la Sagrada Família,7046
+66,el Parc i la Llacuna del Poblenou,7066
+11,el Poble Sec,7067
+4,"Sant Pere, Santa Caterina i la Ribera",7086
+13,la Marina de Port,7106
+43,Horta,7126
+31,la Vila de Gràcia,7146
+31,la Vila de Gràcia,7147
+43,Horta,7166
+43,Horta,7167
+31,la Vila de Gràcia,7168
+31,la Vila de Gràcia,7169
+31,la Vila de Gràcia,7170
+61,la Sagrera,7186
+71,Provençals del Poblenou,7187
+66,el Parc i la Llacuna del Poblenou,7188
+66,el Parc i la Llacuna del Poblenou,7189
+9,la Nova Esquerra de l'Eixample,7226
+2,el Barri Gòtic,7286
+32,el Camp d'en Grassot i Gràcia Nova,7306
+32,el Camp d'en Grassot i Gràcia Nova,7307
+66,el Parc i la Llacuna del Poblenou,7326
+2,el Barri Gòtic,7327
+31,la Vila de Gràcia,7328
+8,l'Antiga Esquerra de l'Eixample,7346
+8,l'Antiga Esquerra de l'Eixample,7366
+8,l'Antiga Esquerra de l'Eixample,7367
+4,"Sant Pere, Santa Caterina i la Ribera",7406
+3,la Barceloneta,7426
+66,el Parc i la Llacuna del Poblenou,7446
+43,Horta,7466
+11,el Poble Sec,7486
+31,la Vila de Gràcia,7506
+35,el Guinardó,7526
+71,Provençals del Poblenou,7546
+71,Provençals del Poblenou,7566
+5,el Fort Pienc,7567
+31,la Vila de Gràcia,7568
+5,el Fort Pienc,7571
+31,la Vila de Gràcia,7573
+10,Sant Antoni,7575
+43,Horta,7576
+11,el Poble Sec,7586
+26,Galvany,7587
+11,el Poble Sec,7588
+64,el Camp de l'Arpa del Clot,7606
+4,"Sant Pere, Santa Caterina i la Ribera",7626
+64,el Camp de l'Arpa del Clot,7646
+25,la Bonanova,7686
+7,la Dreta de l'Eixample,7687
+64,el Camp de l'Arpa del Clot,7706
+26,Galvany,7726
+26,Galvany,7727
+26,Galvany,7728
+26,Galvany,7729
+61,la Sagrera,7746
+60,Sant Andreu,7766
+43,Horta,7767
+8,l'Antiga Esquerra de l'Eixample,7768
+3,la Barceloneta,7786
+10,Sant Antoni,7806
+11,el Poble Sec,7826
+18,Sants,7846
+7,la Dreta de l'Eixample,7886
+19,les Corts,7926
+71,Provençals del Poblenou,7968
+31,la Vila de Gràcia,7986
+31,la Vila de Gràcia,7987
+31,la Vila de Gràcia,8006
+19,les Corts,8026
+30,la Salut,8027
+11,el Poble Sec,8047
+2,el Barri Gòtic,8048
+8,l'Antiga Esquerra de l'Eixample,8049
+2,el Barri Gòtic,8066
+65,el Clot,8067
+30,la Salut,8086
+11,el Poble Sec,8106
+19,les Corts,8126
+65,el Clot,8146
+19,les Corts,8166
+2,el Barri Gòtic,8186
+2,el Barri Gòtic,8187
+8,l'Antiga Esquerra de l'Eixample,8206
+7,la Dreta de l'Eixample,8207
+8,l'Antiga Esquerra de l'Eixample,8208
+4,"Sant Pere, Santa Caterina i la Ribera",8226
+2,el Barri Gòtic,8246
+9,la Nova Esquerra de l'Eixample,8247
+8,l'Antiga Esquerra de l'Eixample,8266
+18,Sants,8267
+1,el Raval,8286
+1,el Raval,8287
+4,"Sant Pere, Santa Caterina i la Ribera",8306
+31,la Vila de Gràcia,8326
+9,la Nova Esquerra de l'Eixample,8346
+8,l'Antiga Esquerra de l'Eixample,8347
+7,la Dreta de l'Eixample,8348
+11,el Poble Sec,8366
+10,Sant Antoni,8386
+51,Verdun,8406
+10,Sant Antoni,8426
+2,el Barri Gòtic,8427
+66,el Parc i la Llacuna del Poblenou,8428
+8,l'Antiga Esquerra de l'Eixample,8446
+2,el Barri Gòtic,8466
+2,el Barri Gòtic,8467
+2,el Barri Gòtic,8468
+2,el Barri Gòtic,8469
+26,Galvany,8486
+26,Galvany,8487
+26,Galvany,8488
+26,Galvany,8489
+26,Galvany,8506
+26,Galvany,8526
+26,Galvany,8546
+26,Galvany,8547
+7,la Dreta de l'Eixample,8566
+11,el Poble Sec,8586
+2,el Barri Gòtic,8587
+10,Sant Antoni,8606
+26,Galvany,8626
+2,el Barri Gòtic,8627
+26,Galvany,8646
+26,Galvany,8666
+35,el Guinardó,8667
+66,el Parc i la Llacuna del Poblenou,8686
+66,el Parc i la Llacuna del Poblenou,8706
+66,el Parc i la Llacuna del Poblenou,8726
+66,el Parc i la Llacuna del Poblenou,8727
+11,el Poble Sec,8746
+66,el Parc i la Llacuna del Poblenou,8747
+26,Galvany,8766
+31,la Vila de Gràcia,8768
+33,el Baix Guinardó,8786
+33,el Baix Guinardó,8787
+30,la Salut,8826
+30,la Salut,8846
+18,Sants,8866
+33,el Baix Guinardó,8886
+2,el Barri Gòtic,8908
+1,el Raval,8909
+1,el Raval,8910
+2,el Barri Gòtic,8911
+2,el Barri Gòtic,8926
+2,el Barri Gòtic,8927
+2,el Barri Gòtic,8928
+9,la Nova Esquerra de l'Eixample,8946
+4,"Sant Pere, Santa Caterina i la Ribera",8986
+4,"Sant Pere, Santa Caterina i la Ribera",8987
+4,"Sant Pere, Santa Caterina i la Ribera",8988
+4,"Sant Pere, Santa Caterina i la Ribera",8989
+4,"Sant Pere, Santa Caterina i la Ribera",8990
+66,el Parc i la Llacuna del Poblenou,9006
+10,Sant Antoni,9007
+18,Sants,9026
+2,el Barri Gòtic,9028
+26,Galvany,9046
+26,Galvany,9066
+18,Sants,9086
+66,el Parc i la Llacuna del Poblenou,9106
+8,l'Antiga Esquerra de l'Eixample,9146
+26,Galvany,9166
+26,Galvany,9167
+1,el Raval,9186
+11,el Poble Sec,9206
+66,el Parc i la Llacuna del Poblenou,9226
+31,la Vila de Gràcia,9246
+2,el Barri Gòtic,9266
+70,el Besòs i el Maresme,9286
+4,"Sant Pere, Santa Caterina i la Ribera",9306
+2,el Barri Gòtic,9326
+2,el Barri Gòtic,9327
+2,el Barri Gòtic,9328
+2,el Barri Gòtic,9346
+2,el Barri Gòtic,9366
+2,el Barri Gòtic,9386
+31,la Vila de Gràcia,9426
+31,la Vila de Gràcia,9427
+62,el Congrés i els Indians,9428
+31,la Vila de Gràcia,9429
+61,la Sagrera,9446
+56,Vallbona,9447
+2,el Barri Gòtic,9466
+8,l'Antiga Esquerra de l'Eixample,9486

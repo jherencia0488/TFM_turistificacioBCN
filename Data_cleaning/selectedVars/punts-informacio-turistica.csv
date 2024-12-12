@@ -1,0 +1,879 @@
+addresses_neighborhood_id,addresses_neighborhood_name,name,created,modified
+23,Sarrià,L'Estació dels FGC de Sarrià,2017-02-09T12:05:55,2021-09-09T02:16:39.681851
+11,el Poble-sec,Fira Barcelona,1996-09-18T00:00:00,2024-03-07T14:26:07.265725
+18,Sants,Centre Cívic Cotxeres de Sants,1984-05-30T00:00:00,2024-07-23T10:39:13.417344
+31,la Vila de Gràcia,Edifici Puiggròs,2017-02-07T14:01:16,2021-09-09T02:16:06.194016
+25,Sant Gervasi - la Bonanova,Parc Torrent Maduixer,2013-10-25T12:21:13,2024-11-21T15:01:42.917770
+21,Pedralbes,Jardins Creu de Pedralbes,1999-12-01T00:00:00,2024-11-21T15:01:44.862884
+31,la Vila de Gràcia,Oratori de Sant Felip Neri *Gràcia,2002-07-31T17:41:18,2022-09-17T05:58:19.363864
+25,Sant Gervasi - la Bonanova,Centre Cívic Vil·la Florida,2007-03-27T09:49:55,2024-06-04T13:03:15.029752
+2,el Barri Gòtic,Casa Sarriera,2017-01-27T13:17:27,2021-09-09T02:15:50.212536
+71,Provençals del Poblenou,Parc del Centre del Poblenou,2008-02-26T14:55:46,2024-11-21T15:01:43.561392
+11,el Poble-sec,Font Màgica - Fonts de Montjuïc *Aturada degut a la situació d'alerta per sequera,1995-03-28T00:00:00,2024-10-03T12:01:49.095863
+25,Sant Gervasi - la Bonanova,Restaurant El Asador de Aranda *Av Tibidabo,1996-09-18T00:00:00,2023-10-03T10:44:47.012388
+18,Sants,Federació Eix Comercial Sants-Les Corts,2007-09-19T19:22:02,2024-04-08T14:37:39.256725
+70,el Besòs i el Maresme,Pèrgola Fotovoltaica al Parc del Fòrum,2004-03-10T15:58:00,2024-10-16T13:08:16.990191
+5,el Fort Pienc,Escola Superior de Música de Catalunya,2001-03-22T00:00:00,2024-05-27T10:34:55.643476
+16,la Bordeta,Casal Cívic i Comunitari Barcelona - Magòria,2006-05-12T11:58:13,2024-09-06T12:19:32.211111
+25,Sant Gervasi - la Bonanova,Escola Business Engineering School - la Salle,2010-09-13T00:00:00,2022-09-17T07:26:06.256553
+31,la Vila de Gràcia,Escola Superior de Disseny IED Barcelona,2002-04-24T00:00:00,2021-12-30T10:15:36.096936
+4,"Sant Pere, Santa Caterina i la Ribera",Fundació Joan Brossa,2000-01-14T00:00:00,2024-01-22T09:13:00.122549
+21,Pedralbes,Espai de Memòria de les Catorze Roses,2023-07-07T13:47:55.205141,2023-07-20T08:12:44.079105
+20,la Maternitat i Sant Ramon,Pati Geològic,2023-07-07T13:55:22.444124,2023-07-20T09:12:11.807220
+10,Sant Antoni,Edifici de la Fàbrica Moritz - Espai Gastronòmic i Cultural,2005-09-15T11:48:54,2022-09-17T06:28:39.200223
+7,la Dreta de l'Eixample,Museu Egipci de Barcelona,2000-03-30T00:00:00,2024-05-29T13:20:48.268893
+18,Sants,Masia la Petita Maria,2015-07-07T13:44:44,2021-09-09T02:15:15.573220
+26,Sant Gervasi - Galvany,Forn de Pa Roura Vila,1996-09-18T00:00:00,2023-10-03T10:44:28.604838
+30,la Salut,Hospital  Sociosanitari Mutuam Güell,2005-02-07T17:41:51,2022-09-17T06:22:28.297064
+9,la Nova Esquerra de l'Eixample,Oasi MAC,2023-09-01T08:08:00.175061,2024-09-19T18:03:46.824509
+60,Sant Andreu,Centre Municipal de Cultura Popular de Sant Andreu,2005-10-04T17:21:02,2022-09-17T06:29:54.329939
+2,el Barri Gòtic,Museu de Cera de Barcelona,1996-09-17T00:00:00,2024-11-15T14:11:01.941638
+1,el Raval,Pastisseria Escribà *La Rambla,1996-09-18T00:00:00,2023-10-03T10:03:27.169430
+7,la Dreta de l'Eixample,Casa Serra,2001-01-16T00:00:00,2023-01-20T14:16:13.613949
+1,el Raval,Plaça dels Àngels,2022-09-01T14:35:30.645594,2024-03-25T09:48:52.686039
+23,Sarrià,La plaça de Sant Gaietà,2015-07-07T15:04:07,2021-09-09T02:15:16.451559
+68,el Poblenou,Memorial en Record de les Víctimes de Trànsit,2019-05-28T11:23:23,2021-12-20T10:49:09.547947
+20,la Maternitat i Sant Ramon,Colònia Carné,2017-02-09T17:20:55,2021-09-09T02:16:54.630445
+21,Pedralbes,La plaça de Pedralbes,2017-02-10T09:33:12,2021-09-09T02:17:01.239936
+21,Pedralbes,La Torre Blanca,2017-02-10T10:30:50,2022-09-17T08:52:44.469851
+60,Sant Andreu,Pilar d'Aigua de Sant Andreu,2017-02-10T12:32:25,2022-09-17T08:52:48.361779
+62,el Congrés i els Indians,La Plaça de les Havaneres,2017-02-10T12:37:15,2021-09-09T02:17:06.358233
+25,Sant Gervasi - la Bonanova,Edifici La Rotonda,2006-08-07T14:19:24,2022-09-17T06:37:57.633480
+3,la Barceloneta,Cooperativa Obrera Popular Segle XX,2017-01-26T13:59:25,2024-07-22T13:04:34.382340
+3,la Barceloneta,La Maquinista Terrestre i Marítima,2017-01-26T14:47:44,2021-09-09T02:15:47.023354
+1,el Raval,Unió de Cooperatives per a la Fabricació de Pastes per a Sopa,2017-01-26T15:46:45,2022-09-17T08:50:00.879922
+65,el Clot,Centre Cultural La Farinera del Clot,1999-04-29T00:00:00,2024-08-01T07:58:44.836983
+71,Provençals del Poblenou,MUHBA Museu d'Història de Barcelona - Oliva Artés,2015-05-08T13:38:48,2024-11-20T13:45:55.975287
+70,el Besòs i el Maresme,Zona de Banys,2005-06-15T14:34:00,2024-06-10T12:30:10.102504
+68,el Poblenou,L'Hort del Cànem,2022-12-02T10:44:01.134952,2022-12-02T12:51:57.618461
+43,Horta,Carrer Aiguafreda,2017-02-06T09:46:29,2021-09-09T02:15:50.452911
+31,la Vila de Gràcia,Casa Anoll,2017-02-06T12:30:06,2022-09-17T08:50:28.881441
+28,Vallcarca i els Penitents,Casa Barangé,2017-02-06T12:44:38,2021-09-09T02:15:54.586051
+25,Sant Gervasi - la Bonanova,Viaducte de Bellesguard,2006-01-11T10:41:27,2021-09-09T02:14:05.238297
+31,la Vila de Gràcia,Plaça del Sol,2015-07-08T09:18:46,2021-09-09T02:15:24.797883
+11,el Poble-sec,Museu Olímpic i de l'Esport Joan Antoni Samaranch de Barcelona,2007-03-22T00:00:00,2024-11-20T12:47:50.252646
+2,el Barri Gòtic,Avinguda de la Catedral,2022-09-01T14:31:36.475631,2024-09-10T12:19:05.946942
+11,el Poble-sec,Avinguda Maria Cristina,2022-09-01T14:39:43.127669,2024-09-16T10:32:50.891454
+20,la Maternitat i Sant Ramon,Carrer Martí  i Franqués,2022-09-01T14:43:47.504394,2024-09-19T18:28:15.034070
+11,el Poble-sec,Palau de la Premsa,2017-02-08T09:33:32,2024-10-29T13:41:52.364049
+11,el Poble-sec,La Plaça del Sortidor,2017-02-08T11:13:44,2021-09-09T02:16:18.241138
+31,la Vila de Gràcia,Conjunt de Torretes al carrer Verdi,2017-02-08T12:09:47,2022-09-17T08:51:39.092589
+11,el Poble-sec,El Canal de la Infanta,2017-02-08T13:21:40,2021-09-09T02:16:23.134202
+27,el Putxet i el Farró,Bodega Josefa,2017-02-08T13:24:44,2022-09-17T08:51:41.268572
+9,la Nova Esquerra de l'Eixample,Antiga Seu Editorial Gustavo Gili,1998-12-27T00:00:00,2024-11-04T14:37:16.039932
+69,Diagonal Mar i el Front Marítim del Poblenou,Platja de Llevant,2006-08-01T13:00:03,2023-05-02T09:15:10.276605
+21,Pedralbes,"El camí de Finestrelles, i el mirador",2017-02-08T15:19:55,2021-09-09T02:16:24.510968
+25,Sant Gervasi - la Bonanova,El passeig de Sant Gervasi,2017-02-09T10:14:36,2021-09-09T02:16:36.910864
+25,Sant Gervasi - la Bonanova,El Submarí de la Ronda,2017-02-09T10:32:54,2021-09-09T02:16:32.124554
+60,Sant Andreu,Cooperativa La Confiança Andreuenca,2017-02-09T12:10:41,2021-09-09T02:16:35.765583
+25,Sant Gervasi - la Bonanova,Universitat Internacional de Catalunya,2000-12-20T00:00:00,2024-05-23T12:49:15.184054
+7,la Dreta de l'Eixample,Forn de la Concepció,2015-07-07T11:43:24,2022-09-17T08:22:05.451806
+19,les Corts,Roca Barcelona Gallery,2009-10-16T11:54:29,2022-09-17T07:15:42.962100
+2,el Barri Gòtic,Pla de la Seu,2022-09-18T18:48:05.936975,2024-09-19T18:28:59.932727
+60,Sant Andreu,Can Fontanet - Centre d'Interpretació dels Tres Tombs de Sant Andreu,2015-03-17T00:00:00,2023-06-07T15:00:52.637001
+11,el Poble-sec,Teatre Lliure,1996-09-18T00:00:00,2024-11-04T14:32:49.371965
+4,"Sant Pere, Santa Caterina i la Ribera",El Born i la Ribera,2015-05-25T13:45:55,2021-09-09T02:14:18.368498
+3,la Barceloneta,La Barceloneta,2015-05-25T15:50:11,2021-09-09T02:14:24.376853
+15,Hostafrancs,Sants i Hostafrancs,2015-05-25T16:30:00,2021-09-09T02:14:30.133447
+61,la Sagrera,La Sagrera,2015-05-25T17:07:41,2024-09-30T13:01:33.995849
+61,la Sagrera,Torre del Fang,1995-06-15T00:00:00,2022-09-17T05:15:51.576514
+30,la Salut,Club Esportiu Europa,1996-09-18T00:00:00,2023-06-29T10:37:57.806804
+67,la Vila Olímpica del Poblenou,La Vila Olímpica,2015-05-25T17:22:18,2021-07-09T10:40:59.659321
+70,el Besòs i el Maresme,El Fòrum,2015-05-25T17:28:10,2021-09-09T02:14:33.767304
+2,el Barri Gòtic,La Rambla,2014-10-22T14:19:05,2024-06-17T15:44:59.587290
+43,Horta,Plaça Eivissa,2015-07-03T14:25:55,2021-09-09T02:15:06.991435
+5,el Fort Pienc,Casa Estapé,2015-07-07T11:03:20,2022-09-17T08:21:56.178008
+7,la Dreta de l'Eixample,Cases Rocamora,2015-07-07T11:12:38,2022-09-17T08:22:02.354315
+7,la Dreta de l'Eixample,Casa Malagrida,2015-07-07T11:32:43,2022-09-17T08:22:05.452719
+43,Horta,El carrer de Campoamor,2015-07-08T13:41:50,2021-09-09T02:15:26.268997
+3,la Barceloneta,Casa de la Marina,2015-07-08T13:45:55,2022-09-17T08:22:34.852056
+39,Sant Genís dels Agudells,La carretera de les Aigües (sector Horta-Guinardó),2015-07-08T14:04:22,2021-09-09T02:15:27.430612
+48,la Guineueta,L'Aqüeducte del Parc Central de Nou Barris,2015-07-08T14:30:17,2021-09-09T02:15:27.366356
+20,la Maternitat i Sant Ramon,'La Masia' del Barça,2017-02-10T14:09:06,2021-09-09T02:17:10.141190
+62,el Congrés i els Indians,"""Vivendes"" del Congrés Eucarístic",2017-02-13T09:03:44,2021-09-09T02:17:12.416487
+60,Sant Andreu,Antiga Biblioteca Infantil del GATCPAC,2017-02-13T09:43:54,2021-09-09T02:17:12.459503
+16,la Bordeta,Antiga Fàbrica Can Batlló,2014-05-27T12:44:26,2024-06-25T11:57:54.943490
+59,el Bon Pastor,Cases Barates del Bon Pastor,2017-02-13T11:25:05,2021-09-09T03:19:24.834988
+60,Sant Andreu,Rambla de Fabra i Puig,2017-02-13T12:06:04,2021-09-09T02:17:21.205651
+69,Diagonal Mar i el Front Marítim del Poblenou,Centre Comercial Diagonal Mar,2001-11-09T00:00:00,2024-06-20T13:38:39.207351
+25,Sant Gervasi - la Bonanova,Centre Cívic Pere Pruna,2000-05-15T00:00:00,2024-11-14T08:25:14.655271
+2,el Barri Gòtic,"Àntic Edifici de Catalana de Gas i Electricitat, SA",2015-10-02T12:43:36,2021-09-09T02:15:42.201889
+9,la Nova Esquerra de l'Eixample,Centre Comercial Arenas de Barcelona,2011-03-25T11:12:32,2024-06-20T13:36:43.524057
+60,Sant Andreu,Fabra i Coats - Fàbrica de Creació,2007-10-17T13:07:22,2024-06-26T11:09:33.455962
+7,la Dreta de l'Eixample,El passeig de Sant Joan,2015-05-26T12:28:55,2021-09-09T02:14:35.562794
+31,la Vila de Gràcia,La plaça de la Vila de Gràcia,2015-05-26T13:15:27,2021-06-28T12:40:25.380028
+62,el Congrés i els Indians,El Congrés i els Indians,2015-05-26T13:45:37,2021-09-09T02:14:43.635593
+7,la Dreta de l'Eixample,El Quadrat d'Or,2015-05-26T14:07:05,2021-09-09T02:14:43.745820
+66,el Parc i la Llacuna del Poblenou,El 22@,2015-05-26T16:30:01,2021-09-09T02:14:50.963159
+61,la Sagrera,L'Estació de La Sagrera,2015-05-26T16:42:51,2021-09-09T02:14:50.344735
+2,el Barri Gòtic,La Plaça Reial,2015-12-01T10:14:26,2024-09-10T12:26:24.729747
+2,el Barri Gòtic,La Muralla Romana,2015-05-26T16:54:30,2021-09-09T02:14:53.602599
+18,Sants,Biblioteca Vapor Vell,2000-09-05T00:00:00,2024-11-13T14:27:42.655866
+13,la Marina de Port,El Polvorí i Cos de Guàrdia,2015-01-14T13:59:53,2021-09-09T02:14:15.612447
+2,el Barri Gòtic,El Portal de l'Àngel,2015-07-02T13:15:42,2021-09-09T02:15:01.567950
+60,Sant Andreu,Casa Vidal,2015-07-02T14:15:15,2022-09-17T08:21:43.842410
+60,Sant Andreu,Can Mazantini,2015-07-02T14:54:29,2022-09-17T08:21:51.526429
+1,el Raval,Hotel España - HB-000073,1996-09-18T00:00:00,2023-10-03T10:03:26.797136
+4,"Sant Pere, Santa Caterina i la Ribera",Espai Mescladís,2012-03-22T00:00:00,2022-09-17T07:46:44.499414
+20,la Maternitat i Sant Ramon,Edifici La Maternitat,2015-10-08T11:41:44,2022-09-17T08:28:22.081312
+71,Provençals del Poblenou,Antiga Fàbrica d'Estampació Tèxtil Can Ricart,2016-09-06T10:36:16,2022-09-17T08:45:42.615363
+2,el Barri Gòtic,Camisseria Bonet,2015-07-08T17:55:01,2021-09-09T02:15:32.731245
+1,el Raval,Casa Doctor Genové,2015-07-08T18:14:09,2022-09-17T08:22:38.123154
+7,la Dreta de l'Eixample,Casa Domènech i Estapà,2015-07-09T13:27:40,2022-09-17T08:22:52.220958
+7,la Dreta de l'Eixample,Teatre Coliseum,1996-09-18T00:00:00,2023-10-03T10:17:58.378442
+18,Sants,Associació Sants Establiments Units,2001-01-23T00:00:00,2024-03-28T10:35:00.788323
+21,Pedralbes,Casa Carreras,2017-02-09T17:08:51,2022-09-17T08:52:30.467681
+21,Pedralbes,La plaça del Monestir,2017-02-10T09:46:27,2021-09-09T02:16:58.760609
+20,la Maternitat i Sant Ramon,La Porta Est de la Finca Güell,2017-02-10T10:07:38,2021-09-09T02:17:01.873060
+60,Sant Andreu,La Plaça del Comerç,2017-02-10T12:41:48,2021-09-09T02:17:06.349211
+21,Pedralbes,La Vil·la Hèlius (Casa Grané),2017-02-10T12:54:41,2022-09-17T08:52:50.407185
+20,la Maternitat i Sant Ramon,L'Antic Institut Frenopàtic,2017-02-10T13:08:10,2021-09-09T02:17:08.412243
+66,el Parc i la Llacuna del Poblenou,Museu de Pintura Contemporània Can Framis,2009-04-24T00:00:00,2024-09-10T13:35:14.345050
+23,Sarrià,Floristeria Flora Miserachs,2010-04-26T13:25:24,2021-09-09T02:14:08.322956
+20,la Maternitat i Sant Ramon,L'Espai de la Torre Melina i el seu Jardí Romàntic,2017-02-10T13:55:15,2021-09-09T02:17:06.516520
+60,Sant Andreu,Avenç Obrer Català de Sant Andreu,2017-02-13T09:22:23,2021-09-09T02:17:10.162300
+60,Sant Andreu,Carrer Pons i Gallarza,2017-02-13T11:20:20,2021-09-09T02:17:19.726310
+62,el Congrés i els Indians,Carrer Puerto Príncipe,2017-02-13T11:22:13,2021-09-09T02:17:26.029831
+19,les Corts,Cristalleries Planell,2015-07-07T14:52:06,2024-07-19T13:19:23.973058
+29,el Coll,Casa Queralt,2015-07-08T09:08:58,2021-09-09T02:15:19.295500
+37,el Carmel,El Túnel de la Rovira,2015-07-08T14:12:40,2021-09-09T02:15:30.822695
+11,el Poble-sec,La Plaça Santa Madrona,2017-02-13T12:27:03,2021-09-09T02:17:22.863392
+10,Sant Antoni,El Paral·lel,2015-05-25T13:38:11,2021-09-09T02:14:18.287452
+4,"Sant Pere, Santa Caterina i la Ribera",Sant Pere i Santa Caterina,2015-05-25T16:19:43,2021-09-09T02:14:21.894905
+2,el Barri Gòtic,El Gòtic,2015-05-25T18:58:04,2023-09-15T15:15:52.097963
+68,el Poblenou,El Poblenou,2015-05-26T12:09:56,2021-09-09T02:14:35.763941
+60,Sant Andreu,Sant Andreu,2015-05-26T12:18:30,2021-09-09T02:14:38.167908
+43,Horta,El nucli antic d'Horta,2015-05-26T12:24:46,2021-09-09T02:14:37.921873
+7,la Dreta de l'Eixample,Cases Josefa Villanueva,2015-07-07T12:31:44,2022-09-17T08:22:11.431077
+22,"Vallvidrera, el Tibidabo i les Planes",Casa del Guarda -  Espai d'Interpretació del Pantà de Vallvidrera,2010-04-20T13:55:00,2024-11-19T17:17:25.360881
+31,la Vila de Gràcia,La plaça de Lesseps,2015-05-26T13:26:20,2021-09-09T02:14:44.349060
+67,la Vila Olímpica del Poblenou,El Campus Ciutadella,2015-05-26T17:06:23,2024-11-04T14:35:47.867120
+61,la Sagrera,Pont de Calatrava (Bac de Roda - Felip II),2001-07-23T00:00:00,2023-02-27T16:19:16.024090
+40,Montbau,El Campus Mundet - UB,2015-05-26T17:35:12,2022-09-09T12:07:54.518743
+57,la Trinitat Vella,La llera del riu Besòs,2015-05-26T17:48:09,2024-09-19T18:26:54.159567
+7,la Dreta de l'Eixample,Casa Fargas,2015-07-07T12:11:06,2022-09-17T08:22:08.014773
+60,Sant Andreu,Impremta Baltasar,1992-05-04T00:00:00,2021-09-09T02:13:41.936807
+68,el Poblenou,"BAU, Centre Universitari d'Arts i Disseny de Barcelona",1998-03-28T00:00:00,2024-05-27T10:32:56.639546
+26,Sant Gervasi - Galvany,Drogueria Rovira (Antiga Drogueria Galvany),1992-05-04T00:00:00,2021-09-09T02:13:41.588316
+1,el Raval,Mercat Boqueria - Sant Josep,1984-12-28T00:00:00,2024-10-01T12:31:16.475627
+4,"Sant Pere, Santa Caterina i la Ribera",Mercat Santa Caterina,1984-12-28T00:00:00,2024-10-22T12:44:55.516256
+21,Pedralbes,Pavellons d'Entrada de l'Antiga Finca Güell,2002-03-04T00:00:00,2021-10-18T15:23:24.715718
+20,la Maternitat i Sant Ramon,Carrer Menéndez Pelayo,2023-08-31T09:00:35.690421,2024-09-10T12:17:49.972082
+15,Hostafrancs,Mercat Hostafrancs,1984-12-28T00:00:00,2024-10-22T12:36:03.050185
+18,Sants,Mercat Sants,1984-12-28T00:00:00,2024-07-11T09:47:29.055129
+20,la Maternitat i Sant Ramon,Reial Club de Polo de Barcelona,1987-07-09T00:00:00,2023-03-09T15:22:44.147375
+6,la Sagrada Família,Temple Expiatori de la Sagrada Família - Basílica,1988-07-06T00:00:00,2024-11-18T16:03:30.835227
+7,la Dreta de l'Eixample,Casa Amatller,1984-12-10T00:00:00,2023-05-16T12:33:31.970829
+30,la Salut,Mirador Joan Sales i Vallès,2016-04-26T16:54:09,2024-03-07T09:52:34.572302
+3,la Barceloneta,Hospital del Mar,1989-08-10T00:00:00,2023-11-08T09:04:31.493595
+3,la Barceloneta,Club Natació Atlètic - Barceloneta,1987-06-09T00:00:00,2024-07-24T14:24:39.003730
+31,la Vila de Gràcia,Edifici Modernista Riera de Sant Miquel 44,2017-02-07T13:49:35,2022-09-17T08:51:09.578367
+31,la Vila de Gràcia,Edifici de La Caixa de Barcelona,2017-02-07T17:09:01,2022-09-17T08:51:19.235023
+11,el Poble-sec,Teatre Grec,1989-07-04T00:00:00,2024-09-10T12:39:47.680839
+28,Vallcarca i els Penitents,Parc Sanitari Pere Virgili,1988-03-14T00:00:00,2022-09-21T19:13:34.303475
+8,l'Antiga Esquerra de l'Eixample,Universitat de Barcelona,1991-11-26T00:00:00,2024-11-19T17:37:42.226343
+31,la Vila de Gràcia,Casa Vicens,1984-12-07T00:00:00,2023-05-22T10:35:40.810191
+1,el Raval,Palau Güell,2002-05-09T10:29:32,2024-09-10T14:59:48.265133
+31,la Vila de Gràcia,Metro Fontana,2017-02-08T08:43:57,2021-09-09T02:16:09.973548
+31,la Vila de Gràcia,La plaça d'en Joanic,2017-02-08T09:08:15,2021-09-09T02:16:13.765749
+60,Sant Andreu,Capella dels Segadors,2015-07-09T13:14:23,2022-06-02T09:58:17.814997
+28,Vallcarca i els Penitents,Casa Marsans - Alberg Mare de Déu de Montserrat - AJ000084,1988-02-15T00:00:00,2022-09-23T14:50:17.987863
+36,la Font d'en Fargues,Casal de Barri Font d'en Fargues,1991-05-03T00:00:00,2024-07-26T11:30:04.565238
+22,"Vallvidrera, el Tibidabo i les Planes",Santa Creu d'Olorda,2015-05-18T13:17:06,2021-09-09T02:14:15.541713
+1,el Raval,Tinta Invisible Edicions,2002-05-04T00:00:00,2023-10-03T10:02:32.481422
+24,les Tres Torres,Col·legi Oficial de Metges de Barcelona,1984-05-30T00:00:00,2023-02-13T18:27:42.518444
+13,la Marina de Port,Fàbrica de Creació Graner,2011-10-05T10:26:33,2021-07-20T10:05:47.077007
+15,Hostafrancs,Centre Cívic Casinet d'Hostafrancs,1984-05-30T00:00:00,2024-06-21T14:48:18.660974
+1,el Raval,World Trade Center,1998-09-26T00:00:00,2023-10-03T10:02:41.601842
+35,el Guinardó,Associació de Botiguers i Professionals Eix Maragall,2000-03-07T00:00:00,2024-04-08T14:55:17.867354
+19,les Corts,Memorial de les Dones Represaliades a la Presó de Dones de les Corts,2019-12-16T18:04:02,2023-07-20T09:19:04.891582
+60,Sant Andreu,Farmàcia Guinart Gómez de Arteche,1996-09-18T00:00:00,2024-10-08T08:47:20.075434
+70,el Besòs i el Maresme,Edifici Torre Telefònica - Diagonal Zero Zero,2011-10-26T10:30:11,2021-09-09T02:14:11.045725
+60,Sant Andreu,Antiga Estació de Rodalies Sant Andreu Comtal de RENFE,2022-12-16T10:11:45.750827,2022-12-16T10:13:32.584829
+24,les Tres Torres,Restaurant Dos Torres,2010-02-25T11:22:49,2022-07-19T11:42:52.643223
+11,el Poble-sec,Cementiri Montjuïc,1985-03-28T00:00:00,2023-10-24T09:06:03.048717
+32,el Camp d'en Grassot i Gràcia Nova,Escultura Fray Pedro Ponce de León,1985-03-28T00:00:00,2021-09-09T02:13:47.501766
+53,la Trinitat Nova,Fàbrica de Creació Ateneu Popular 9 Barris,1988-12-13T00:00:00,2023-02-15T13:39:50.218170
+60,Sant Andreu,Club Natació Sant Andreu,1987-11-10T00:00:00,2024-02-21T12:30:06.266415
+1,el Raval,Museu Marítim de Barcelona,1984-05-30T00:00:00,2024-11-20T12:38:43.106288
+57,la Trinitat Vella,Parròquia de la Santíssima Trinitat,1984-05-30T00:00:00,2022-09-17T04:00:56.273605
+26,Sant Gervasi - Galvany,Círculo Ecuestre,1986-01-08T00:00:00,2023-02-13T17:59:47.655049
+61,la Sagrera,Centre Educatiu Monlau Sagrera,1996-09-18T00:00:00,2024-05-13T13:20:03.240300
+7,la Dreta de l'Eixample,Palau Robert - Centre d'Informació de Catalunya,1988-01-08T00:00:00,2021-09-01T13:14:09.443590
+2,el Barri Gòtic,Parròquia de Santa Maria del Pi - Basílica,1984-05-30T00:00:00,2024-01-10T12:51:05.967556
+32,el Camp d'en Grassot i Gràcia Nova,Centre Cívic La Sedeta,1984-05-30T00:00:00,2024-06-25T12:50:38.798421
+22,"Vallvidrera, el Tibidabo i les Planes",Restaurant Casa Trampa,1996-09-18T00:00:00,2023-10-03T10:40:42.695068
+65,el Clot,Mercat Clot,1985-01-17T00:00:00,2024-10-22T12:32:04.976495
+68,el Poblenou,Mercat Poblenou - Unió,1985-01-17T00:00:00,2024-10-22T12:39:05.407051
+7,la Dreta de l'Eixample,Associació del Passeig de Gràcia,1987-01-15T00:00:00,2024-04-08T10:54:56.984784
+23,Sarrià,Seu del Districte de Sarrià-Sant Gervasi,1988-02-29T00:00:00,2024-10-14T08:56:34.637868
+26,Sant Gervasi - Galvany,Centre Cívic Can Castelló,2007-12-27T14:11:55,2024-11-14T09:44:22.202048
+9,la Nova Esquerra de l'Eixample,Edifici de La Model,1988-09-26T00:00:00,2024-09-02T12:31:47.374452
+48,la Guineueta,Seu del Districte de Nou Barris,1988-02-29T00:00:00,2024-09-25T09:53:18.567472
+44,Vilapicina i la Torre Llobeta,Centre Cívic Torre Llobeta,1984-05-30T00:00:00,2024-06-25T15:01:11.909690
+60,Sant Andreu,Farmàcia Reixach-de Pablo,1998-03-28T00:00:00,2024-09-30T10:59:09.624785
+11,el Poble-sec,Institut Nacional d'Educació Física de Catalunya *Barcelona,1988-08-01T00:00:00,2024-11-06T12:49:08.374353
+11,el Poble-sec,Museu d'Arqueologia de Catalunya,1984-05-30T00:00:00,2024-11-15T13:53:26.418788
+40,Montbau,Vall d'Hebron Barcelona Hospital Campus,1984-05-30T00:00:00,2023-02-22T15:26:36.244892
+11,el Poble-sec,Funicular de Montjuïc-TMB,1988-02-26T00:00:00,2023-02-20T09:40:33.508265
+7,la Dreta de l'Eixample,Casa Queraltó,2015-07-07T12:21:00,2021-09-09T02:15:10.859055
+41,la Vall d'Hebron,Restaurant Can Travi Nou,1988-06-13T00:00:00,2022-09-17T04:26:44.609061
+4,"Sant Pere, Santa Caterina i la Ribera",Parròquia de Sant Pere de les Puel·les,1984-05-30T00:00:00,2021-05-11T12:54:27.045256
+24,les Tres Torres,Parròquia de Maria Auxiliadora,1984-05-30T00:00:00,2022-09-17T03:50:45.211951
+16,la Bordeta,Parròquia de Sant Medir,1984-05-30T00:00:00,2022-09-17T03:51:02.746072
+19,les Corts,Parròquia de Santa Maria del Remei,1984-05-30T00:00:00,2022-09-17T03:50:42.488895
+4,"Sant Pere, Santa Caterina i la Ribera",Zoo de Barcelona,2000-03-01T00:00:00,2024-11-19T17:38:06.345790
+43,Horta,Mercat Horta,1985-01-17T00:00:00,2024-06-27T09:20:56.009281
+5,el Fort Pienc,Estació d'Autobusos Barcelona Nord,1995-03-22T00:00:00,2023-02-15T13:36:58.095112
+37,el Carmel,Escultura David i Goliat Homenatge a les Brigades Internacionals,1990-05-15T00:00:00,2023-01-20T14:00:35.177541
+67,la Vila Olímpica del Poblenou,Port Olímpic de Barcelona,1992-07-13T00:00:00,2024-09-10T13:13:46.227971
+20,la Maternitat i Sant Ramon,Spotify Camp Nou * Tancat per remodelació,1995-06-01T00:00:00,2024-11-19T17:00:16.541162
+4,"Sant Pere, Santa Caterina i la Ribera",Estació de França,1992-11-13T00:00:00,2023-02-15T13:37:21.267916
+69,Diagonal Mar i el Front Marítim del Poblenou,Fundació Privada Centre de Producció Artística i Cultural Palo Alto,2002-06-22T14:16:00,2023-10-16T09:36:34.201074
+20,la Maternitat i Sant Ramon,Museu Barça Immersive Tour,1992-06-11T00:00:00,2024-07-19T11:15:42.936177
+11,el Poble-sec,Palau Sant Jordi,1989-09-07T00:00:00,2024-09-19T18:02:00.660130
+11,el Poble-sec,Palau de Congressos *Pavelló 5,1996-11-14T00:00:00,2024-03-07T14:26:29.272273
+21,Pedralbes,Palau Reial de Pedralbes,1995-03-31T00:00:00,2024-07-04T11:26:13.552012
+39,Sant Genís dels Agudells,Hort Urbà Masia Can Soler,2001-06-05T00:00:00,2023-09-06T12:43:02.280037
+7,la Dreta de l'Eixample,Obelisc del Cinc d'Oros,1985-03-29T00:00:00,2021-09-09T02:13:47.389410
+4,"Sant Pere, Santa Caterina i la Ribera",El Born Centre de Cultura i Memòria,1984-12-10T00:00:00,2024-11-04T14:37:58.818379
+7,la Dreta de l'Eixample,Casa Thomas,1984-12-10T00:00:00,2022-09-17T04:05:35.498290
+21,Pedralbes,Centre Educatiu Thau,1990-09-26T00:00:00,2024-11-14T11:04:41.148837
+43,Horta,Velodrom Municipal d'Horta Miquel Poblet,1985-02-12T00:00:00,2024-02-20T14:49:03.324992
+21,Pedralbes,Museu Reial Monestir de Santa Maria de Pedralbes,1984-05-30T00:00:00,2024-09-10T14:18:20.972277
+21,Pedralbes,Reial Club de Tennis Barcelona - 1899,1985-06-10T00:00:00,2023-02-23T14:16:04.965207
+11,el Poble-sec,MUHBA Museu d'Història de Barcelona  - Refugi 307,1998-03-31T00:00:00,2024-11-20T13:21:47.828969
+31,la Vila de Gràcia,Centre Moral i Instructiu de Gràcia,2002-05-09T10:29:32,2023-03-09T15:22:42.895867
+28,Vallcarca i els Penitents,Parròquia de la Verge de Gràcia i Sant Josep,1984-05-30T00:00:00,2024-03-18T10:36:45.816751
+15,Hostafrancs,Seu del Districte de Sants-Montjuïc,1988-02-29T00:00:00,2024-11-06T12:40:49.387048
+31,la Vila de Gràcia,Associació de Comerciants del Carrer Gran de Gràcia,1996-12-02T00:00:00,2024-04-08T14:51:59.909160
+21,Pedralbes,El Conjunt Residencial de Les Escales Park,2017-02-09T16:00:05,2021-09-09T02:16:51.567013
+1,el Raval,Escola Massana Centre Municipal d'Art i Disseny,1987-10-26T00:00:00,2024-05-27T10:34:24.388602
+2,el Barri Gòtic,Moll de la Fusta *Escenari Besòs,2022-09-12T11:33:48.268663,2023-08-31T13:52:46.874062
+2,el Barri Gòtic,Moll de la Fusta *Escenari Llobregat,2022-09-12T11:35:50.666422,2023-08-31T13:53:23.762551
+31,la Vila de Gràcia,Parròquia de Santa Maria de Gràcia,1984-05-30T00:00:00,2022-09-17T03:56:03.955172
+32,el Camp d'en Grassot i Gràcia Nova,Parròquia de l'Immaculat Cor de Maria,1986-04-24T00:00:00,2022-09-17T03:56:49.356157
+22,"Vallvidrera, el Tibidabo i les Planes",Funicular Vallvidrera - FGC,1988-02-26T00:00:00,2024-09-09T12:14:08.529615
+25,Sant Gervasi - la Bonanova,Funicular Tibidabo - Cuca de Llum,1988-02-26T00:00:00,2021-07-15T12:48:03.090346
+19,les Corts,El passatge de Tubella,2017-02-09T16:36:10,2021-09-09T02:16:50.827053
+25,Sant Gervasi - la Bonanova,Tramvia Blau Tibidabo-TMB,1988-02-26T00:00:00,2023-06-09T14:33:33.747606
+31,la Vila de Gràcia,Institut Vila de Gràcia,1992-08-21T00:00:00,2023-02-02T13:59:58.503266
+41,la Vall d'Hebron,Pavelló de la República,1992-09-15T00:00:00,2022-09-17T04:58:23.009579
+41,la Vall d'Hebron,Museu de Carruatges del Foment,1985-03-20T00:00:00,2024-06-25T09:11:15.310347
+11,el Poble-sec,Poble Espanyol de Barcelona,1984-12-10T00:00:00,2024-09-10T13:06:08.841215
+25,Sant Gervasi - la Bonanova,Centre Educatiu Jesús i Maria *Passeig Sant Gervasi,1988-03-01T00:00:00,2022-09-17T04:54:10.337304
+2,el Barri Gòtic,Cereria Subirà,2012-02-06T10:28:30,2022-09-23T14:46:44.520020
+1,el Raval,Filmoteca de Catalunya,1987-06-16T00:00:00,2023-02-01T15:33:28.237926
+1,el Raval,Associació Cultural El Raval El Lokal,1994-01-24T00:00:00,2023-12-13T12:33:40.102462
+31,la Vila de Gràcia,Espai Jove La Fontana,2009-01-13T17:23:40,2024-11-04T14:38:43.089710
+60,Sant Andreu,Centre Estudis Ignasi Iglesias,1987-09-17T00:00:00,2024-11-14T12:01:03.110709
+3,la Barceloneta,Far del Port - Torre del Rellotge,1995-02-03T00:00:00,2022-09-17T05:12:22.281914
+60,Sant Andreu,Parròquia de Sant Josep Manyanet,1984-05-30T00:00:00,2022-09-17T03:57:46.264074
+60,Sant Andreu,Centre Cívic Sant Andreu,1984-05-30T00:00:00,2024-03-13T13:33:56.298107
+60,Sant Andreu,Pis - Museu Habitatge 1/11,2012-03-12T00:00:00,2024-01-04T09:37:49.502464
+31,la Vila de Gràcia,Associació Catalana per la Integració i el Desenvolupament Humà,1996-09-18T00:00:00,2024-06-26T12:34:18.796738
+4,"Sant Pere, Santa Caterina i la Ribera",Casal de Barri Pou de la Figuera,2010-10-25T12:46:13,2022-10-04T13:22:18.225934
+7,la Dreta de l'Eixample,Casal Sant Jordi,1984-12-10T00:00:00,2022-09-17T04:06:02.633399
+19,les Corts,Edifici Talaia Barcelona,1984-12-10T00:00:00,2022-09-17T04:06:20.547137
+9,la Nova Esquerra de l'Eixample,Centre Cultural Teresa Pàmies,2011-05-09T11:51:31,2022-09-17T07:39:48.289514
+5,el Fort Pienc,Mercat Encants Barcelona - Fira de Bellcaire,1984-12-28T00:00:00,2024-06-13T14:17:04.687163
+20,la Maternitat i Sant Ramon,Cementiri Les Corts,1985-03-28T00:00:00,2023-10-24T09:05:12.066533
+24,les Tres Torres,Cementiri Sarrià,1985-03-28T00:00:00,2023-10-24T09:06:41.839251
+68,el Poblenou,Cementiri Poblenou,1985-03-28T00:00:00,2023-02-15T11:55:08.588986
+23,Sarrià,Centre Esportiu Municipal Can Caralleu,1989-10-09T00:00:00,2024-06-20T14:20:22.235875
+26,Sant Gervasi - Galvany,Institut Français de Barcelone,1984-05-30T00:00:00,2023-02-13T18:27:43.641744
+2,el Barri Gòtic,Parròquia de la Mare de Déu de la Mercè i Sant Miquel Arcàngel - Basílica,1984-05-30T00:00:00,2021-09-01T13:22:50.857309
+9,la Nova Esquerra de l'Eixample,Centre Cívic Casa Golferichs,1984-12-10T00:00:00,2024-11-12T13:11:17.690007
+32,el Camp d'en Grassot i Gràcia Nova,Font Hércules,1995-05-08T00:00:00,2023-01-20T14:10:54.408480
+7,la Dreta de l'Eixample,Conservatori Municipal de Música de Barcelona,1989-05-22T00:00:00,2023-02-15T12:51:47.877924
+39,Sant Genís dels Agudells,Cementiri Sant Genís,1985-03-28T00:00:00,2022-09-30T11:29:32.694534
+4,"Sant Pere, Santa Caterina i la Ribera",Palau de la Música Catalana,1988-07-11T00:00:00,2023-02-16T13:02:06.452245
+2,el Barri Gòtic,Santa Església Catedral Basílica de Barcelona,1988-06-02T00:00:00,2024-11-05T12:58:10.412778
+11,el Poble-sec,Parròquia de la Mare de Déu de Lourdes,1984-05-30T00:00:00,2022-09-17T03:44:04.503945
+60,Sant Andreu,Parròquia de Sant Pacià,1984-05-30T00:00:00,2022-09-17T03:57:45.891450
+11,el Poble-sec,Museu,1986-11-24T00:00:00,2024-11-15T13:26:47.729381
+29,el Coll,Parròquia de la Mare de Déu del Coll,1984-05-30T00:00:00,2022-09-17T03:59:51.031344
+26,Sant Gervasi - Galvany,Mercat Galvany,1984-12-28T00:00:00,2024-03-15T10:50:05.128298
+2,el Barri Gòtic,"TAMAIA Viure Sense Violencia, S.C.C.L.",2011-02-22T12:05:35,2024-01-31T13:07:26.886727
+35,el Guinardó,Casal d'Entitats Mas Guinardó,2011-02-23T14:25:20,2024-09-20T09:12:05.477642
+30,la Salut,Casa Museu Gaudí,1986-04-30T00:00:00,2024-11-15T12:49:32.637079
+30,la Salut,Club Tennis La Salut,1985-04-26T00:00:00,2024-08-02T08:38:13.380754
+27,el Putxet i el Farró,Associació de Comerciants i Professionals Barnavasi,1989-11-09T00:00:00,2024-06-07T12:47:19.898315
+13,la Marina de Port,Centre Cívic Casa del Rellotge,1991-04-29T00:00:00,2024-07-05T10:03:12.142495
+23,Sarrià,Centre Excursionista Els Blaus,2002-05-09T10:29:32,2024-10-07T10:40:23.140818
+25,Sant Gervasi - la Bonanova,L'avinguda del Tibidabo,2015-05-25T14:19:35,2022-04-26T11:35:41.566288
+7,la Dreta de l'Eixample,El Passeig de Gràcia,2015-05-25T15:30:49,2024-09-10T12:10:08.678152
+31,la Vila de Gràcia,Casa Enric Cera,2017-02-06T13:40:25,2022-09-17T08:50:37.933493
+65,el Clot,El Clot,2015-05-26T12:14:59,2021-09-09T02:14:34.381214
+1,el Raval,Bar Marsella,1992-03-13T00:00:00,2022-09-17T04:48:47.605726
+61,la Sagrera,Plaça Masadas,2015-07-02T14:25:13,2021-09-09T02:15:01.107312
+34,Can Baró,Masia de Can Baró,2015-07-03T12:59:42,2021-09-09T02:15:05.624813
+40,Montbau,Pla de Montbau,2015-07-03T13:52:29,2021-09-09T02:15:08.526094
+13,la Marina de Port,Hort Urbà Masia Can Mestres *Tancat,1998-06-29T00:00:00,2024-10-11T13:51:23.948941
+4,"Sant Pere, Santa Caterina i la Ribera",Museu Picasso,1984-05-30T00:00:00,2024-09-10T14:52:43.618071
+10,Sant Antoni,Cases Francesc Farreras,2015-07-07T11:29:39,2022-09-17T08:22:05.441604
+7,la Dreta de l'Eixample,Casa Pomar,2015-07-07T11:59:10,2022-09-17T08:22:07.194363
+7,la Dreta de l'Eixample,Casa Jaume Forn,2015-07-07T12:35:51,2022-09-17T08:22:09.471198
+7,la Dreta de l'Eixample,Casa Santurce,2015-07-07T13:15:14,2022-09-17T08:22:10.606858
+8,l'Antiga Esquerra de l'Eixample,Casa Granell *Balmes,2015-07-07T13:19:20,2022-09-17T08:22:15.118064
+40,Montbau,Cases Blanques,2017-02-06T09:47:47,2021-09-09T02:15:47.161603
+46,el Turó de la Peira,Refugi Antiaeri de Can Peguera,2017-02-06T10:20:08,2022-09-17T08:50:17.893694
+30,la Salut,Can Tusquets,2017-02-06T12:04:04,2022-09-17T08:50:26.722197
+31,la Vila de Gràcia,Casa Agustí Trulla,2017-02-06T12:26:29,2022-09-17T08:50:25.218534
+31,la Vila de Gràcia,Casa Castellet,2017-02-06T12:53:20,2022-09-17T08:50:27.402970
+31,la Vila de Gràcia,Casa Concepció i Casa Comelles,2017-02-06T13:21:22,2022-09-17T08:50:27.655811
+28,Vallcarca i els Penitents,Casa Cortina,2017-02-06T13:25:54,2022-09-17T08:50:31.900669
+64,el Camp de l'Arpa del Clot,Associació d'Emprenedors del Clot - Eix Clot,2016-04-18T11:52:44,2024-04-08T14:18:27.270016
+28,Vallcarca i els Penitents,Escola la Farigola de Vallcarca,1985-05-10T00:00:00,2022-09-17T04:54:12.027676
+66,el Parc i la Llacuna del Poblenou,Torre Glòries,2004-03-19T09:40:20,2022-09-19T07:39:41.767633
+43,Horta,Unió de Botiguers del Cor d'Horta,2017-02-02T14:12:30,2024-10-29T12:41:40.636666
+7,la Dreta de l'Eixample,Casa Vallet i Xiró,2015-07-07T13:28:12,2022-09-17T08:22:15.105786
+23,Sarrià,El carrer de Canet,2015-07-07T14:56:10,2021-09-09T02:15:15.270128
+25,Sant Gervasi - la Bonanova,Dipòsit del Rei Martí,2015-07-08T08:53:52,2021-09-09T02:15:14.598004
+42,la Clota,El barri de la Clota,2015-07-08T13:55:31,2021-09-09T02:15:29.366888
+60,Sant Andreu,La Previsió Obrera,2017-02-10T13:54:50,2021-09-09T02:17:09.184581
+21,Pedralbes,Universitat Politècnica de Catalunya,1985-12-17T00:00:00,2024-10-29T09:49:41.922970
+61,la Sagrera,Refugi Antiaeri de la Sagrera,2017-02-10T14:22:14,2024-08-07T13:25:20.951292
+62,el Congrés i els Indians,Carrer Campo Florido,2017-02-13T10:14:02,2021-09-09T02:17:10.022892
+60,Sant Andreu,Carrer Coroleu,2017-02-13T10:25:04,2021-09-09T02:17:11.860707
+60,Sant Andreu,Carrer Grau,2017-02-13T11:11:14,2021-09-09T02:17:15.061469
+62,el Congrés i els Indians,Carrer Manigua,2017-02-13T11:13:21,2021-09-09T02:17:20.914286
+62,el Congrés i els Indians,Carrer Matanzas,2017-02-13T11:15:19,2021-09-09T02:17:17.847995
+60,Sant Andreu,Menjadors populars del carrer Gran Sant Andreu (Guerra Civil),2017-02-13T12:01:28,2021-09-09T02:17:25.817306
+67,la Vila Olímpica del Poblenou,Centre Comercial El Centre de la Vila,1996-04-17T00:00:00,2022-09-17T05:20:24.185486
+60,Sant Andreu,Can Fabra,2018-06-26T13:19:15,2023-09-21T13:33:45.153183
+23,Sarrià,Associació Sarrià Eix Comercial,1994-11-15T00:00:00,2024-07-17T09:27:41.254517
+15,Hostafrancs,Associació de Comerciants i Veïns de Creu Coberta,1985-02-04T00:00:00,2024-04-08T13:21:39.449994
+69,Diagonal Mar i el Front Marítim del Poblenou,Platja de la Nova Mar Bella,1989-06-30T00:00:00,2023-05-02T09:14:55.205685
+61,la Sagrera,Cooperativa La Flor de Maig - sucursal núm. 7,2017-02-09T13:10:06,2021-09-09T02:16:40.164669
+22,"Vallvidrera, el Tibidabo i les Planes",Museu d'Autòmats del Tibidabo,2017-02-09T13:25:01,2021-09-09T02:16:39.467541
+25,Sant Gervasi - la Bonanova,La plaça de la Bonanova,2017-02-09T13:43:53,2021-09-09T02:16:45.913814
+25,Sant Gervasi - la Bonanova,La plaça del Doctor Andreu,2017-02-09T13:45:03,2021-09-09T02:16:43.272894
+25,Sant Gervasi - la Bonanova,Places de Joaquim Folguera i Frederic Soler,2017-02-09T13:54:20,2021-09-09T02:16:51.125734
+51,Verdun,Associació Nou Barris Centre Comerç,1990-01-26T00:00:00,2024-04-08T15:16:49.280045
+14,la Font de la Guatlla,CaixaForum Barcelona,1999-11-18T00:00:00,2024-11-15T12:47:48.460787
+25,Sant Gervasi - la Bonanova,CosmoCaixa Barcelona,1997-02-11T00:00:00,2024-11-19T17:17:54.075903
+68,el Poblenou,Platja del Bogatell,1992-06-16T00:00:00,2024-09-10T12:37:15.319658
+18,Sants,Ateneu Popular de Sants,1996-10-09T00:00:00,2023-03-09T15:05:54.403732
+5,el Fort Pienc,L'Auditori de Barcelona,1998-04-07T00:00:00,2023-02-16T11:25:33.664421
+1,el Raval,Casa - Fàbrica Erasme de Gònima,1996-03-07T00:00:00,2022-09-17T05:19:25.047448
+21,Pedralbes,Bibiblioteca Rector Gabriel Ferraté,1996-12-20T00:00:00,2024-06-20T11:37:38.480821
+27,el Putxet i el Farró,Jardins d'Elvira Farreras Valentí,2013-06-06T13:21:30,2024-09-23T14:22:25.945565
+28,Vallcarca i els Penitents,Viaducte de Vallcarca,2015-05-19T14:11:52,2021-09-09T02:14:16.831784
+4,"Sant Pere, Santa Caterina i la Ribera",Fossar de les Moreres,2015-05-19T14:42:46,2022-09-17T08:19:08.660488
+72,Sant Martí de Provençals,Conjunt de Sant Martí de Provençals,2015-07-02T13:24:23,2021-09-09T02:14:58.635453
+41,la Vall d'Hebron,Residència Salesiana Martí Codolar,2015-10-08T13:48:14,2022-09-17T08:28:24.162083
+2,el Barri Gòtic,Can Culleretes,2015-07-08T17:06:52,2021-09-09T02:15:29.757156
+20,la Maternitat i Sant Ramon,La Diagonal,2015-07-09T10:25:22,2021-09-09T02:15:33.333952
+60,Sant Andreu,Refugi Antiaeri de La Lira,2015-07-09T10:44:22,2022-09-17T08:22:46.954459
+62,el Congrés i els Indians,Refugi Antiaeri 977 (Matanzas / Pinar del Río),2015-07-09T12:20:01,2022-09-17T08:22:48.034167
+31,la Vila de Gràcia,Casa Feliu Iglesies,2017-02-06T13:59:20,2021-07-15T14:25:41.561658
+32,el Camp d'en Grassot i Gràcia Nova,Casa Gustà,2017-02-07T09:30:15,2022-09-17T08:50:46.008388
+31,la Vila de Gràcia,Casa Rubinat,2017-02-07T10:55:11,2022-09-17T08:50:52.610750
+30,la Salut,Casa Tomàs Valls,2017-02-07T11:01:55,2022-09-17T08:50:53.934915
+1,el Raval,El Campus Raval - UB,2015-11-10T09:21:37,2022-09-23T14:43:53.592959
+37,el Carmel,Can Mora,2017-02-06T11:40:14,2022-09-17T08:50:24.289603
+30,la Salut,Can Muntaner de Dalt,2017-02-06T11:51:12,2021-09-09T02:15:52.639978
+31,la Vila de Gràcia,Can Trilla,2017-02-06T11:58:22,2022-09-17T08:50:25.470810
+31,la Vila de Gràcia,Casa Elisa Bremon d'Espina,2017-02-06T13:29:30,2022-09-17T08:50:34.705469
+32,el Camp d'en Grassot i Gràcia Nova,Casa Eloy Detouche,2017-02-06T13:32:58,2022-09-17T08:50:35.008932
+1,el Raval,Eix Comercial del Raval,2005-11-17T13:13:13,2024-04-08T14:20:54.702010
+31,la Vila de Gràcia,Casa F. Homet,2017-02-06T13:51:32,2022-09-17T08:50:40.348248
+1,el Raval,El Raval,2015-05-25T15:55:22,2021-09-09T02:14:25.446052
+10,Sant Antoni,Sant Antoni,2015-05-25T16:26:47,2021-09-09T02:14:25.919884
+11,el Poble-sec,La plaça d'Espanya,2015-05-25T16:57:01,2021-09-09T02:14:27.848127
+11,el Poble-sec,El Poble-sec,2015-05-25T17:02:12,2021-09-09T02:14:32.372464
+19,les Corts,Les Corts,2015-05-25T17:11:59,2021-09-09T02:14:32.001557
+23,Sarrià,Centre Cívic Casa Orlandai,2007-04-05T17:16:51,2024-11-13T09:02:44.759101
+7,la Dreta de l'Eixample,La Plaça de Catalunya,2014-10-22T15:21:25,2024-09-10T12:21:21.139845
+7,la Dreta de l'Eixample,Casa Llorenç Camprubí,2015-07-07T11:07:02,2022-09-17T08:22:00.607496
+7,la Dreta de l'Eixample,Forn Sarret,2015-07-07T11:38:26,2023-01-11T13:28:22.981867
+7,la Dreta de l'Eixample,Casa Dolors Calm,2015-07-07T12:07:55,2021-09-09T02:15:07.722085
+7,la Dreta de l'Eixample,Casa Juncosa,2015-07-07T12:17:13,2022-09-17T08:22:11.424636
+7,la Dreta de l'Eixample,Cases Pascual i Pons,2015-07-07T13:25:03,2022-09-17T08:22:15.015447
+60,Sant Andreu,Seu de la Secció 10 de les Patrulles de Control (Guerra Civil),2017-03-28T16:08:10,2021-09-09T02:17:22.839354
+20,la Maternitat i Sant Ramon,L'Àrea Olímpica de la Diagonal,2017-02-10T13:24:41,2021-09-09T02:17:08.218128
+3,la Barceloneta,La Sardineta. Grup d'Ecoconsum de la Barceloneta,2016-10-04T12:59:47,2022-09-17T08:46:25.552446
+62,el Congrés i els Indians,Carrer Cienfuegos,2017-02-13T10:21:48,2021-09-09T02:17:09.717051
+62,el Congrés i els Indians,Carrer Pinar del Rio,2017-02-13T11:18:14,2021-09-09T02:17:18.340216
+23,Sarrià,El passatge de Mallofré,2015-07-07T15:00:18,2021-09-09T02:15:15.935498
+23,Sarrià,La plaça de Sant Vicenç,2015-07-08T08:59:31,2021-09-09T02:15:15.152654
+31,la Vila de Gràcia,Plaça de Rovira i Trias,2015-07-08T09:33:41,2021-09-09T02:15:23.199420
+31,la Vila de Gràcia,Plaça de la Revolució,2015-07-08T09:51:04,2021-09-09T02:15:19.929600
+53,la Trinitat Nova,La Casa de l'Aigua,2015-12-01T13:01:15,2024-05-16T12:19:14.767074
+23,Sarrià,Carrer Major de Sarrià,2017-02-08T13:51:50,2021-09-09T02:16:24.672187
+25,Sant Gervasi - la Bonanova,Casa Fornells,2017-02-08T14:10:22,2022-09-17T08:51:46.022320
+21,Pedralbes,El barri de la Mercè,2017-02-08T15:17:21,2021-09-09T02:16:25.922890
+26,Sant Gervasi - Galvany,Edifici Alhambra,2017-02-09T09:23:44,2021-09-09T02:16:25.074693
+27,el Putxet i el Farró,El Farró a través del carrer Saragossa,2017-02-09T10:00:49,2021-09-09T02:16:34.156036
+23,Sarrià,La plaça de Sarrià,2017-02-09T12:24:53,2023-09-21T12:24:19.722737
+22,"Vallvidrera, el Tibidabo i les Planes",La Torre d'Aigües de Josep Amargós,2017-02-09T12:44:59,2021-04-23T09:51:30.760459
+22,"Vallvidrera, el Tibidabo i les Planes",Colònia Busquets,2017-02-09T13:33:33,2021-09-09T02:16:44.250067
+59,el Bon Pastor,Fàbrica Sanchís,2017-02-09T13:42:47,2021-09-09T02:16:44.334389
+23,Sarrià,Torre d'Aigües de Carrasco i Formiguera,2017-02-09T14:10:51,2021-09-09T02:16:46.678407
+25,Sant Gervasi - la Bonanova,Torre del Doctor Andreu,2017-02-09T14:17:40,2021-09-09T02:16:47.850332
+57,la Trinitat Vella,Centre Penitenciari Obert 2  - Presó de Dones de la Trinitat,2008-12-23T13:02:28,2024-03-08T09:12:00.665847
+3,la Barceloneta,Antiga Subcentral Elèctrica de la Barceloneta,2017-01-26T11:50:16,2022-09-17T08:49:49.791813
+4,"Sant Pere, Santa Caterina i la Ribera",L'Hortet del Forat,2017-01-26T14:59:34,2021-09-09T02:15:45.058718
+4,"Sant Pere, Santa Caterina i la Ribera",El Pla de Palau,2017-01-26T15:36:41,2021-09-09T02:15:46.463178
+45,Porta,Masia Can Valent,2017-01-27T09:27:58,2023-01-25T12:45:06.434950
+21,Pedralbes,Facultat de Dret - UB,1988-04-11T00:00:00,2024-11-19T17:23:25.103976
+71,Provençals del Poblenou,Fàbrica de Creació Hangar,1997-06-09T00:00:00,2024-05-21T13:26:46.810914
+11,el Poble-sec,Centre Esportiu Municipal Piscines Bernat Picornell,1992-02-21T00:00:00,2024-09-19T18:15:35.829370
+21,Pedralbes,Escola Superior d'Administració i Direcció d'Empreses - URL,1987-10-07T00:00:00,2024-11-19T17:19:00.817824
+1,el Raval,Monestir de Sant Pau del Camp,1984-12-07T00:00:00,2023-02-16T14:28:48.953364
+26,Sant Gervasi - Galvany,Parròquia de Sant Gregori Taumaturg,1984-05-30T00:00:00,2022-09-17T03:50:51.366815
+1,el Raval,Gran Teatre del Liceu,1988-04-26T00:00:00,2024-11-04T11:39:31.104293
+11,el Poble-sec,Telefèric de Montjuïc,1988-02-26T00:00:00,2024-02-26T10:29:58.146562
+7,la Dreta de l'Eixample,Museu,1994-09-10T00:00:00,2024-11-15T13:22:12.738169
+69,Diagonal Mar i el Front Marítim del Poblenou,Base Nàutica Municipal de la Mar Bella,1995-05-30T00:00:00,2023-06-29T11:31:46.553761
+23,Sarrià,Centre Cívic Sarrià,1984-05-30T00:00:00,2024-11-13T09:18:52.589226
+31,la Vila de Gràcia,Parròquia de Santa Teresa de l'Infant Jesús,1984-05-30T00:00:00,2022-09-17T03:52:49.579435
+2,el Barri Gòtic,Moll de la Fusta,2004-09-09T14:21:25,2024-09-19T18:17:42.897789
+1,el Raval,Reial Acadèmia de Medicina de Catalunya,1987-05-14T00:00:00,2024-11-19T17:36:45.371627
+22,"Vallvidrera, el Tibidabo i les Planes",Torre de Collserola,1992-04-03T00:00:00,2023-02-28T14:01:04.594677
+7,la Dreta de l'Eixample,Casa Garriga Nogués,1994-11-18T00:00:00,2022-09-17T05:11:28.502732
+12,la Marina del Prat Vermell,Escullera del Port de Barcelona,2003-10-29T10:41:15,2021-09-09T02:14:03.369733
+7,la Dreta de l'Eixample,Casa Calvet,1984-12-05T00:00:00,2021-11-22T13:42:27.834438
+2,el Barri Gòtic,Herboristeria del Rei,1992-05-04T00:00:00,2023-07-26T11:38:04.548677
+1,el Raval,Centre Educatiu Impulsem,2005-09-22T13:33:49,2024-10-03T09:29:28.249453
+28,Vallcarca i els Penitents,Biblioteca Jaume Fuster,2005-09-29T13:44:43,2024-11-13T12:41:37.593264
+46,el Turó de la Peira,Santuari de Santa Eulàlia de Vilapicina,2004-02-02T13:35:22,2022-09-17T06:10:00.515952
+37,el Carmel,Ca n'Andalet,2004-01-07T13:18:00,2024-06-11T15:13:26.221698
+3,la Barceloneta,Mercat Barceloneta,1984-12-28T00:00:00,2024-06-14T10:10:08.370597
+8,l'Antiga Esquerra de l'Eixample,Mercat Ninot,1984-12-28T00:00:00,2024-10-22T12:36:57.061692
+8,l'Antiga Esquerra de l'Eixample,Hospital Clínic i Provincial,1984-05-30T00:00:00,2024-01-30T09:59:32.557603
+60,Sant Andreu,Clínica Sant Jordi,1996-09-18T00:00:00,2023-10-03T10:44:39.248508
+11,el Poble-sec,Museu Etnològic i de Cultures del Món *Parc Montjuïc,1984-05-30T00:00:00,2024-11-20T13:08:56.333059
+39,Sant Genís dels Agudells,Parròquia de Sant Genís dels Agudells,1984-05-30T00:00:00,2022-09-17T03:59:32.481034
+25,Sant Gervasi - la Bonanova,Monestir de Santa Maria de Valldonzella,1985-01-17T00:00:00,2022-09-17T04:10:31.954781
+31,la Vila de Gràcia,Refugi Antiaeri de la Plaça del Diamant,2000-06-02T00:00:00,2024-01-08T08:49:09.463288
+66,el Parc i la Llacuna del Poblenou,Fundació Barcelona Media - Centre d'Innovació,2002-12-21T10:39:26,2023-10-03T10:37:27.348718
+20,la Maternitat i Sant Ramon,Palau de Congressos de Catalunya,2000-05-03T00:00:00,2023-10-03T10:08:01.007187
+22,"Vallvidrera, el Tibidabo i les Planes",Alberg In-Out - AJ000427,2004-05-13T10:17:56,2022-09-17T06:17:20.155484
+31,la Vila de Gràcia,Casa Bonaventura Ferrer,2006-03-27T10:45:09,2022-09-17T06:35:16.067953
+72,Sant Martí de Provençals,Associació Sant Martí Eix Comercial,2001-07-03T00:00:00,2024-07-24T14:06:40.965091
+13,la Marina de Port,Teatro de los Sentidos,2006-05-12T13:42:20,2021-07-21T10:55:29.069131
+7,la Dreta de l'Eixample,"Espai Gaudí: Pis, Golfes i Terrat",1994-12-14T00:00:00,2024-11-18T15:09:27.789506
+11,el Poble-sec,Sala El Molino,2007-03-12T14:00:14,2024-10-28T10:14:44.354010
+3,la Barceloneta,Centre d'Educació Ambiental La Fàbrica del Sol,1999-04-27T00:00:00,2024-11-19T17:14:26.190827
+71,Provençals del Poblenou,Fàbrica de Creació La Escocesa,2001-06-05T00:00:00,2022-01-07T11:58:39.560385
+19,les Corts,Centre Cívic Tomasa Cuevas - Les Corts,1999-01-26T00:00:00,2024-06-25T10:52:05.106795
+60,Sant Andreu,La plaça d'Orfila,2015-05-26T13:42:48,2021-09-09T02:14:41.625572
+22,"Vallvidrera, el Tibidabo i les Planes",El Tibidabo,2015-05-26T16:14:14,2023-02-27T14:38:04.815233
+55,Ciutat Meridiana,L'Aqüeducte de Ciutat Meridiana,2015-05-26T17:40:32,2023-09-04T09:06:33.473416
+59,el Bon Pastor,El barri del Bon Pastor,2015-05-26T17:56:05,2021-09-09T02:14:57.825093
+66,el Parc i la Llacuna del Poblenou,El Campus de Comunicació,2015-05-27T08:36:20,2022-09-09T13:20:18.922739
+9,la Nova Esquerra de l'Eixample,Casa Faiol - Casa de la Papallona,1993-04-26T00:00:00,2022-09-17T05:02:34.312070
+30,la Salut,Església del Reial Santuari de Sant Josep de la Muntanya,1991-10-10T00:00:00,2021-05-27T16:20:52.196295
+19,les Corts,Colònia Castells,2017-02-10T08:53:34,2024-04-11T07:55:12.988953
+68,el Poblenou,Espai Subirachs - Poblenou,2017-05-17T14:57:15,2024-04-30T13:40:47.603659
+19,les Corts,La plaça de Comas,2017-02-10T09:20:54,2021-09-09T02:16:54.458876
+21,Pedralbes,La plaça de la Reina Maria Cristina,2017-02-10T09:28:22,2021-09-09T02:16:57.254898
+20,la Maternitat i Sant Ramon,La plaça de Ramon M. Roca i Sastre,2017-02-10T09:43:45,2021-09-09T02:16:56.750738
+61,la Sagrera,Pilar d'Aigua de la Sagrera,2017-02-10T12:25:48,2021-09-09T02:17:00.624401
+62,el Congrés i els Indians,La Plaça del Rom Cremat,2017-02-10T12:52:07,2021-09-09T02:17:05.622601
+60,Sant Andreu,La Plaça del Mercadal,2017-02-10T13:01:16,2021-09-09T03:17:55.435241
+31,la Vila de Gràcia,Casa Josep Castelló,2017-02-07T09:42:42,2022-09-17T08:50:49.741447
+30,la Salut,Casa Martí Trias i Domènech,2017-02-07T10:18:03,2024-07-02T09:37:18.649423
+28,Vallcarca i els Penitents,Casa Rosa Alemany,2017-02-07T10:49:44,2022-09-17T08:50:50.831756
+31,la Vila de Gràcia,Casa Serès,2017-02-07T10:58:51,2021-09-09T02:16:05.225606
+31,la Vila de Gràcia,Conjunt de Cases al Carrer Francisco Giner,2017-02-07T12:29:04,2022-09-17T08:50:53.616422
+20,la Maternitat i Sant Ramon,Masia Torre Rodona - Can Vinyals de la Torre,2013-10-22T17:19:03,2022-09-17T07:58:20.050347
+62,el Congrés i els Indians,Ateneu d'Innovació Digital i Democràtica - Canòdrom,2015-12-03T12:45:43,2024-11-19T17:09:15.020790
+6,la Sagrada Família,Casa Planells,1990-03-21T00:00:00,2022-09-17T04:43:39.522497
+4,"Sant Pere, Santa Caterina i la Ribera",Associació Xarxa de Consum Solidari,1991-04-12T00:00:00,2024-01-10T12:20:36.285368
+39,Sant Genís dels Agudells,Museu Palmero Arte,1993-02-15T00:00:00,2024-10-18T11:08:26.266159
+4,"Sant Pere, Santa Caterina i la Ribera",Fundació Privada Foto Colectania,2001-06-02T00:00:00,2024-05-02T08:39:06.174660
+18,Sants,Cases modernistes del carrer de Sants,2015-07-13T14:11:51,2021-09-09T02:15:39.634108
+56,Vallbona,El Rec Comtal,2015-07-14T15:45:15,2024-11-04T11:54:08.017791
+1,el Raval,Edifici de l'Antic Hospital de la Santa Creu,1991-03-14T00:00:00,2022-09-17T04:04:44.371763
+31,la Vila de Gràcia,Cases Manuel Raventós,2017-02-07T12:59:02,2022-09-17T08:51:08.422090
+31,la Vila de Gràcia,Edifici J. Artigas,2017-02-07T13:28:39,2021-09-09T02:16:05.554475
+31,la Vila de Gràcia,Habitatge Classicista Providència 79,2017-02-07T16:16:16,2021-09-09T02:16:07.731880
+18,Sants,Torre del Rellotge,2017-02-07T16:23:27,2022-09-17T08:51:10.293854
+66,el Parc i la Llacuna del Poblenou,La plaça de les Glòries Catalanes,1995-06-02T00:00:00,2021-09-09T02:14:00.671711
+45,Porta,Universitat Nacional d'Educació a Distància *Barcelona,2012-04-23T13:59:46,2022-09-17T07:47:49.945293
+57,la Trinitat Vella,MUHBA Museu d'Història de Barcelona - Casa de l'Aigua,2011-02-24T12:29:51,2024-11-20T13:26:55.388292
+43,Horta,Restaurant Can Cortada,1994-09-20T00:00:00,2022-10-05T14:36:24.695215
+60,Sant Andreu,Premsa de Vi de Can Xandri,1995-06-01T00:00:00,2021-09-09T02:13:58.162202
+45,Porta,Centre Cívic Can Verdaguer,2013-03-14T14:58:16,2024-11-13T08:47:36.828178
+17,Sants - Badal,Club Esportiu Mediterrani *Instal·lació Josep Vallès,1993-10-07T00:00:00,2023-01-20T14:04:53.238414
+19,les Corts,Ateneu de Fabricació Digital de Les Corts,2013-07-23T13:44:25,2024-07-19T13:16:11.329586
+3,la Barceloneta,Torre de la Catalana de Gas,2015-03-30T14:06:11,2023-04-26T09:03:34.385725
+25,Sant Gervasi - la Bonanova,Religioses de la Mare de Déu de la Mercè,1996-08-23T00:00:00,2022-09-17T05:22:58.822051
+4,"Sant Pere, Santa Caterina i la Ribera",Parròquia de Santa Maria del Mar - Basílica,1986-04-24T00:00:00,2023-02-16T14:40:09.089422
+2,el Barri Gòtic,La Plaça de Sant Jaume,2015-05-19T14:50:26,2024-09-10T16:49:37.541684
+22,"Vallvidrera, el Tibidabo i les Planes",Biblioteca Collserola - Josep Miracle,2002-06-27T14:02:44,2024-11-13T12:35:05.724923
+41,la Vall d'Hebron,Escultura Mistos,1992-09-15T00:00:00,2023-01-20T14:15:29.202393
+22,"Vallvidrera, el Tibidabo i les Planes",Centre Cívic Vallvidrera Vázquez Montalbán,2002-06-27T14:20:06,2024-11-15T08:17:50.717043
+35,el Guinardó,Plaça del Nen de la Rutlla,2015-07-03T13:47:23,2021-09-09T02:15:08.080574
+1,el Raval,Centre d'Arts Santa Mònica,1988-05-20T00:00:00,2024-11-20T13:57:38.814452
+27,el Putxet i el Farró,Centre Cívic  Vil·la Urània,2007-03-27T12:04:36,2024-06-25T11:55:23.286746
+60,Sant Andreu,Cooperativa La Guardiola Familiar,2017-02-09T13:15:26,2021-09-09T02:16:40.533015
+70,el Besòs i el Maresme,Museu de Ciències Naturals de Barcelona,2004-06-10T12:18:43,2024-11-19T17:29:50.573931
+24,les Tres Torres,Centre Educatiu Santa Teresa - Ganduxer,1985-05-31T00:00:00,2024-11-14T10:55:48.908000
+54,Torre Baró,Castell de Torre Baró,1989-10-04T00:00:00,2024-06-25T14:52:33.233991
+30,la Salut,Club Natació Catalunya,1984-05-30T00:00:00,2023-03-09T15:22:42.270836
+11,el Poble-sec,Castell de Montjuïc,1999-03-18T00:00:00,2024-09-10T14:11:13.878419
+33,el Baix Guinardó,Casa de les Altures,1994-12-02T00:00:00,2023-01-20T14:04:52.543351
+19,les Corts,Centre Comercial L'Illa Diagonal,1993-11-04T00:00:00,2023-02-15T12:38:18.286970
+19,les Corts,Els Edificis Trade,1993-11-10T00:00:00,2022-09-17T05:06:10.939364
+55,Ciutat Meridiana,Mercat Núria,2022-07-12T14:09:27.020724,2023-06-16T10:56:24.284880
+7,la Dreta de l'Eixample,Jardins del Rector Oliveras,2003-05-13T13:56:48,2024-09-25T12:50:10.721139
+2,el Barri Gòtic,Plaça de la Mercè,2022-09-01T14:32:58.654841,2024-09-09T17:26:58.240400
+3,la Barceloneta,Edifici Gas Natural,2008-03-20T09:42:45,2021-09-09T02:14:13.758368
+1,el Raval,Casa Almirall,2015-07-08T17:02:33,2021-09-09T02:15:30.763963
+31,la Vila de Gràcia,Plaça de les Dones del 36,2015-07-09T10:00:19,2021-09-09T02:15:35.963238
+30,la Salut,Casa Vilaró,1996-03-06T00:00:00,2023-01-20T12:58:51.659438
+60,Sant Andreu,Molí de Sant Andreu - Rec Comtal,2017-07-19T10:16:46,2021-09-09T02:17:23.320437
+22,"Vallvidrera, el Tibidabo i les Planes",La Mina Grott,2017-02-09T12:15:33,2021-04-23T09:46:15.008965
+22,"Vallvidrera, el Tibidabo i les Planes",Pavelló de Ràdio Barcelona al Parc d'Atraccions del Tibidabo,2017-02-09T13:28:02,2021-04-23T09:48:30.785234
+25,Sant Gervasi - la Bonanova,Torre d'Ignacio Portabella,2017-02-09T14:29:57,2022-09-17T08:52:27.429150
+19,les Corts,El Jardí Vertical,2017-02-09T16:16:27,2021-09-09T02:16:49.968187
+21,Pedralbes,Torre de Santa Caterina,2017-02-10T10:37:05,2021-09-09T02:17:02.943058
+28,Vallcarca i els Penitents,Edifici Modernista Avinguda República Argentina 28,2017-02-07T13:35:21,2022-09-17T08:51:08.477061
+31,la Vila de Gràcia,El carrer de Bonavista,2017-02-07T14:05:31,2021-09-09T02:16:06.314600
+31,la Vila de Gràcia,El Vapor Nou,2017-02-07T14:17:35,2022-10-11T10:48:13.912906
+30,la Salut,Kasa de la Muntanya (KM),2017-02-07T16:42:26,2021-09-09T02:16:08.474327
+13,la Marina de Port,Àntiga Fàbrica de Làmpades Z,2017-02-07T16:57:34,2024-04-05T11:09:05.220098
+60,Sant Andreu,Les Carasses,2015-07-02T14:49:03,2022-09-17T08:21:49.333554
+18,Sants,La Lleialtat Santsenca,2017-02-07T17:18:32,2024-06-25T09:54:43.690435
+32,el Camp d'en Grassot i Gràcia Nova,Casa Josep Barnoles - La del Mico i el Gos,2017-02-07T17:20:39,2022-09-17T08:51:19.908923
+31,la Vila de Gràcia,La rambla del Prat,2017-02-07T17:38:47,2021-09-09T02:16:08.314605
+31,la Vila de Gràcia,Masoveria de la Virreina,2017-02-08T08:37:12,2021-09-09T02:16:11.824037
+25,Sant Gervasi - la Bonanova,Torre Castanyer,2017-02-09T14:01:47,2022-09-17T08:52:23.066141
+20,la Maternitat i Sant Ramon,El passatge de Xile,2017-02-09T16:44:07,2021-09-09T02:16:52.358916
+21,Pedralbes,Els Jardins d'Eusebi Güell,2017-02-09T16:56:42,2021-09-09T02:16:50.363148
+21,Pedralbes,Casa Bartomeu,2015-07-21T10:58:17,2022-09-17T08:24:08.508879
+60,Sant Andreu,Associació Eix Comercial de Sant Andreu,2017-04-18T15:45:34,2024-04-08T14:24:34.757711
+3,la Barceloneta,Platja de Sant Sebastià,1989-06-30T00:00:00,2023-05-02T09:15:43.081243
+67,la Vila Olímpica del Poblenou,Platja de la Nova Icària,1989-06-30T00:00:00,2024-09-09T17:31:43.871519
+62,el Congrés i els Indians,Masia Ca l'Armera,2017-11-06T10:21:42,2022-09-17T09:08:48.481853
+21,Pedralbes,Parròquia de Maria Reina,1984-05-30T00:00:00,2023-10-02T17:34:47.104997
+15,Hostafrancs,"Xemeneia de l'antiga Fábrica ""La Porcelana""",2017-02-08T09:07:47,2022-09-17T08:51:31.759006
+31,la Vila de Gràcia,La plaça del Raspall,2017-02-08T09:30:21,2021-09-09T02:16:13.443863
+11,el Poble-sec,La Plaça del Setge de 1714,2017-02-08T11:26:29,2021-09-09T02:16:17.906272
+29,el Coll,Torre de Sant Jordi,2017-02-08T11:57:50,2022-09-17T08:51:38.717430
+29,el Coll,Villa Conchita o Casa dels Metges,2017-02-08T12:15:04,2022-09-17T08:51:39.080577
+25,Sant Gervasi - la Bonanova,Carrer Sant Gervasi de Cassoles,2017-02-08T13:45:16,2021-09-09T02:16:22.426339
+60,Sant Andreu,Casernes d'Artilleria  de Sant Andreu,2017-02-09T11:45:27,2021-09-09T02:16:31.835659
+31,la Vila de Gràcia,Mercat Llibertat,1985-01-17T00:00:00,2024-06-11T09:54:18.529828
+27,el Putxet i el Farró,Passatge de Sant Felip,2017-02-09T13:40:12,2021-09-09T02:16:43.509207
+26,Sant Gervasi - Galvany,La plaça Molina,2017-02-09T13:47:11,2021-09-09T02:16:43.971796
+31,la Vila de Gràcia,Centre Educatiu Vedruna Gràcia Barcelona,1989-07-18T00:00:00,2023-02-02T11:54:33.213816
+2,el Barri Gòtic,Museu Frederic Marès,1984-05-30T00:00:00,2024-11-20T12:32:50.433495
+64,el Camp de l'Arpa del Clot,Educa +,2017-04-03T16:54:23,2021-09-09T03:19:24.229152
+31,la Vila de Gràcia,Edifici Modernista Francisco Giner 47,2017-02-07T13:40:26,2022-09-17T08:51:09.577148
+31,la Vila de Gràcia,Edifici d'Habitatges Gran de Gràcia 138,2017-02-07T13:56:21,2022-09-17T08:51:08.418956
+30,la Salut,Ermita de la Mare de Déu de la Salut,2017-02-07T14:24:48,2021-09-09T02:16:06.755810
+31,la Vila de Gràcia,Fàbrica Artés,2017-02-07T15:54:32,2021-09-09T02:16:08.730954
+26,Sant Gervasi - Galvany,La plaça de Gal·la Placídia,2017-02-07T16:10:04,2021-09-09T02:16:09.668750
+11,el Poble-sec,Espai Bombers Parc de la Prevenció de Barcelona,2016-11-15T12:52:43,2024-09-10T14:04:27.156195
+2,el Barri Gòtic,Casa Fàbrica Güell-Ramis,2017-01-27T13:15:08,2021-09-09T02:15:47.841411
+4,"Sant Pere, Santa Caterina i la Ribera",Casa Parés,2017-01-27T13:23:46,2021-09-09T02:15:47.531152
+35,el Guinardó,Sant Pau Recinte Modernista,1984-12-10T00:00:00,2024-11-19T17:36:59.682609
+7,la Dreta de l'Eixample,Palau del Baró de Quadras,1984-12-10T00:00:00,2024-09-19T18:34:54.190070
+11,el Poble-sec,L'Anella Olímpica,2015-05-26T16:18:44,2021-09-09T02:14:48.956151
+21,Pedralbes,La Zona Universitària,2015-05-26T16:24:20,2021-09-09T02:14:52.167482
+21,Pedralbes,"El Campus Nord, Ciutat Universitària",2015-05-26T17:18:48,2023-03-13T11:41:34.698423
+66,el Parc i la Llacuna del Poblenou,Edifici MediaTIC,2015-05-27T08:29:52,2023-11-06T10:17:38.370561
+60,Sant Andreu,Seu del Districte de Sant Andreu,1988-02-29T00:00:00,2024-02-02T11:05:58.283055
+24,les Tres Torres,Bar Mestres,2015-09-09T13:37:32,2022-09-17T08:27:09.508896
+11,el Poble-sec,Institut del Teatre,1987-05-22T00:00:00,2023-02-16T11:21:10.228229
+1,el Raval,Monument a Cristòfol Colom,1985-03-25T00:00:00,2023-02-16T14:30:35.820427
+32,el Camp d'en Grassot i Gràcia Nova,Escultura Josep Anselm Clavé,1985-03-25T00:00:00,2023-01-20T13:03:34.247212
+7,la Dreta de l'Eixample,Casa Granell *Girona,2015-07-07T11:23:37,2022-09-17T08:22:02.350788
+60,Sant Andreu,"Casal Catòlic de Sant Andreu - Àntic Casino ""El Progrés""",1985-02-19T00:00:00,2024-11-06T09:59:05.105480
+23,Sarrià,Sarrià,2015-05-25T16:39:34,2021-09-09T02:14:26.465284
+31,la Vila de Gràcia,Escultura Colles Sant Medir,1985-04-09T00:00:00,2023-01-20T13:03:32.091642
+3,la Barceloneta,Platja de l'Espigó del Gas,2024-09-10T13:49:24.910899,2024-09-22T13:22:21.109945
+23,Sarrià,Mercat Sarrià,1984-12-28T00:00:00,2024-10-23T09:21:43.248551
+32,el Camp d'en Grassot i Gràcia Nova,Mercat Abaceria Central,1984-12-28T00:00:00,2024-10-24T13:37:49.826289
+25,Sant Gervasi - la Bonanova,Cementiri Sant Gervasi,1985-03-28T00:00:00,2023-10-24T09:06:21.795779
+43,Horta,Cementiri d'Horta,1985-03-28T00:00:00,2024-10-24T12:38:50.584995
+20,la Maternitat i Sant Ramon,Parròquia de Sant Ramon Nonat,1984-05-30T00:00:00,2022-09-17T03:49:26.536178
+31,la Vila de Gràcia,Edifici d'habitatges Gran de Gràcia 67,2017-02-06T12:17:34,2021-09-09T02:15:55.660557
+24,les Tres Torres,Casa Sant Felip Neri,2017-01-13T14:32:18,2022-09-17T08:49:31.170043
+60,Sant Andreu,Antiga Biblioteca Pública de Sant Andreu de Palomar,2017-02-08T14:21:10,2022-09-17T08:51:48.165325
+60,Sant Andreu,L'Aqüeducte Palombarum,2017-02-08T14:29:51,2021-09-09T02:16:23.651946
+21,Pedralbes,Antic Monòlit Dedicat a la Legión Condor,2017-02-08T14:59:13,2021-09-09T03:15:27.947725
+60,Sant Andreu,Cansaladeria Puig,2017-02-09T09:52:07,2021-09-09T02:16:34.671644
+27,el Putxet i el Farró,"L'antic Putxet. Els carrers Manacor, Cadis i Putxet",2017-02-09T11:51:15,2021-09-09T02:16:33.572219
+31,la Vila de Gràcia,La plaça de John Lennon,2017-02-08T09:12:22,2021-09-09T02:16:13.072428
+31,la Vila de Gràcia,La plaça de Nicolás Salmerón,2017-02-08T09:22:16,2021-09-09T02:16:14.760247
+11,el Poble-sec,La Pedrera Romana,2017-02-08T11:45:32,2021-09-09T02:16:27.163054
+31,la Vila de Gràcia,Torre de l'Aigua,2017-02-08T11:54:11,2021-09-09T02:16:20.717530
+13,la Marina de Port,El barri Plus Ultra,2017-02-08T12:42:55,2021-09-09T02:16:23.548121
+13,la Marina de Port,Esplai Tr3smon,2018-04-18T16:40:07,2024-02-22T10:38:03.805325
+3,la Barceloneta,Hotel W Barcelona - HB-004411 *Edifici Vela,2009-07-29T10:33:54,2024-05-09T09:22:30.221261
+7,la Dreta de l'Eixample,Casa Terradas - Casa de les Punxes,1984-12-10T00:00:00,2024-06-13T10:59:36.675587
+40,Montbau,Residència Assistida per a Gent Gran Llars Mundet,1986-04-24T00:00:00,2024-04-18T11:44:19.579423
+22,"Vallvidrera, el Tibidabo i les Planes",Observatori Fabra,1986-03-18T00:00:00,2024-11-19T17:33:49.069345
+41,la Vall d'Hebron,Centre Educatiu CETT,1996-09-18T00:00:00,2023-10-03T10:39:18.887106
+1,el Raval,Museu d'Art Contemporani de Barcelona,1994-12-20T00:00:00,2024-11-19T17:29:39.704839
+1,el Raval,La Rambla del Raval,2015-07-02T13:10:09,2024-09-10T12:36:37.755229
+60,Sant Andreu,Xemeneia de Can Galta Cremat,2015-07-02T14:33:42,2021-09-09T02:15:02.223649
+46,el Turó de la Peira,Ca l'Artés,2015-07-03T12:25:56,2021-09-09T02:15:04.666750
+66,el Parc i la Llacuna del Poblenou,IL3 Institut de Formació Contínua - Universitat de Barcelona,1993-02-08T00:00:00,2022-09-17T05:00:32.117803
+29,el Coll,Centre Cívic El Coll - La Bruguera,1992-05-06T00:00:00,2024-11-13T09:11:05.564278
+6,la Sagrada Família,Antiga Fàbrica Estrella Damm,1996-09-18T00:00:00,2024-09-10T12:19:41.157103
+60,Sant Andreu,Mercat Sant Andreu,1985-01-17T00:00:00,2024-06-12T08:52:39.784640
+48,la Guineueta,Escultura Pi i Margall-La República,1990-07-13T00:00:00,2023-01-20T14:10:21.820711
+69,Diagonal Mar i el Front Marítim del Poblenou,Platja de la Mar Bella,1989-06-30T00:00:00,2024-08-20T09:40:11.086923
+7,la Dreta de l'Eixample,Casa Comalat,2000-12-19T00:00:00,2023-01-20T14:11:02.325904
+7,la Dreta de l'Eixample,Mercat Concepció,1984-12-28T00:00:00,2024-10-22T12:30:17.398544
+31,la Vila de Gràcia,Fundació Orfeó Gracienc,1985-02-07T00:00:00,2024-10-07T09:17:49.256179
+31,la Vila de Gràcia,Parròquia de Sant Joan de Gràcia,1984-05-30T00:00:00,2022-09-17T03:53:16.797469
+10,Sant Antoni,Mercat Sant Antoni,1990-06-25T00:00:00,2024-10-22T12:41:27.242525
+19,les Corts,Mercat Les Corts,1984-12-28T00:00:00,2024-10-22T12:50:25.673884
+28,Vallcarca i els Penitents,Residència Assistencial per a Gent Gran Refugi d'Obreres,1996-09-18T00:00:00,2024-04-11T12:58:23.615619
+31,la Vila de Gràcia,Església de Nostra Senyora de Pompeia,1985-01-15T00:00:00,2022-09-17T04:09:26.578068
+19,les Corts,Centre Cívic Can Deu,1986-12-09T00:00:00,2024-11-14T09:41:35.680129
+12,la Marina del Prat Vermell,Escola d'Aprenents SEAT,1985-05-31T00:00:00,2022-09-17T04:02:54.481066
+39,Sant Genís dels Agudells,Edifici Patronat Ribas,2004-11-04T13:14:27,2022-09-17T06:20:36.054449
+1,el Raval,Reial Acadèmia de Ciències i Arts de Barcelona,1987-05-14T00:00:00,2024-11-19T17:36:28.991061
+66,el Parc i la Llacuna del Poblenou,Hospital Evangèlic,1996-09-18T00:00:00,2024-11-13T14:09:21.782207
+29,el Coll,Finca Sansalvador,2005-01-25T16:46:05,2022-10-05T14:51:17.852992
+69,Diagonal Mar i el Front Marítim del Poblenou,Centre de Convencions Internacional de Barcelona,2003-07-22T08:33:08,2021-11-08T09:51:32.088057
+7,la Dreta de l'Eixample,Casa Lamadrid,1993-05-17T00:00:00,2022-09-17T05:03:36.618954
+61,la Sagrera,Fàbrica de Creació Nau Ivanow,1998-06-06T00:00:00,2022-06-28T13:45:14.807699
+1,el Raval,Palau de la Virreina,1984-12-07T00:00:00,2023-09-21T12:16:51.713190
+23,Sarrià,Fundació Universitaria Agustí Pedro Pons,1985-01-21T00:00:00,2022-09-17T03:54:18.126712
+7,la Dreta de l'Eixample,OikoCrèdit Catalunya,2001-11-06T00:00:00,2024-01-29T16:46:42.223372
+7,la Dreta de l'Eixample,Palau Macaya,1986-02-17T00:00:00,2022-09-17T03:56:39.303616
+31,la Vila de Gràcia,Mooby Bosque Multicines,1984-05-30T00:00:00,2023-06-12T08:35:24.349557
+21,Pedralbes,Col·legi de Censors Jurats de Comptes de Catalunya,1990-06-22T00:00:00,2023-02-13T18:35:04.805804
+4,"Sant Pere, Santa Caterina i la Ribera",Castell dels Tres Dragons,2004-06-10T13:45:08,2024-11-19T17:29:58.538996
+42,la Clota,Torre Jussana - Centre de Serveis a les Associacions,1987-09-28T00:00:00,2024-11-04T14:32:11.347792
+22,"Vallvidrera, el Tibidabo i les Planes",MUHBA Museu d'Història de Barcelona - Vil·la Joana,1984-05-30T00:00:00,2024-11-20T13:55:58.708657
+7,la Dreta de l'Eixample,Palau Montaner,1987-02-20T00:00:00,2022-09-17T04:29:12.183232
+68,el Poblenou,Hotel Melia Barcelona Sky - HB-004358,2003-10-20T09:49:42,2021-03-03T22:16:02.833809
+31,la Vila de Gràcia,Sala Lliure de Gràcia,2010-08-30T00:00:00,2022-09-17T07:25:38.178360
+60,Sant Andreu,Sant Andreu Teatre,1996-09-18T00:00:00,2024-11-04T14:33:20.819875
+25,Sant Gervasi - la Bonanova,Restaurant Bonanova,1996-09-18T00:00:00,2023-10-03T10:41:43.101793
+20,la Maternitat i Sant Ramon,Fundació Suñol,2007-02-28T14:12:18,2024-11-15T13:28:59.343957
+22,"Vallvidrera, el Tibidabo i les Planes",El Passeig de les Aigües,2015-06-30T17:31:07,2021-09-09T02:15:01.830010
+33,el Baix Guinardó,Facultat de Ciències de la Salut Blanquerna - URL,1997-01-27T00:00:00,2024-11-19T17:21:17.408979
+5,el Fort Pienc,Seu de l'Antiga Hidroelèctrica de Catalunya,2015-10-05T14:10:35,2022-09-17T08:28:09.167271
+2,el Barri Gòtic,Plaça del Rei,1997-07-17T00:00:00,2022-09-17T05:32:55.037277
+60,Sant Andreu,Hotel d'Entitats de Can Guardiola,1993-11-30T00:00:00,2023-02-01T15:33:20.977138
+31,la Vila de Gràcia,Centre de Cultura Popular La Violeta de Gràcia,2007-01-15T14:32:20,2022-09-17T06:45:19.064305
+27,el Putxet i el Farró,Club Tennis Barcino,1989-11-23T00:00:00,2023-12-11T12:48:00.900018
+27,el Putxet i el Farró,Centre Esportiu Municipal Putxet,2010-05-12T17:55:35,2024-06-21T10:38:34.118981
+17,Sants - Badal,Escola Lluís Vives,1987-09-30T00:00:00,2024-02-21T14:33:08.145201
+7,la Dreta de l'Eixample,Museu del Modernisme de Barcelona,2010-03-17T09:00:58,2022-11-04T15:26:13.398878
+2,el Barri Gòtic,Gerència Urbanística Port Vell de l'Autoritat Portuària de Barcelona,1989-05-17T00:00:00,2024-08-21T14:00:39.042763
+60,Sant Andreu,Camp Municipal de Futbol Narcís Sala,1987-11-09T00:00:00,2023-07-05T13:57:55.105075
+3,la Barceloneta,Telefèric de Barcelona,2008-04-22T14:37:02,2021-04-22T14:26:50.786623
+21,Pedralbes,Casa Hurtado,2017-02-09T17:15:14,2023-03-01T09:42:14.671503
+19,les Corts,La Gran Via de Carles III,2017-02-10T09:05:01,2021-09-09T02:16:55.486679
+19,les Corts,La plaça de la Concòrdia,2017-02-10T09:27:07,2021-09-09T02:16:57.117302
+20,la Maternitat i Sant Ramon,La Porta Sud de la Finca Güell,2017-02-10T10:13:37,2021-09-09T02:17:03.351941
+62,el Congrés i els Indians,La Plaça dels Indians,2017-02-10T12:58:56,2021-09-09T02:17:08.653799
+7,la Dreta de l'Eixample,Casa Batlló,1996-09-18T00:00:00,2024-09-19T18:19:57.457231
+46,el Turó de la Peira,El nucli de Santa Eulàlia de Vilapicina,2015-05-26T13:01:44,2021-09-09T02:14:39.354313
+47,Can Peguera,Can Peguera,2015-05-26T13:40:25,2021-09-09T02:14:43.307694
+31,la Vila de Gràcia,La vila de Gràcia,2015-05-26T14:16:28,2021-09-09T02:14:48.085464
+66,el Parc i la Llacuna del Poblenou,Ca l'Aranyó,2015-05-26T16:59:32,2022-09-17T08:19:53.220699
+44,Vilapicina i la Torre Llobeta,El passatge de l'Esperança,2015-07-08T14:42:22,2021-09-09T02:15:30.473522
+9,la Nova Esquerra de l'Eixample,Casa de la Lactància,2015-07-09T09:26:54,2021-09-09T02:15:32.027157
+31,la Vila de Gràcia,Acàdemia Blancafort - Antiga Editorial Seguí,2017-02-06T11:32:31,2021-09-09T02:15:50.311586
+31,la Vila de Gràcia,Can Pardal,2017-02-06T11:54:43,2021-09-09T02:15:54.011015
+31,la Vila de Gràcia,Edifici d'habitatges Gran de Gràcia 74*76,2017-02-06T12:23:21,2021-09-09T02:15:53.953233
+31,la Vila de Gràcia,Casa Cama i Escurra,2017-02-06T12:49:32,2022-09-17T08:50:30.333749
+31,la Vila de Gràcia,Casa Claudi Alsina,2017-02-06T13:05:21,2024-03-18T09:13:34.680487
+28,Vallcarca i els Penitents,Casa Eudald Obradors,2017-02-06T13:45:47,2022-09-17T08:50:38.646523
+31,la Vila de Gràcia,Casa Gaspar Galí,2017-02-07T09:18:33,2021-09-09T02:15:56.818076
+32,el Camp d'en Grassot i Gràcia Nova,Casa Manuel Colchero,2017-02-07T09:51:49,2022-09-17T08:50:50.850239
+31,la Vila de Gràcia,Casa Miquel Cal Millàs,2017-02-07T10:21:05,2021-09-09T02:16:04.624888
+30,la Salut,Casa Pere Jaqués,2017-02-07T10:31:45,2021-09-09T02:16:01.915156
+27,el Putxet i el Farró,Casa Ramos,2017-02-07T10:40:20,2022-09-17T08:50:50.855927
+31,la Vila de Gràcia,Cases Antoni Par,2017-02-07T12:33:54,2022-09-17T08:51:00.290063
+31,la Vila de Gràcia,Cases de menestrals,2017-02-07T12:38:47,2021-09-09T02:16:02.257411
+31,la Vila de Gràcia,Cases Folguera,2017-02-07T12:42:37,2022-09-17T08:50:57.046361
+7,la Dreta de l'Eixample,Casa Casas-Carbó,2015-07-07T13:31:06,2022-09-17T08:22:13.008254
+7,la Dreta de l'Eixample,Casa Antoni Costa,2015-07-07T13:36:50,2021-09-09T02:15:17.150715
+28,Vallcarca i els Penitents,Casa Comas d' Argemir,2015-07-08T09:04:06,2022-09-17T08:22:29.241349
+31,la Vila de Gràcia,Plaça de la Virreina,2015-07-08T12:55:38,2021-09-09T02:15:20.107075
+31,la Vila de Gràcia,Plaça del Nord,2015-07-08T12:58:51,2021-09-09T02:15:21.756992
+34,Can Baró,El pont de Mühlberg,2015-07-08T13:47:46,2021-09-09T02:15:23.632681
+48,la Guineueta,Can Carreras,2015-07-08T14:35:41,2024-02-07T13:39:55.840341
+26,Sant Gervasi - Galvany,Restaurant Casa Tejada,1996-09-18T00:00:00,2023-10-03T10:42:12.849996
+60,Sant Andreu,Carrer de les Monges,2017-02-13T10:28:11,2021-09-09T02:17:10.772725
+60,Sant Andreu,Carrer Gran de Sant Andreu,2017-02-13T11:07:30,2021-09-09T02:17:12.222690
+18,Sants,Foment Republicà de Sants. Antic Ateneu Batllori,2017-02-13T12:19:33,2021-09-09T02:17:22.509003
+7,la Dreta de l'Eixample,Farmàcia de Bolós Giralt,1996-11-25T00:00:00,2023-11-13T14:07:28.527545
+24,les Tres Torres,Casa Muley-Afid,2001-01-17T00:00:00,2023-01-20T14:00:59.345647
+4,"Sant Pere, Santa Caterina i la Ribera",Passeig Lluis Companys - Arc de Triomf,2023-09-21T10:08:41.599950,2024-09-09T17:39:10.849016
+7,la Dreta de l'Eixample,Barcelona - Casa Vídua Marfà,2004-01-19T18:44:52,2023-02-15T10:36:02.608621
+72,Sant Martí de Provençals,El passatge d'Antoni Gassol,2021-01-19T13:50:06,2021-11-23T11:02:35.195522
+20,la Maternitat i Sant Ramon,Servei d'Esports de la Universitat de Barcelona,1990-03-05T00:00:00,2022-09-17T04:52:26.597572
+11,el Poble-sec,Refugi antiaeri 292 carrer Piquer del Poble-sec,2023-10-06T13:33:11.363429,2024-08-07T09:44:20.652002
+36,la Font d'en Fargues,Masia Can Fargas,1994-11-02T00:00:00,2021-09-09T02:13:56.559375
+1,el Raval,Centre de Cultura Contemporània de Barcelona,1994-02-11T00:00:00,2024-11-19T17:22:11.114860
+11,el Poble-sec,Pavelló Mies van der Rohe,1996-08-30T00:00:00,2024-10-29T08:37:11.776060
+9,la Nova Esquerra de l'Eixample,Monument a Josep Tarradellas,1999-01-15T00:00:00,2023-01-20T14:15:18.103468
+31,la Vila de Gràcia,La plaça del Poble Romaní,2017-02-08T09:28:17,2022-10-11T10:48:53.860323
+28,Vallcarca i els Penitents,Villa Esperanza,2017-02-08T12:18:56,2021-09-09T02:16:22.657531
+12,la Marina del Prat Vermell,Colònia Bausili,2017-02-08T12:30:30,2021-09-09T02:16:20.960475
+23,Sarrià,Carrer Avió Plus Ultra,2017-02-08T13:48:19,2021-09-09T02:16:24.060959
+8,l'Antiga Esquerra de l'Eixample,Casa dels Ossos,1996-03-07T00:00:00,2023-01-20T14:05:30.675858
+68,el Poblenou,Centre Cívic Can Felipa,1991-04-19T00:00:00,2024-11-12T12:50:18.389874
+2,el Barri Gòtic,Casa Martí - Els Quatre Gats,1988-09-14T00:00:00,2023-01-20T14:15:31.198862
+11,el Poble-sec,Parc de Montjuïc,2014-10-01T16:02:48,2024-11-21T15:01:42.757105
+3,la Barceloneta,Palau de Mar,1993-05-04T00:00:00,2021-07-19T22:05:51.218181
+11,el Poble-sec,Torre Montjuïc Calatrava,1992-03-25T00:00:00,2023-02-28T14:01:21.280297
+2,el Barri Gòtic,Reial Club Nàutic de Barcelona,1986-07-10T00:00:00,2024-01-31T09:48:27.283408
+3,la Barceloneta,Platja de la Barceloneta,1989-10-02T00:00:00,2023-09-13T11:57:53.566297
+11,el Poble-sec,Mercat de les Flors Centre de les Arts de Moviment,1986-01-16T00:00:00,2024-11-04T14:35:08.706850
+48,la Guineueta,Mercat Guineueta,1985-01-17T00:00:00,2024-06-12T08:44:33.520064
+4,"Sant Pere, Santa Caterina i la Ribera",Monument Arc de Triomf de Barcelona,1984-12-07T00:00:00,2021-09-09T02:13:43.575730
+25,Sant Gervasi - la Bonanova,Torre Bellesguard  Gaudí - Casa Figueres,1984-12-07T00:00:00,2023-01-18T14:24:59.860011
+2,el Barri Gòtic,Ateneu Barcelonès,1987-05-19T00:00:00,2024-06-13T10:30:36.483054
+18,Sants,Estació Barcelona-Sants de RENFE,1990-03-22T00:00:00,2024-06-13T11:39:40.083755
+21,Pedralbes,Quarter Bruc,1988-01-05T00:00:00,2022-09-17T04:09:05.443819
+7,la Dreta de l'Eixample,Museu del Perfum - Fundació Planas Giralt,1984-05-30T00:00:00,2023-02-01T16:52:27.420625
+45,Porta,Cementiri Sant Andreu,1985-03-28T00:00:00,2023-10-24T09:06:13.700737
+2,el Barri Gòtic,Col·legi d'Arquitectes de Catalunya,1984-05-30T00:00:00,2024-01-11T11:08:57.537327
+2,el Barri Gòtic,Federació de Comerciants de Barna Centre,1992-05-15T00:00:00,2024-04-08T14:12:55.088467
+60,Sant Andreu,Farmàcia Clapés Viñas,1996-09-18T00:00:00,2024-10-14T17:41:58.872533
+71,Provençals del Poblenou,Universitat Oberta de Catalunya,1994-10-06T00:00:00,2024-05-23T12:26:38.855794
+7,la Dreta de l'Eixample,Casa Lleó Morera,1993-03-04T00:00:00,2023-01-20T12:58:16.364227
+11,el Poble-sec,Escola Mossèn Jacint Verdaguer,1985-05-10T00:00:00,2022-11-16T17:42:58.649730
+1,el Raval,Reials Drassanes de Barcelona,1995-06-02T00:00:00,2022-09-17T05:15:29.075484
+2,el Barri Gòtic,Cafeteria Restaurant Cafè de l'Òpera,1996-09-18T00:00:00,2023-10-03T10:02:53.627620
+4,"Sant Pere, Santa Caterina i la Ribera",Las Golondrinas - Sirenas SA,1996-09-17T00:00:00,2023-10-03T10:04:11.070695
+7,la Dreta de l'Eixample,Associació Rambla de Catalunya,1993-10-08T00:00:00,2024-04-08T13:12:39.738413
+31,la Vila de Gràcia,Font Pública,1995-05-08T00:00:00,2022-09-17T05:14:48.295769
+2,el Barri Gòtic,Centre Comercial Maremàgnum,1995-05-08T00:00:00,2022-09-17T05:14:59.531722
+11,el Poble-sec,Estadi Olímpic de Montjuïc Lluís Companys,1995-10-02T00:00:00,2024-09-19T18:37:43.367736
+66,el Parc i la Llacuna del Poblenou,Centre Comercial Westfield Glòries,1993-10-20T00:00:00,2023-02-15T12:39:01.521504
+60,Sant Andreu,Forn de Pa de Can Tur,1996-09-18T00:00:00,2023-10-03T10:39:46.060878
+3,la Barceloneta,Club Natació Barcelona,1984-05-30T00:00:00,2024-06-26T11:31:52.994445
+1,el Raval,Facultat de Comunicació i Relacions Internacionals Blanquerna - URL,1994-03-23T00:00:00,2024-11-19T17:23:08.117268
+25,Sant Gervasi - la Bonanova,Casa Muntadas,2001-01-17T00:00:00,2023-01-20T14:05:37.683856
+23,Sarrià,Parròquia de Sant Vicenç de Sarrià,1985-02-12T00:00:00,2022-09-17T03:59:12.537461
+23,Sarrià,Institut Químic de Sarrià - Campus Sarrià - IQS,1987-10-27T00:00:00,2023-12-01T09:52:12.014305
+35,el Guinardó,Hospital de la Santa Creu i Sant Pau,1988-03-18T00:00:00,2024-10-29T09:15:47.158030
+4,"Sant Pere, Santa Caterina i la Ribera",Museu de la Xocolata,2000-10-02T00:00:00,2024-11-15T14:46:02.320960
+23,Sarrià,Residència Militar d'Estudiants Mateo Calabro,1994-06-15T00:00:00,2023-11-29T15:03:07.979933
+25,Sant Gervasi - la Bonanova,Facultat de Psicologia i Ciències de l'Educació i de l'Esport Blanquerna - URL,1993-03-09T00:00:00,2024-11-19T17:25:11.284104
+8,l'Antiga Esquerra de l'Eixample,Casa Company,2001-01-11T00:00:00,2023-01-20T14:05:37.762910
+32,el Camp d'en Grassot i Gràcia Nova,Sant Joan de Dalt,2015-06-02T15:35:46,2021-09-09T02:45:46.481500
+7,la Dreta de l'Eixample,Colmado Murria,1996-09-18T00:00:00,2023-10-03T10:18:56.018590
+62,el Congrés i els Indians,Bar musical La Torre Rosa,1996-09-18T00:00:00,2023-10-03T10:44:08.145579
+5,el Fort Pienc,Teatre Nacional de Catalunya,1997-11-10T00:00:00,2023-02-27T17:43:17.416460
+46,el Turó de la Peira,Centre Cívic Can Basté,1995-05-04T00:00:00,2024-11-15T08:15:20.945069
+19,les Corts,El camp de la Creu,2017-02-08T15:24:53,2021-09-09T02:16:27.255736
+67,la Vila Olímpica del Poblenou,Centre Municipal de Vela,1992-11-16T00:00:00,2023-07-07T08:57:48.350607
+60,Sant Andreu,Ateneu  Sant Andreu,1992-12-09T00:00:00,2021-10-04T17:41:29.127866
+23,Sarrià,Portal Casa Miralles,1995-04-19T00:00:00,2023-01-20T14:15:21.014133
+31,la Vila de Gràcia,Escola Josep Maria Jujol,1986-11-27T00:00:00,2022-09-17T04:52:41.067870
+11,el Poble-sec,Museu Nacional d'Art de Catalunya,1994-11-16T00:00:00,2024-11-15T13:47:38.569379
+31,la Vila de Gràcia,Casa Francesc Cama,2017-02-06T14:04:35,2022-09-17T08:50:45.444383
+31,la Vila de Gràcia,Casa Madurell,2017-02-07T09:45:43,2022-09-17T08:50:49.738690
+31,la Vila de Gràcia,Casa Vilabella,2017-02-07T11:18:02,2022-09-17T08:50:57.145086
+31,la Vila de Gràcia,Casa Girona i Cuyàs,2017-02-07T09:24:15,2021-09-09T02:16:01.516325
+31,la Vila de Gràcia,Casa Joan Matas,2017-02-07T09:33:44,2022-09-17T08:50:46.009162
+31,la Vila de Gràcia,Casa José de Ugarte,2017-02-07T09:38:48,2021-09-09T02:15:57.840603
+31,la Vila de Gràcia,Casa Víctor Conill,2017-02-07T11:09:33,2022-09-17T08:50:55.499683
+31,la Vila de Gràcia,Cases Leandre Vidal,2017-02-07T12:48:31,2022-09-17T08:50:59.632714
+35,el Guinardó,Centre Cívic Guinardó,1984-05-30T00:00:00,2024-11-13T09:21:27.951972
+23,Sarrià,EINA - Escola de Disseny i Art,1996-09-18T00:00:00,2024-05-27T10:33:52.530346
+7,la Dreta de l'Eixample,Casa Llopis Bofill,1993-01-21T00:00:00,2022-09-17T05:00:09.680048
+10,Sant Antoni,Ronda de Sant Antoni,2022-09-01T14:40:59.771376,2022-09-25T14:14:11.879934
+2,el Barri Gòtic,Pla de l'Os - La Rambla,2023-09-21T10:05:06.593631,2023-09-21T13:16:46.524829
+31,la Vila de Gràcia,Hotel Casa Fuster - HB-004219,2004-04-30T14:26:49,2022-09-17T06:17:15.178593
+25,Sant Gervasi - la Bonanova,Escola Superior de Disseny i d'Art Llotja,1987-10-26T00:00:00,2024-01-09T12:38:53.898869
+11,el Poble-sec,Parròquia de Santa Madrona,1984-05-30T00:00:00,2022-09-17T03:44:25.063622
+22,"Vallvidrera, el Tibidabo i les Planes",Parròquia rural de Santa Maria de Vallvidrera,2024-03-26T18:52:18.404290,2024-03-26T19:04:53.478734
+58,Baró de Viver,Mural de la Memòria de Baró de Viver,2017-11-06T10:36:29,2021-09-09T02:17:24.060087
+1,el Raval,Antic Dispensari Antituberculós,2002-06-12T12:29:51,2022-09-17T05:56:40.804648
+69,Diagonal Mar i el Front Marítim del Poblenou,Torre de les Aigües del Besòs,2003-10-08T14:23:24,2023-05-18T13:50:30.418744
+60,Sant Andreu,Bar Colòmbia,2017-02-08T14:43:15,2022-09-17T08:51:54.099210
+35,el Guinardó,Centre de Reunions i Convencions UAB Casa Convalescència,2003-07-11T12:21:24,2021-09-09T02:14:03.467095
+60,Sant Andreu,Ca l'Estruc- Convent de les Germanes de l'Assumpció,2017-02-09T09:33:36,2021-09-09T02:16:32.914327
+60,Sant Andreu,Botiga Casa Rusca,2017-02-09T11:06:04,2021-09-09T02:16:34.306744
+19,les Corts,Masia Can Rosés,2017-05-03T14:24:21,2022-09-17T08:58:19.739553
+3,la Barceloneta,Parc de Recerca Biomèdica de Barcelona,2004-01-16T12:24:00,2024-11-19T17:36:05.629859
+2,el Barri Gòtic,Antiga Foneria de Canons,2017-01-26T10:07:12,2024-05-06T10:20:50.260015
+1,el Raval,Carrer de la Riereta,2017-01-26T12:05:31,2021-09-09T02:15:39.348482
+4,"Sant Pere, Santa Caterina i la Ribera",Casa -Fàbrica Vermell-Martí,2017-01-26T13:15:42,2021-09-09T02:15:43.007179
+1,el Raval,El Vapor  - Fàbrica Bonaplata,2017-01-26T14:18:31,2021-09-09T02:15:43.219517
+48,la Guineueta,Església Antic Institut Mental,2017-01-27T12:24:35,2022-09-17T08:50:03.264842
+1,el Raval,Hotel Peninsular - HB-003154,1996-09-18T00:00:00,2023-10-03T10:03:26.620900
+1,el Raval,Bar Musical London Bar,1996-09-18T00:00:00,2023-10-03T10:03:21.599733
+20,la Maternitat i Sant Ramon,Parc Científic de Barcelona,1998-06-30T00:00:00,2024-11-19T17:35:02.783033
+60,Sant Andreu,Casal de Barri Can Portabella,2005-09-30T11:52:52,2024-06-26T09:12:35.911780
+60,Sant Andreu,Farmàcia Franquesa Grau,1996-09-18T00:00:00,2024-10-08T08:45:50.551979
+27,el Putxet i el Farró,Jardins de Portolà,2009-06-05T11:59:38,2024-11-21T15:01:43.247445
+24,les Tres Torres,Biblioteca Clarà,1999-11-25T00:00:00,2024-11-21T10:21:13.918946
+62,el Congrés i els Indians,Jardins de Massana,1999-04-16T00:00:00,2024-11-21T15:01:46.250359
+13,la Marina de Port,Jardins dels Drets Humans,2004-03-15T12:30:24,2024-11-21T15:01:44.160508
+25,Sant Gervasi - la Bonanova,Jardins de la Tamarita,1994-06-14T00:00:00,2024-11-21T15:01:49.503263
+33,el Baix Guinardó,Jardins del  Baix Guinardó,1995-04-19T00:00:00,2024-11-21T15:01:49.053416
+20,la Maternitat i Sant Ramon,Parc de Can Rigal,2013-06-14T13:08:05,2024-11-21T15:01:43.083451
+48,la Guineueta,Parc de la Guineueta,1985-04-16T00:00:00,2024-11-21T15:01:51.679162
+33,el Baix Guinardó,Parc de les Aigües,1985-04-01T00:00:00,2024-11-21T15:01:51.753556
+42,la Clota,Parc de les Rieres d'Horta,2013-07-29T17:51:59,2024-11-21T15:01:42.999367
+65,el Clot,Parc del Clot,1986-11-10T00:00:00,2024-11-21T15:01:50.998263
+59,el Bon Pastor,Parc de la Maquinista per les treballadores i els treballadors de la Maquinista,2000-06-05T00:00:00,2024-11-21T15:01:53.377442
+70,el Besòs i el Maresme,El Parc del Fòrum,2005-06-13T14:48:17,2024-11-21T15:01:43.996944
+11,el Poble-sec,Parc de la Primavera,2007-09-26T11:08:35,2024-11-21T15:01:43.620974
+11,el Poble-sec,Jardins de Mossèn Costa i Llobera,2007-04-17T12:52:45,2024-11-21T15:01:43.674994
+60,Sant Andreu,Jardins Plaça de Can Fabra,2014-10-01T16:38:21,2024-11-21T15:01:42.603506
+37,el Carmel,Parc Carmel,1997-07-28T00:00:00,2024-11-21T15:01:47.768333
+48,la Guineueta,Parc Central de Nou Barris,1999-04-19T00:00:00,2024-11-21T15:01:46.034006
+60,Sant Andreu,Parc de la Trinitat,1993-07-07T00:00:00,2024-11-21T15:01:49.660059
+68,el Poblenou,Parc del Poblenou,1996-04-22T00:00:00,2024-11-21T15:01:48.181786
+11,el Poble-sec,Jardí Botànic de Barcelona,1999-04-16T00:00:00,2024-11-21T15:01:46.132503
+21,Pedralbes,Jardins del Palau de Pedralbes,1990-03-12T00:00:00,2024-11-21T15:01:52.766615
+3,la Barceloneta,Parc de la Barceloneta,1996-09-25T00:00:00,2024-11-21T15:01:47.968117
+22,"Vallvidrera, el Tibidabo i les Planes",Parc d'Atraccions del Tibidabo,1996-09-18T00:00:00,2024-11-21T15:01:52.889286
+31,la Vila de Gràcia,Jardins Mestre Balcells,1999-07-07T00:00:00,2024-11-21T15:01:45.690693
+18,Sants,Parc de l'Espanya Industrial,1986-07-09T00:00:00,2024-11-21T15:01:51.110703
+31,la Vila de Gràcia,Jardinets de Salvador Espriu,1999-05-07T00:00:00,2024-11-21T15:01:45.919929
+25,Sant Gervasi - la Bonanova,Parc de la Font del Racó,1985-04-01T00:00:00,2024-11-21T15:01:52.240460
+2,el Barri Gòtic,L'Aquàrium de Barcelona - Aspro Parks,1996-09-18T00:00:00,2024-11-21T15:01:52.833129
+11,el Poble-sec,Parc del Mirador del Poble-sec,1995-05-05T00:00:00,2024-11-21T15:01:48.936750
+2,el Barri Gòtic,Elisava Escola Universitaria de Disseny i Enginyeria de Barcelona,1993-02-17T00:00:00,2024-11-21T08:22:51.449904
+61,la Sagrera,Parc de la Pegaso,1986-11-10T00:00:00,2024-11-21T15:01:51.057035
+11,el Poble-sec,Jardins de les Tres Xemeneies,1995-05-05T00:00:00,2024-11-21T15:01:48.878052
+14,la Font de la Guatlla,Parc de la Font Florida,1995-05-05T00:00:00,2024-11-21T15:01:48.773601
+19,les Corts,Biblioteca Montserrat Abelló,1984-05-30T00:00:00,2024-11-21T10:22:30.806294
+7,la Dreta de l'Eixample,Jardins del Palau Robert,1996-01-17T00:00:00,2024-11-21T15:01:48.282607
+35,el Guinardó,Parc del Guinardó,1985-04-01T00:00:00,2024-11-21T15:01:51.811437
+3,la Barceloneta,Biblioteca Barceloneta -  La Fraternitat,2001-05-18T00:00:00,2024-11-21T10:15:29.890508
+30,la Salut,Park Güell,1987-10-28T00:00:00,2024-11-21T15:01:51.950595
+21,Pedralbes,Parc de Cervantes,1985-02-12T00:00:00,2024-11-21T15:01:52.604046
+66,el Parc i la Llacuna del Poblenou,Disseny Hub Barcelona,2008-12-01T14:02:22,2024-11-21T10:14:32.925141
+40,Montbau,Parc del Laberint d'Horta,1985-04-01T00:00:00,2024-11-21T15:01:51.870329
+23,Sarrià,Jardins de Vil·la Amèlia,1985-04-01T00:00:00,2024-11-21T15:01:52.365725
+46,el Turó de la Peira,Parc del Turó de la Peira,1985-04-01T00:00:00,2024-11-21T15:01:51.616940
+11,el Poble-sec,Jardins del Teatre Grec,1999-11-25T00:00:00,2024-11-21T15:01:45.046350
+23,Sarrià,Jardins de Can Sentmenat,1995-03-22T00:00:00,2024-11-21T15:01:49.109659
+40,Montbau,Jardins,1992-05-07T00:00:00,2024-11-21T15:01:50.008272
+8,l'Antiga Esquerra de l'Eixample,Jardins,1995-03-10T00:00:00,2024-11-21T15:01:49.283781
+26,Sant Gervasi - Galvany,Parc de Monterols,1985-04-01T00:00:00,2024-11-21T15:01:52.107852
+45,Porta,Parc Esportiu de Can Dragó,1998-10-21T00:00:00,2024-11-21T15:01:46.967129
+11,el Poble-sec,Jardins del Mirador de l'Alcalde,2001-12-04T00:00:00,2024-11-21T15:01:53.014887
+69,Diagonal Mar i el Front Marítim del Poblenou,Parc de Diagonal Mar,1999-03-26T00:00:00,2024-11-21T15:01:46.584932
+29,el Coll,Parc de la Creueta del Coll,1987-05-05T00:00:00,2024-11-21T15:01:50.911098
+13,la Marina de Port,Parc de Can Sabaté,1989-04-12T00:00:00,2024-11-21T15:01:50.590331
+27,el Putxet i el Farró,Jardins del Turó del Putxet,1985-04-01T00:00:00,2024-11-21T15:01:52.171944
+9,la Nova Esquerra de l'Eixample,Parc de Joan Miró,1985-05-07T00:00:00,2024-11-21T15:01:51.490683
+68,el Poblenou,Eix Comercial del Poblenou,2011-04-26T13:29:58,2024-11-21T14:28:05.547381
+11,el Poble-sec,Jardins Mossèn Cinto Verdaguer,1992-03-30T00:00:00,2024-11-21T15:01:50.131024
+26,Sant Gervasi - Galvany,Turó Park - Parc del Poeta Eduard Marquina,1985-04-01T00:00:00,2024-11-21T15:01:52.039042
+72,Sant Martí de Provençals,Parc de Sant Martí,1989-04-12T00:00:00,2024-11-21T15:01:50.531878
+11,el Poble-sec,Jardins de Joan Maragall - Palauet Albéniz,1992-06-02T00:00:00,2024-11-21T15:01:49.884004
+22,"Vallvidrera, el Tibidabo i les Planes",Parc Metropolità Collserola,1992-03-03T00:00:00,2024-11-21T15:01:50.200971
+19,les Corts,Jardins de Magalí,1985-04-23T00:00:00,2024-11-21T15:01:51.213488
+11,el Poble-sec,Jardins Laribal,1999-11-25T00:00:00,2024-11-21T15:01:44.982885
+11,el Poble-sec,Jardins de Joan Brossa,2003-03-21T11:14:53,2024-11-21T15:01:44.537846
+23,Sarrià,Jardins de Vil·la Cecília,1998-08-13T00:00:00,2024-11-21T15:01:47.224775
+3,la Barceloneta,Parc de les Cascades,1998-08-11T00:00:00,2024-11-21T15:01:47.410179
+11,el Poble-sec,Jardins de Ramon Margalef i López,1985-04-01T00:00:00,2024-11-21T15:01:52.438833
+23,Sarrià,Parc del Castell de l'Oreneta,1985-04-01T00:00:00,2024-11-21T15:01:52.314076
+4,"Sant Pere, Santa Caterina i la Ribera",Parc de la Ciutadella,1988-07-13T00:00:00,2024-11-21T15:01:52.531108
