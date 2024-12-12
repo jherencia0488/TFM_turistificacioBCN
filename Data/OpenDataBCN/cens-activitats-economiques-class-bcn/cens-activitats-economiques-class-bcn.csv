@@ -1,0 +1,97 @@
+Codi_Sector_Activitat,Nom_Activitat,Comentari_Activitat,Codi_Grup_Activitat,Nom_Sector_Activitat,Codi_Principal_Activitat,Codi_Activitat_2019,Nom_Grup_Activitat,Nom_Principal_Activitat,_id,Codi_Activitat_2016
+1,Resta alimentació,,1,Comerç al detall,1,1000000,Quotidià alimentari,Actiu,1,1000
+1,Plats preparats (no degustació),,1,Comerç al detall,1,1000010,Quotidià alimentari,Actiu,2,100001
+1,Autoservei / Supermercat,,1,Comerç al detall,1,1000020,Quotidià alimentari,Actiu,3,100002
+1,Altres,"Inclou fruits secs, congelats, llaminadures, xurreries, ...",1,Comerç al detall,1,1000030,Quotidià alimentari,Actiu,4,100003
+1,Begudes,,1,Comerç al detall,1,1001000,Quotidià alimentari,Actiu,5,1001
+1,Carn i Porc,,1,Comerç al detall,1,1002000,Quotidià alimentari,Actiu,6,1002
+1,Fruites i verdures,,1,Comerç al detall,1,1003000,Quotidià alimentari,Actiu,7,1003
+1,Ous i aus,,1,Comerç al detall,1,1005000,Quotidià alimentari,Actiu,8,1005
+1,"Pa, pastisseria i làctics","inclou forns, venda xurros , venda xocolata, venda gelats dolços , llaminadures",1,Comerç al detall,1,1006000,Quotidià alimentari,Actiu,9,1006
+1,Peix i marisc,,1,Comerç al detall,1,1007000,Quotidià alimentari,Actiu,10,1007
+1,Tabac i articles fumadors,,2,Comerç al detall,1,1008000,Quotidià no alimentari,Actiu,11,1008
+1,Combustibles i carburants,,2,Comerç al detall,1,2000000,Quotidià no alimentari,Actiu,12,2000
+1,Drogueria i perfumeria,,2,Comerç al detall,1,2001000,Quotidià no alimentari,Actiu,13,2001
+1,Farmàcies PARAFARMÀCIA,,2,Comerç al detall,1,2002000,Quotidià no alimentari,Actiu,14,2002
+1,"Herbolaris, dietètica i NUTRICIÓ",,2,Comerç al detall,1,2003000,Quotidià no alimentari,Actiu,15,2003
+1,Aparells domèstics,,3,Comerç al detall,1,3000000,Parament de la llar,Actiu,16,3000
+1,Floristeries,,3,Comerç al detall,1,3001000,Parament de la llar,Actiu,17,3001
+1,Material equipament llar,"Revestiments parets / terra, aparells il·luminació, material elèctric, parament llar, portes, finestres, bricolage, materials construcció, lavabos...",3,Comerç al detall,1,3002000,Parament de la llar,Actiu,18,3002
+1,Mobles i articles fusta i metall,"Mobles, mobles d'oficina, mobles de cuina",3,Comerç al detall,1,3003000,Parament de la llar,Actiu,19,3003
+1,Parament ferreteria,,3,Comerç al detall,1,3004000,Parament de la llar,Actiu,20,3004
+1,Calçat i pell,,4,Comerç al detall,1,4000000,Equipament personal,Actiu,21,4000
+1,"Joieria, rellotgeria i bijuteria",,4,Comerç al detall,1,4001000,Equipament personal,Actiu,22,4001
+1,Merceria,Merceria i tèxtils per a la llar,4,Comerç al detall,1,4002000,Equipament personal,Actiu,23,4002
+1,Vestir,,4,Comerç al detall,1,4003000,Equipament personal,Actiu,24,4003
+1,Informàtica,"ordenadors i software, mòbils",5,Comerç al detall,1,5000000,Oci i cultura,Actiu,25,5000
+1,Joguines i esports,,5,Comerç al detall,1,5001000,Oci i cultura,Actiu,26,5001
+1,"Llibres, diaris i revistes",,5,Comerç al detall,1,5003000,Oci i cultura,Actiu,27,5003
+1,Música,,5,Comerç al detall,1,5004000,Oci i cultura,Actiu,28,5004
+1,Vehicles,Vehicles i accessoris,6,Comerç al detall,1,6000000,Automoció,Actiu,29,6000
+1,Grans magatzems i hipermercats,Inclou Corte Inglés,7,Comerç al detall,1,7000000,Altres,Actiu,30,7000
+1,Maquinària,,7,Comerç al detall,1,7001000,Altres,Actiu,31,7001
+1,"Segells, monedes i antiguitats",,3,Comerç al detall,1,3005000,Parament de la llar,Actiu,32,3005
+1,Òptiques i fotografia,,7,Comerç al detall,1,7003000,Altres,Actiu,33,7003
+1,Òptiques ,,7,Comerç al detall,1,7003010,Altres,Actiu,34,700301
+1,Fotografia,,7,Comerç al detall,1,7003020,Altres,Actiu,35,700302
+1,Souvenirs i basars,,7,Comerç al detall,1,7004000,Altres,Actiu,36,7004
+1,Souvenirs,Productes enfocats a turisme,7,Comerç al detall,1,7004010,Altres,Actiu,37,700401
+1,Basars,Tota la resta,7,Comerç al detall,1,7004020,Altres,Actiu,38,700402
+1,Altres,,7,Comerç al detall /Engròs,1,7005000,Altres,Actiu,39,7005
+2,Activitats immobiliàries,"Compravendes, lloguers, agents de la propietat",8,Serveis,1,8000000,Activitats immobiliàries,Actiu,40,8000
+2,Ensenyament,mirar annex,9,Serveis,1,9000000,Ensenyament,Actiu,41,9000
+2,Finances i assegurances,inclou transferències de diners,11,Serveis,1,1100000,Finances i assegurances,Actiu,42,11000
+2,"Manteniment, neteja i similars","Activitats jardineria, neteja, sanejament...",12,Serveis,1,1200000,"Manteniment, neteja i producció",Actiu,43,12000
+2,Reparacions (Electrodomèstics i automòbils),Inclou reparacions vehicles de mobilitat personal,13,Serveis,1,1300000,Reparacions (Electrodomèstics i automòbils),Actiu,44,13000
+2,serveis de menjar i begudes,,14,Serveis,1,1400000,"Restaurants, bars i hotels (Inclòs hostals, pensions i fondes)",Actiu,45,14000
+2,Equipaments culturals i recreatius,mirar annex,10,Serveis,1,1111111,Equipaments culturals i recreatius,Actiu,46,10000
+4,Ús Habitatge,,0,Ús Habitatge,0,44,Grup no definit,Sense activitat Econòmica,47,*0000044
+5,En reforma,canvi de negoci / cal classificar-lo si anuncia l'activitat,0,En reforma,0,50,Grup no definit,Sense activitat Econòmica,48,*0000050
+4,Sense informació - Havia tingut activitat (rètol),,0,Sense informació - Havia tingut activitat (rètol),0,42,Grup no definit,Sense activitat Econòmica,49,*0000042
+4,Sense informació,,0,Sense informació,0,41,Grup no definit,Sense activitat Econòmica,50,*0000041
+3,Locals buits en venda i lloguer,,0,Locals buits en venda i lloguer,0,30,Grup no definit,Sense activitat Econòmica,51,*0000030
+2,Locals buits en lloguer,,0,Locals buits en lloguer,0,20,Grup no definit,Sense activitat Econòmica,52,*0000020
+1,Locals buits en venda,,0,Locals buits en venda,0,10,Grup no definit,Sense activitat Econòmica,53,*0000010
+2,Bars   / CIBERCAFÈ,"Preval la classificació del 2016, en segona instància rètol, diferent de restaurant és bar",14,Serveis,1,1400001,"Restaurants, bars i hotels (Inclòs hostals, pensions i fondes)",Actiu,54,1400001
+2,Restaurants,"Preval la classificació del 2016, en segona instància rètol, si posa restaurant, és restaurant",14,Serveis,1,1400002,"Restaurants, bars i hotels (Inclòs hostals, pensions i fondes)",Actiu,55,1400002
+2,Serveis de menjar take away MENJAR RÀPID,,14,Serveis,1,1400003,"Restaurants, bars i hotels (Inclòs hostals, pensions i fondes)",Actiu,56,1400003
+2,Bars especials amb actuació / Bars musicals / Discoteques /PUB,,14,Serveis,1,1400004,"Restaurants, bars i hotels (Inclòs hostals, pensions i fondes)",Actiu,57,1400004
+2,Xocolateries / Geladeries / Degustació,,14,Serveis,1,1400005,"Restaurants, bars i hotels (Inclòs hostals, pensions i fondes)",Actiu,58,1400005
+2,Altres ( per exemple VENDING),,14,Serveis,1,1400006,"Restaurants, bars i hotels (Inclòs hostals, pensions i fondes)",Actiu,59,1400006
+2,serveis d'allotjament,,14,Serveis,1,1400100,"Restaurants, bars i hotels (Inclòs hostals, pensions i fondes)",Actiu,60,14001
+2,altres,,14,Serveis,1,1400200,"Restaurants, bars i hotels (Inclòs hostals, pensions i fondes)",Actiu,61,14002
+2,Sanitat i assistència,mirar annex,15,Serveis,1,1500000,Sanitat i assistència,Actiu,62,15000
+2,Pàrquings i garatges,només com activitat econòmica (no exclusiu veïns),16,Serveis,1,1600000,Altres,Actiu,63,16000
+2,Activitats de transport i emmagatzematge,,16,Serveis,1,1600100,Altres,Actiu,64,16001
+2,Activitats de transport ,"inclou lloguers de tot tipus de vehicle de mobilitat, transports, mudances, missatgers) activitats missatgeria, postals i correus",16,Serveis,1,1600101,Altres,Actiu,65,1600101
+2,Activitats emmagatzematge,"Inclou lockers, magatzems de distribució, magatzems, trasters",16,Serveis,1,1600102,Altres,Actiu,66,1600102
+2,Serveis de telecomunicacions,"Act. Cinematogràfiques, vídeo, tv, gravació so, edició musical, programes informàtics, ",16,Serveis,1,1600200,Altres,Actiu,67,16002
+2,Locutoris,,16,Serveis,1,1600300,Altres,Actiu,68,16003
+5,Activitat no definida,Estava en la base del cens 2016,0,En reforma,0,555,Grup no definit,Sense activitat Econòmica,94,555
+2,Serveis a les empreses i oficines,"inclou coworking, assessories, act jurídiques…quan hi hagi diferents activitats juntes",16,Serveis,1,1600400,Altres,Actiu,69,16004
+2,Agències de viatge,,16,Serveis,1,1600500,Altres,Actiu,70,16005
+2,Perruqueries,,16,Serveis,1,1600600,Altres,Actiu,71,16006
+2,Centres d'estètica,"inclou balnearis urbans, serveis estètica, depilació, ungles, bronzejat,…",16,Serveis,1,1600700,Altres,Actiu,72,16007
+2,Tintoreries,inclou bugaderies,16,Serveis,1,1600800,Altres,Actiu,73,16008
+2,Veterinaris / Mascotes,no comerç al detall només serveis,16,Serveis,1,1600900,Altres,Actiu,74,16009
+2,Arranjaments,"inclou roba, calçat, claus, ordinadors, bicicletes, efectes personals…",16,Serveis,1,1611000,Altres,Actiu,75,16110
+2,Serveis Socials,mirar annex,16,Serveis,1,1611100,Altres,Actiu,76,16111
+2,Altres,per ex. ESCAPE ROOM,16,Serveis,1,1611200,Altres,Actiu,77,16112
+3,Altres,,17,Altres,1,1700000,Altres,Actiu,78,17000
+3,Administració,mirar annex,17,Altres,1,1700100,Altres,Actiu,79,17001
+3,Associacions,"mirar annex, també canàbiques",17,Altres,1,1700200,Altres,Actiu,80,17002
+3,Esports,mirar annex,17,Altres,1,1700300,Altres,Actiu,81,17003
+3,Gimnàs /fitnes,,17,Altres,1,1700310,Altres,Actiu,82,170031
+3,Altres equipaments esportius,,17,Altres,1,1700320,Altres,Actiu,83,170032
+3,Equipaments religiosos,,17,Altres,1,1700400,Altres,Actiu,84,17004
+3,Activitats industrials,Indústria manufacturera/tallers artesanals,17,Altres,1,1700500,Altres,Actiu,85,17005
+3,Activitats de la construcció,"reformes cuines, banys…",17,Altres,1,1700600,Altres,Actiu,86,17006
+3,Arts gràfiques,,17,Altres,1,1700700,Altres,Actiu,87,17007
+3,Fabricació tèxtil,"confecció cortines, roba…",17,Altres,1,1700800,Altres,Actiu,88,17008
+4,Activitat no definida,Estava en la base del cens 2016,0,Sense informació,2,444,Grup no definit,Sense informació,89,444
+2,Activitat no definida,Estava en la base del cens 2016,0,Locals buits en lloguer,0,222,Grup no definit,Sense activitat Econòmica,90,222
+1,"Segells, monedes i antiguitats",Estava en la base del cens 2016,7,Comerç al detall,1,7002000,Altres,Actiu,91,7002
+1,Activitat no definida,Estava en la base del cens 2016,0,Locals buits en venda,0,111,Grup no definit,Sense activitat Econòmica,92,111
+4,ús particular/veïnal,inclou local usat com a parquing privat (no gual),0,ús particular/veïnal,0,43,Grup no definit,Sense activitat Econòmica,93,*0000043
+3,Activitat no definida,Estava en la base del cens 2016,0,Locals buits en venda i lloguer,0,333,Grup no definit,Sense activitat Econòmica,95,333
+0,No definida,,0,No definit,0,0,No definit,No definit,96,
