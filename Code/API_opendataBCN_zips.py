@@ -102,9 +102,9 @@ def delete_files_except_merged(directory):
             except OSError as e:
                 print(f"Error deleting {filename}: {e}")
 
-# You can change the URL if needed
+# Example of us. You can change the URL if needed
 url = "https://opendata-ajuntament.barcelona.cat/data/es/dataset/xarxasoroll-equipsmonitor-dades"
 download_zip_files(url)
 
-# Delete non combined csv files
+# Example of use, you can change the URL if needed. Delete non combined csv files
 delete_files_except_mergec("xarxasoroll-equipsmonitor-dades")
