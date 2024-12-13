@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 
+#Create a list with the name of the csv files in the selected folder that contains any nulls values, and print them on screen
 datasets_nas = []
 os.path.isdir("../Data_cleaning/selectedVars")
 for name in os.listdir("../Data_cleaning/selectedVars"):
