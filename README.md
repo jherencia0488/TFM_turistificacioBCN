@@ -10,12 +10,13 @@ El repositori s'estructura en tres directoris:
 Aquest directori consta dels següents arxius:
 1. API_opendataBCN.py: script per descarregar automàticament les dades de la web OpenDataBCN d'acord amb les estadístiques que ajustem als paràmetres
 2. API_opendataBCN_zips.py: igual que l'anterior, però per datasets que es troben en format comprimit
-3. cleaningVars.py: script mitjançant el qual es redueixen les dimensions d'un dataset a escollir
-4. mergeHUT.py: script que fusiona els diferents arxius csv originals de dades d'habitatges d'ús turístic en un únic arxiu csv
-5. searchingNulls.py: script que detecta els datasets d'un directori que contenen valors nuls
-6. aggregateVars.ipynb: notebook amb totes les operacions realitazades per obtenir el dataset agregat amb totes les fonts de dades
-7. cleaningNulls.ipynb: notebook amb les operacions realitzades per netejar els valors nuls
-8. prepareDatasetTableau.ipynb: notebook amb les operacions realitzades per donar format al dataset per importar a Tableau
+4. cleaningVars.py: script mitjançant el qual es redueixen les dimensions d'un dataset a escollir
+5. mergeHUT.py: script que fusiona els diferents arxius csv originals de dades d'habitatges d'ús turístic en un únic arxiu csv
+6. searchingNulls.py: script que detecta els datasets d'un directori que contenen valors nuls
+7. IndexTuristificacio.ipynb: notebook amb totes les operacions realitzades per obtenir l'Índex de turistificació
+8. aggregateVars.ipynb: notebook amb totes les operacions realitazades per obtenir el dataset agregat amb totes les fonts de dades
+9. cleaningNulls.ipynb: notebook amb les operacions realitzades per netejar els valors nuls
+10. prepareDatasetTableau.ipynb: notebook amb les operacions realitzades per donar format al dataset per importar a Tableau
 
 ## Data
 Aquest directori conté altres tres directoris amb els datasets originals descarregats de les webs
